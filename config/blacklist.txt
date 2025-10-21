@@ -32,3 +32,5 @@ zsntlqj.xicp.net
 p2.bdstatic.com
 ms.fxim.net
 kwimgs.com
+satellitepull.cnr
+cdn.iptv8k.top
