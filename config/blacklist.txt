@@ -24,7 +24,7 @@ iptv.luas.edu.cn
 [2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/
 [2409:8087:2001:20:2800:0:df6e:eb1d]:80
 [2409:8087:2001:20:2800:0:df6e:eb24]
-2409:8087:2001:20:2800:0:df6e:eb25]:80
+[2409:8087:2001:20:2800:0:df6e:eb25]:80
 stream1.freetv.fun
 chinamobile
 gaoma
