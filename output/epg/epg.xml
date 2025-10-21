@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251021174717 +0800">
+<tv date="20251021201129 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -11298,80 +11298,20 @@
 	<channel id="NewTV动作电影">
 		<display-name lang="zh">NewTV动作电影</display-name>
 	</channel>
-	<programme channel="NewTV动作电影" start="20251022000000 +0800" stop="20251022020000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="NewTV动作电影" start="20251022000300 +0800" stop="20251022003200 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme>
-	<programme channel="NewTV动作电影" start="20251022020000 +0800" stop="20251022040000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="NewTV动作电影" start="20251022003200 +0800" stop="20251022015300 +0800">
+		<title lang="zh">绝世战魂</title>
 	</programme>
-	<programme channel="NewTV动作电影" start="20251022060000 +0800" stop="20251022080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20251022080000 +0800" stop="20251022100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20251022100600 +0800" stop="20251022120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20251022120000 +0800" stop="20251022140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20251022140000 +0800" stop="20251022160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20251022160000 +0800" stop="20251022180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20251022180000 +0800" stop="20251022190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20251022190000 +0800" stop="20251022200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20251022200000 +0800" stop="20251022220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20251022220000 +0800" stop="20251022235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="NewTV动作电影" start="20251022015300 +0800" stop="20251022032400 +0800">
+		<title lang="zh">绝世低手之夺命玉玺</title>
 	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
-	<programme channel="NewTV惊悚悬疑" start="20251022000000 +0800" stop="20251022020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20251022020000 +0800" stop="20251022040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20251022060000 +0800" stop="20251022080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20251022080000 +0800" stop="20251022100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20251022100600 +0800" stop="20251022120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20251022120000 +0800" stop="20251022140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20251022140000 +0800" stop="20251022160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20251022160000 +0800" stop="20251022180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20251022180000 +0800" stop="20251022190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20251022190000 +0800" stop="20251022200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20251022200000 +0800" stop="20251022220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20251022220000 +0800" stop="20251022235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="NewTV惊悚悬疑" start="20251022011500 +0800" stop="20251022024500 +0800">
+		<title lang="zh">袁天罡之不死军团</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
