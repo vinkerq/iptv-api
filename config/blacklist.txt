@@ -28,11 +28,14 @@
     "chinamobile",
     "gaoma",
     "[2409:8087:2001:20:2800:0:df6e:eb27]"
-epg.pw
-skype.serv00.net
-iptv.yjxfz.com
-live-hls-web-ajb.getaj.net
-live.goodiptv.club
-hc73k3dhwo5gfkt.wcetv.com
-zw9999.cnstream.top
-zsntlqj.xicp.net
+    "epg.pw",
+"skype.serv00.net",
+"iptv.yjxfz.com",
+"live-hls-web-ajb.getaj.net",
+"live.goodiptv.club",
+"hc73k3dhwo5gfkt.wcetv.com",
+"zw9999.cnstream.top",
+"zsntlqj.xicp.net",
+"p2.bdstatic.com",
+"ms.fxim.net",
+"kwimgs.com"
