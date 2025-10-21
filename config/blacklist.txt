@@ -1,41 +1,42 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
-    "epg.pw/stream/",
-    "103.40.13.71:12390",
-    "[2409:8087:1a01:df::4077]/PLTV/",
-    "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8",
-    "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8",
-    "8.210.140.75:68",
-    "154.12.50.54",
-    "yinhe.live_hls.zte.com",
-    "8.137.59.151",
-    "[2409:8087:7000:20:1000::22]:6060",
-    "histar.zapi.us.kg",
-    "www.tfiplaytv.vip",
-    "dp.sxtv.top",
-    "111.230.30.193",
-    "148.135.93.213:81",
-    "live.goodiptv.club",
-    "iptv.luas.edu.cn",
-    "[2409:8087:2001:20:2800:0:df6e:eb22]:80",
-    "[2409:8087:2001:20:2800:0:df6e:eb23]:80",
-    "[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/",
-    "[2409:8087:2001:20:2800:0:df6e:eb1d]:80",
-    "[2409:8087:2001:20:2800:0:df6e:eb24]",
-    "2409:8087:2001:20:2800:0:df6e:eb25]:80",
-    "stream1.freetv.fun",
-    "chinamobile",
-    "gaoma",
-    "[2409:8087:2001:20:2800:0:df6e:eb27]"
-    "epg.pw",
-"skype.serv00.net",
-"iptv.yjxfz.com",
-"live-hls-web-ajb.getaj.net",
-"live.goodiptv.club",
-"hc73k3dhwo5gfkt.wcetv.com",
-"zw9999.cnstream.top",
-"zsntlqj.xicp.net",
-"p2.bdstatic.com",
-"ms.fxim.net",
-"kwimgs.com"
+
+epg.pw/stream/
+103.40.13.71:12390
+[2409:8087:1a01:df::4077]/PLTV/
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
+8.210.140.75:68
+154.12.50.54
+yinhe.live_hls.zte.com
+8.137.59.151
+[2409:8087:7000:20:1000::22]:6060
+histar.zapi.us.kg
+www.tfiplaytv.vip
+dp.sxtv.top
+111.230.30.193
+148.135.93.213:81
+live.goodiptv.club
+iptv.luas.edu.cn
+[2409:8087:2001:20:2800:0:df6e:eb22]:80
+[2409:8087:2001:20:2800:0:df6e:eb23]:80
+[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/
+[2409:8087:2001:20:2800:0:df6e:eb1d]:80
+[2409:8087:2001:20:2800:0:df6e:eb24]
+2409:8087:2001:20:2800:0:df6e:eb25]:80
+stream1.freetv.fun
+chinamobile
+gaoma
+[2409:8087:2001:20:2800:0:df6e:eb27]
+epg.pw
+skype.serv00.net
+iptv.yjxfz.com
+live-hls-web-ajb.getaj.net
+live.goodiptv.club
+hc73k3dhwo5gfkt.wcetv.com
+zw9999.cnstream.top
+zsntlqj.xicp.net
+p2.bdstatic.com
+ms.fxim.net
+kwimgs.com
