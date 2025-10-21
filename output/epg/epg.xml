@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251021042301 +0800">
+<tv date="20251021101000 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -12255,6 +12255,21 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251021101500 +0800" stop="20251021114200 +0800">
 		<title lang="zh">迷毒之天命圈</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251021114200 +0800" stop="20251021122700 +0800">
+		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251021122700 +0800" stop="20251021134800 +0800">
+		<title lang="zh">迷毒之东风破</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251021134800 +0800" stop="20251021142800 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251021142800 +0800" stop="20251021155700 +0800">
+		<title lang="zh">怪探司马洛之密室谍影</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251021155700 +0800" stop="20251021162600 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme>
 	<channel id="攀枝花新闻综合">
 		<display-name lang="zh">攀枝花新闻综合</display-name>
@@ -30015,6 +30030,24 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251021094400 +0800" stop="20251021102400 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251021102400 +0800" stop="20251021115100 +0800">
+		<title lang="zh">粉碎罪恶</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251021115100 +0800" stop="20251021122000 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251021122000 +0800" stop="20251021134400 +0800">
+		<title lang="zh">纵横千里之一发千钧</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251021134400 +0800" stop="20251021141900 +0800">
+		<title lang="zh">CRESIOENM钛健康餐具套组-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251021141900 +0800" stop="20251021155500 +0800">
+		<title lang="zh">欲火追击</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251021155500 +0800" stop="20251021164000 +0800">
+		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
