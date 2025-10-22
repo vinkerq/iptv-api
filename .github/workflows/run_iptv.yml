@@ -1,0 +1,42 @@
+name: Generate IPTV Sources
+
+on:
+  push:
+    branches:
+      - main       # 每次 push 到主分支触发
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 0 点自动运行一次
+
+jobs:
+  generate-iptv:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout 仓库
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. 设置 Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      # 3. 安装依赖
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # 4. 运行脚本
+      - name: Run generate_iptv_sources.py
+        run: python generate_iptv_sources.py
+
+      # 5. 提交生成的 IPTV 文件
+      - name: Commit and push IPTV files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add iptv_sources.txt iptv_sources.m3u
+          git commit -m "Update IPTV sources [skip ci]" || echo "No changes to commit"
+          git push
