@@ -3,6 +3,7 @@
 """
 generate_iptv_sources.py
 整合 IPTV 脚本：按节目分类、多源合并、IP运营商/地区备注、请求超时跳过
+支持同 IP 不同端口显示为不同源
 """
 
 import requests
@@ -19,7 +20,7 @@ OUTPUT_M3U8 = "iptv_sources.m3u"
 
 # IPTV 请求路径
 REQUEST_PATH = "/iptv/live/1000.json?key=txiptv"
-TIMEOUT = 15  # 请求超时秒数
+TIMEOUT = 10  # 请求超时秒数
 RETRY = 2     # 请求失败重试次数
 DELAY = 1     # 每次请求延迟秒数，避免被封
 
@@ -128,16 +129,18 @@ def read_ip_list(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip()]
 
-# -------------------获取 IP 信息（地区+运营商）-------------------
+# -------------------获取 IP 信息（中文城市+运营商）-------------------
 def get_ip_info(ip):
     try:
-        resp = requests.get(f"https://ipinfo.io/{ip}/json", timeout=5)
+        resp = requests.get(f"https://ip.taobao.com/outGetIpInfo?ip={ip}&accessKey=alibaba-inc", timeout=5)
         data = resp.json()
-        city = data.get("city","未知")
-        org = data.get("org","未知")
-        return f"{city},{org}"
+        if data.get("code") == 0 and data.get("data"):
+            city = data["data"].get("city", "未知")
+            isp = data["data"].get("isp", "未知")
+            return f"{city},{isp}"
     except:
-        return "未知,未知"
+        pass
+    return "未知,未知"
 
 # -------------------请求 IPTV JSON-------------------
 def fetch_json(ipport):
@@ -162,6 +165,7 @@ def parse_data(json_data, ipport, ip_info):
         url_path = item.get("url","")
         if url_path:
             full_url = f"http://{ipport}{url_path} ({ip_info})"
+            # 同名节目保留多个端口
             if name not in sources:
                 sources[name] = [full_url]
             else:
