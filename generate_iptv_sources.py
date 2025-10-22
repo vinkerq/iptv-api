@@ -2,30 +2,25 @@
 # -*- coding: utf-8 -*-
 """
 generate_iptv_sources.py
-从 dey/ip.txt 中 IP 列表获取 IPTV 数据，并生成完整播放源列表
-支持普通文本输出和 M3U8 播放列表输出
+增强版：支持请求超时跳过、直播源附加 IP/运营商、按节目名称分组输出
 """
 
 import requests
 import os
 import json
 import time
+from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# 输入 IP 文件
 IP_FILE = os.path.join("dey", "ip.txt")
-# 输出 IPTV 源文件（普通文本）
 OUTPUT_FILE = "iptv_sources.txt"
-# 输出 IPTV M3U8 文件（可直接导入播放器）
 OUTPUT_M3U8 = "iptv_sources.m3u"
-
-# IPTV 请求路径
 REQUEST_PATH = "/iptv/live/1000.json?key=txiptv"
-TIMEOUT = 20  # 请求超时秒数
-RETRY = 2     # 请求失败重试次数
-DELAY = 1     # 每次请求延迟秒数，避免被封
+TIMEOUT = 15   # 请求超时 15 秒
+RETRY = 2
+DELAY = 1
 
 def read_ip_list(file_path):
-    """读取 IP 列表，每行一个 IP:PORT"""
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"IP 文件不存在: {file_path}")
     ips = []
@@ -36,8 +31,15 @@ def read_ip_list(file_path):
                 ips.append(line)
     return ips
 
+def get_ip_info(ip):
+    """
+    获取 IP 信息（运营商/地区）
+    这里可用真实 API 替换
+    """
+    # 示例，默认都返回“未知运营商”
+    return "未知运营商"
+
 def fetch_json(ipport):
-    """请求 IPTV JSON，失败可重试"""
     url = f"http://{ipport}{REQUEST_PATH}"
     for attempt in range(RETRY + 1):
         try:
@@ -50,30 +52,33 @@ def fetch_json(ipport):
     return None
 
 def parse_data(json_data, ipport):
-    """从 JSON 提取 name 和 url，拼接成完整 IPTV 源"""
     sources = []
     if not json_data or "data" not in json_data:
         return sources
+    ip, _ = ipport.split(":")
+    isp = get_ip_info(ip)
     for item in json_data["data"]:
         name = item.get("name", "未知")
         url_path = item.get("url", "")
         if url_path:
             full_url = f"http://{ipport}{url_path}"
-            sources.append((name, full_url))
+            # 附加 IP 和运营商信息
+            display_name = f"{name} [{ip} - {isp}]"
+            sources.append((name, display_name, full_url))
     return sources
 
-def save_txt(sources, file_path):
-    """保存普通文本格式"""
+def save_txt_grouped(grouped_sources, file_path):
     with open(file_path, "w", encoding="utf-8") as f:
-        for name, url in sources:
-            f.write(f"{name},{url}\n")
+        for prog_name, items in grouped_sources.items():
+            for display_name, url in items:
+                f.write(f"{display_name},{url}\n")
 
-def save_m3u(sources, file_path):
-    """保存 M3U8 播放列表"""
+def save_m3u_grouped(grouped_sources, file_path):
     with open(file_path, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
-        for name, url in sources:
-            f.write(f"#EXTINF:-1,{name}\n{url}\n")
+        for prog_name, items in grouped_sources.items():
+            for display_name, url in items:
+                f.write(f"#EXTINF:-1,{display_name}\n{url}\n")
 
 def main():
     try:
@@ -84,22 +89,33 @@ def main():
 
     all_sources = []
 
-    for ipport in ip_list:
-        print(f"正在请求：{ipport}{REQUEST_PATH}")
-        json_data = fetch_json(ipport)
-        sources = parse_data(json_data, ipport)
-        if sources:
-            all_sources.extend(sources)
-            for name, url in sources:
-                print(f"{name},{url}")
-        else:
-            print(f"[提示] 未获取到数据: {ipport}")
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_ip = {executor.submit(fetch_json, ip): ip for ip in ip_list}
+        for future in as_completed(future_to_ip):
+            ipport = future_to_ip[future]
+            try:
+                json_data = future.result(timeout=TIMEOUT)
+                sources = parse_data(json_data, ipport)
+                if sources:
+                    all_sources.extend(sources)
+                    for _, display_name, url in sources:
+                        print(f"{display_name},{url}")
+                else:
+                    print(f"[提示] 未获取到数据: {ipport}")
+            except Exception as e:
+                print(f"[提示] 跳过 {ipport}，原因: {e}")
 
-    if all_sources:
-        save_txt(all_sources, OUTPUT_FILE)
-        save_m3u(all_sources, OUTPUT_M3U8)
+    # 按节目名称分组
+    grouped = defaultdict(list)
+    for name, display_name, url in all_sources:
+        grouped[name].append((display_name, url))
+
+    if grouped:
+        save_txt_grouped(grouped, OUTPUT_FILE)
+        save_m3u_grouped(grouped, OUTPUT_M3U8)
         print(f"\n✅ 全部完成，生成文件：\n- {OUTPUT_FILE}（文本）\n- {OUTPUT_M3U8}（M3U8 播放列表）")
-        print(f"共 {len(all_sources)} 条 IPTV 源")
+        total = sum(len(v) for v in grouped.values())
+        print(f"共 {total} 条 IPTV 源")
     else:
         print("\n⚠️ 未获取到任何 IPTV 源")
 
