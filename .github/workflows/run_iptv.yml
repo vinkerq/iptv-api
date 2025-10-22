@@ -3,7 +3,7 @@ name: Generate IPTV Sources
 on:
   push:
     branches:
-      - main       # 每次 push 到主分支触发
+      - master       # 每次 push 到主分支触发
   schedule:
     - cron: '0 0 * * *'  # 每天 UTC 0 点自动运行一次
 
