@@ -46,7 +46,7 @@ PROGRAM_CATEGORIES = {
         "山东卫视高清","山西卫视高清","陕西卫视高清","四川卫视高清","深圳卫视高清","三沙卫视高清","天津卫视高清","西藏卫视高清",
         "新疆卫视高清","云南卫视"
     ],
-    # 如果你有更多频道分类，可以按原脚本继续添加
+    # 其他频道分类可按原脚本继续添加
 }
 
 # -------------------读取 IP 列表-------------------
@@ -138,7 +138,7 @@ def main():
     all_sources = {}
 
     for ipport in ip_list:
-        ip = ipport.分屏(":")[0]
+        ip = ipport.分屏(":")[0]  # 改成 split
         ip_info = get_ip_info(ip)
         print(f"正在请求：{ipport} ({ip_info})")
         json_data = fetch_json(ipport)
