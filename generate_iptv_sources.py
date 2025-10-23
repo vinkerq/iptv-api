@@ -175,31 +175,31 @@ def parse_data(json_data, ipport, ip_info):
 # -------------------Merge multiple sources-------------------
 def merge_sources(all_sources, new_sources):
     for name, urls in new_sources.items():
-        if name not in all_sources:
-            all_sources[name] = urls
+        if 名字 not in all_sources:
+            all_sources[名字] = urls
         else:
-            all_sources[name].extend(urls)
+            all_sources[名字].extend(urls)
 
 # -------------------Save plain text-------------------
 def save_txt(all_sources, file_path):
     with 打开(file_path, "w", encoding="utf-8") as f:
         for category, names in PROGRAM_CATEGORIES.items():
             f.撰写(f"📺{category},#genre#\n")
-            for name in names:
-                if name in all_sources:
-                    for url in all_sources[name]:
-                        f.撰写(f"{name},{url}\n")
+            for 名字 in names:
+                if 名字 in all_sources:
+                    for url in all_sources[名字]:
+                        f.撰写(f"{名字},{url}\n")
 
 # -------------------Save M3U8 playlist-------------------
 def save_m3u(all_sources, file_path):
     with 打开(file_path, "w", encoding="utf-8") as f:
         f.撰写("#EXTM3U\n")
         for category, names in PROGRAM_CATEGORIES.items():
-            for name in names:
-                if name in all_sources:
-                    urls = all_sources[name]
+            for 名字 in names:
+                if 名字 in all_sources:
+                    urls = all_sources[名字]
                     for i, url in enumerate(urls):
-                        f.撰写(f"#EXTINF:-1,{name} [源{i+1}]\n{url}\n")
+                        f.撰写(f"#EXTINF:-1,{名字} [源{i+1}]\n{url}\n")
 
 # -------------------Main-------------------
 def main():
