@@ -46,14 +46,14 @@ PROGRAM_CATEGORIES = {
         "山东卫视高清","山西卫视高清","陕西卫视高清","四川卫视高清","深圳卫视高清","三沙卫视高清","天津卫视高清","西藏卫视高清",
         "新疆卫视高清","云南卫视"
     ],
-    # 其他频道分类略，为简洁这里不全部展开，可按你原脚本继续添加
+    # 如果你有更多频道分类，可以按原脚本继续添加
 }
 
 # -------------------读取 IP 列表-------------------
 def read_ip_list(file_path):
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"IP 文件不存在: {file_path}")
-    with 打开(file_path, "r", encoding="utf-8") as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip()]
 
 # -------------------获取 IP 信息（中文城市+运营商）-------------------
@@ -85,15 +85,15 @@ def fetch_json(ipport):
 # -------------------解析 JSON 数据-------------------
 def parse_data(json_data, ipport, ip_info):
     sources = {}
-    if not json_data  或者  "data" not in json_data:
+    if not json_data or "data" not in json_data:
         return sources
     for item in json_data["data"]:
         name = item.get("name","未知")
         url_path = item.get("url","")
         if url_path:
             full_url = f"http://{ipport}{url_path} ({ip_info})"
-            if 名字 not in sources:
-                sources[名字] = [full_url]
+            if name not in sources:
+                sources[name] = [full_url]
             else:
                 sources[name].append(full_url)
     return sources
