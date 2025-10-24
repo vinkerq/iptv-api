@@ -1,525 +1,1057 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" group-title="CCTV频道",CCTV1
-http://202.168.168.50:5000/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV1" group-title="CCTV频道",CCTV1
-http://163.142.186.57:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV1" group-title="CCTV频道",CCTV1
-http://8.134.184.162:8314/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV1" group-title="CCTV频道",CCTV1
-http://163.142.186.49:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV1" group-title="CCTV频道",CCTV1
-http://183.57.249.112:8183/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV1" group-title="CCTV频道",CCTV1
-http://120.238.94.10:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" group-title="CCTV频道",CCTV2
-http://202.168.168.50:5000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" group-title="CCTV频道",CCTV2
-http://163.142.186.57:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" group-title="CCTV频道",CCTV2
-http://8.134.184.162:8314/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" group-title="CCTV频道",CCTV2
-http://163.142.186.49:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" group-title="CCTV频道",CCTV2
-http://183.57.249.112:8183/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" group-title="CCTV频道",CCTV2
-http://120.238.94.10:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3" group-title="CCTV频道",CCTV3
-http://202.168.168.50:5000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3" group-title="CCTV频道",CCTV3
-http://163.142.186.57:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3" group-title="CCTV频道",CCTV3
-http://8.134.184.162:8314/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3" group-title="CCTV频道",CCTV3
-http://163.142.186.49:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3" group-title="CCTV频道",CCTV3
-http://183.57.249.112:8183/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3" group-title="CCTV频道",CCTV3
-http://120.238.94.10:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4" group-title="CCTV频道",CCTV4
-http://202.168.168.50:5000/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4" group-title="CCTV频道",CCTV4
-http://163.142.186.57:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4" group-title="CCTV频道",CCTV4
-http://8.134.184.162:8314/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4" group-title="CCTV频道",CCTV4
-http://163.142.186.49:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4" group-title="CCTV频道",CCTV4
-http://183.57.249.112:8183/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4" group-title="CCTV频道",CCTV4
-http://120.238.94.10:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5" group-title="CCTV频道",CCTV5
-http://202.168.168.50:5000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5" group-title="CCTV频道",CCTV5
-http://163.142.186.57:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5" group-title="CCTV频道",CCTV5
-http://8.134.184.162:8314/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5" group-title="CCTV频道",CCTV5
-http://163.142.186.49:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5" group-title="CCTV频道",CCTV5
-http://183.57.249.112:8183/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5" group-title="CCTV频道",CCTV5
-http://120.238.94.10:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5" group-title="CCTV频道",CCTV5
-http://120.238.94.10:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV6" group-title="CCTV频道",CCTV6
-http://202.168.168.50:5000/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV6" group-title="CCTV频道",CCTV6
-http://163.142.186.57:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV6" group-title="CCTV频道",CCTV6
-http://8.134.184.162:8314/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV6" group-title="CCTV频道",CCTV6
-http://163.142.186.49:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV6" group-title="CCTV频道",CCTV6
-http://183.57.249.112:8183/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV6" group-title="CCTV频道",CCTV6
-http://120.238.94.10:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV7" group-title="CCTV频道",CCTV7
-http://202.168.168.50:5000/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV7" group-title="CCTV频道",CCTV7
-http://163.142.186.57:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV7" group-title="CCTV频道",CCTV7
-http://8.134.184.162:8314/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV7" group-title="CCTV频道",CCTV7
-http://163.142.186.49:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV7" group-title="CCTV频道",CCTV7
-http://183.57.249.112:8183/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV7" group-title="CCTV频道",CCTV7
-http://120.238.94.10:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV8" group-title="CCTV频道",CCTV8
-http://202.168.168.50:5000/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV8" group-title="CCTV频道",CCTV8
-http://163.142.186.57:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV8" group-title="CCTV频道",CCTV8
-http://8.134.184.162:8314/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV8" group-title="CCTV频道",CCTV8
-http://163.142.186.49:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV8" group-title="CCTV频道",CCTV8
-http://183.57.249.112:8183/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV8" group-title="CCTV频道",CCTV8
-http://120.238.94.10:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" group-title="CCTV频道",CCTV9
-http://202.168.168.50:5000/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" group-title="CCTV频道",CCTV9
-http://163.142.186.57:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" group-title="CCTV频道",CCTV9
-http://8.134.184.162:8314/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" group-title="CCTV频道",CCTV9
-http://163.142.186.49:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" group-title="CCTV频道",CCTV9
-http://183.57.249.112:8183/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" group-title="CCTV频道",CCTV9
-http://120.238.94.10:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV10" group-title="CCTV频道",CCTV10
-http://202.168.168.50:5000/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV10" group-title="CCTV频道",CCTV10
-http://163.142.186.57:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV10" group-title="CCTV频道",CCTV10
-http://8.134.184.162:8314/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV10" group-title="CCTV频道",CCTV10
-http://163.142.186.49:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV10" group-title="CCTV频道",CCTV10
-http://183.57.249.112:8183/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV10" group-title="CCTV频道",CCTV10
-http://120.238.94.10:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV11" group-title="CCTV频道",CCTV11
-http://202.168.168.50:5000/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV11" group-title="CCTV频道",CCTV11
-http://163.142.186.57:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV11" group-title="CCTV频道",CCTV11
-http://8.134.184.162:8314/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV11" group-title="CCTV频道",CCTV11
-http://163.142.186.49:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV11" group-title="CCTV频道",CCTV11
-http://183.57.249.112:8183/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV11" group-title="CCTV频道",CCTV11
-http://120.238.94.10:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV12" group-title="CCTV频道",CCTV12
-http://202.168.168.50:5000/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV12" group-title="CCTV频道",CCTV12
-http://163.142.186.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV12" group-title="CCTV频道",CCTV12
-http://8.134.184.162:8314/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV12" group-title="CCTV频道",CCTV12
-http://163.142.186.49:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV12" group-title="CCTV频道",CCTV12
-http://183.57.249.112:8183/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV12" group-title="CCTV频道",CCTV12
-http://120.238.94.10:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV13" group-title="CCTV频道",CCTV13
-http://202.168.168.50:5000/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV13" group-title="CCTV频道",CCTV13
-http://163.142.186.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV13" group-title="CCTV频道",CCTV13
-http://8.134.184.162:8314/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV13" group-title="CCTV频道",CCTV13
-http://163.142.186.49:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV13" group-title="CCTV频道",CCTV13
-http://183.57.249.112:8183/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV13" group-title="CCTV频道",CCTV13
-http://120.238.94.10:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV14" group-title="CCTV频道",CCTV14
-http://202.168.168.50:5000/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV14" group-title="CCTV频道",CCTV14
-http://163.142.186.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV14" group-title="CCTV频道",CCTV14
-http://8.134.184.162:8314/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV14" group-title="CCTV频道",CCTV14
-http://163.142.186.49:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV14" group-title="CCTV频道",CCTV14
-http://183.57.249.112:8183/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV14" group-title="CCTV频道",CCTV14
-http://120.238.94.10:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV15" group-title="CCTV频道",CCTV15
-http://202.168.168.50:5000/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV15" group-title="CCTV频道",CCTV15
-http://163.142.186.57:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV15" group-title="CCTV频道",CCTV15
-http://8.134.184.162:8314/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV15" group-title="CCTV频道",CCTV15
-http://163.142.186.49:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV15" group-title="CCTV频道",CCTV15
-http://183.57.249.112:8183/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV15" group-title="CCTV频道",CCTV15
-http://120.238.94.10:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV16" group-title="CCTV频道",CCTV16
-http://202.168.168.50:5000/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV16" group-title="CCTV频道",CCTV16
-http://163.142.186.57:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV16" group-title="CCTV频道",CCTV16
-http://8.134.184.162:8314/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV16" group-title="CCTV频道",CCTV16
-http://163.142.186.49:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV17" group-title="CCTV频道",CCTV17
-http://202.168.168.50:5000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV17" group-title="CCTV频道",CCTV17
-http://163.142.186.57:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV17" group-title="CCTV频道",CCTV17
-http://8.134.184.162:8314/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV17" group-title="CCTV频道",CCTV17
-http://163.142.186.49:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV17" group-title="CCTV频道",CCTV17
-http://183.57.249.112:8183/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV17" group-title="CCTV频道",CCTV17
-http://120.238.94.10:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV" group-title="CCTV频道",CCTV
-http://120.238.94.10:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="" group-title="其他频道",
-http://183.57.249.112:8183/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="" group-title="其他频道",
-http://183.57.249.112:8183/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTN" group-title="其他频道",CCTN
-http://120.238.94.10:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC动作电影" group-title="其他频道",CHC动作电影
-http://202.168.168.50:5000/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="其他频道",CHC家庭影院
-http://202.168.168.50:5000/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC影迷电影" group-title="其他频道",CHC影迷电影
-http://202.168.168.50:5000/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="世界地理" group-title="其他频道",世界地理
-http://120.238.94.10:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="中国教育" group-title="其他频道",中国教育
-http://120.238.94.10:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="内蒙古" group-title="其他频道",内蒙古
-http://120.238.94.10:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="凤凰中文" group-title="其他频道",凤凰中文
-http://202.168.168.50:5000/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="动漫秀场" group-title="其他频道",动漫秀场
-http://202.168.168.50:5000/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="南方一" group-title="其他频道",南方一
-http://120.238.94.10:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="南方二" group-title="其他频道",南方二
-http://120.238.94.10:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="南方五" group-title="其他频道",南方五
-http://120.238.94.10:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="南方四" group-title="其他频道",南方四
-http://120.238.94.10:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="卡酷动画" group-title="其他频道",卡酷动画
-http://183.57.249.112:8183/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="卡酷少儿" group-title="其他频道",卡酷少儿
-http://202.168.168.50:5000/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="其他频道",嘉佳卡通
-http://202.168.168.50:5000/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="其他频道",嘉佳卡通
-http://8.134.184.162:8314/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="其他频道",嘉佳卡通
-http://120.238.94.10:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="央视文化" group-title="其他频道",央视文化
-http://120.238.94.10:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="少儿动画" group-title="其他频道",少儿动画
-http://120.238.94.10:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东教育" group-title="其他频道",山东教育
-http://120.238.94.10:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="岭南戏曲" group-title="其他频道",岭南戏曲
-http://8.134.184.162:8314/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="岭南戏曲" group-title="其他频道",岭南戏曲
-http://120.238.94.10:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="怀旧剧场" group-title="其他频道",怀旧剧场
-http://120.238.94.10:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="惠州" group-title="其他频道",惠州
-http://8.134.184.162:8314/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="惠州公共" group-title="其他频道",惠州公共
-http://120.238.94.10:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="惠州都市生活" group-title="其他频道",惠州都市生活
-http://8.134.184.162:8314/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="明珠台" group-title="其他频道",明珠台
-http://202.168.168.50:5000/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="梅州" group-title="其他频道",梅州
-http://120.238.94.10:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="梅州" group-title="其他频道",梅州
-http://120.238.94.10:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="澳视澳门" group-title="其他频道",澳视澳门
-http://202.168.168.50:5000/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="炫动卡通" group-title="其他频道",炫动卡通
-http://120.238.94.10:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="相声小品" group-title="其他频道",相声小品
-http://120.238.94.10:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="第一剧场" group-title="其他频道",第一剧场
-http://120.238.94.10:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="纪实科技" group-title="其他频道",纪实科技
-http://202.168.168.50:5000/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="经典电影" group-title="其他频道",经典电影
-http://120.238.94.10:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="翡翠台" group-title="其他频道",翡翠台
-http://202.168.168.50:5000/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="谍战剧场" group-title="其他频道",谍战剧场
-http://120.238.94.10:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="都市剧场" group-title="其他频道",都市剧场
-http://202.168.168.50:5000/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="野外" group-title="其他频道",野外
-http://120.238.94.10:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" group-title="其他频道",金鹰卡通
-http://202.168.168.50:5000/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" group-title="其他频道",金鹰卡通
-http://120.238.94.10:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰纪实" group-title="其他频道",金鹰纪实
-http://120.238.94.10:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="风云剧场" group-title="其他频道",风云剧场
-http://183.57.249.112:8183/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="风云剧场" group-title="其他频道",风云剧场
-http://120.238.94.10:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="风云足球" group-title="其他频道",风云足球
-http://183.57.249.112:8183/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="风云足球" group-title="其他频道",风云足球
-http://120.238.94.10:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="风云音乐" group-title="其他频道",风云音乐
-http://120.238.94.10:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="高清" group-title="其他频道",高清
-http://120.238.94.10:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
-http://202.168.168.50:5000/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://202.168.168.50:5000/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://120.238.94.10:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://202.168.168.50:5000/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://183.57.249.112:8183/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://120.238.94.10:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
-http://120.238.94.10:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
-http://120.238.94.10:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
-http://8.134.184.162:8314/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://202.168.168.50:5000/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://120.238.94.10:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://202.168.168.50:5000/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://120.238.94.10:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://202.168.168.50:5000/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://120.238.94.10:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="卫视频道",大湾区卫视
-http://8.134.184.162:8314/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="卫视频道",大湾区卫视
-http://183.57.249.112:8183/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://202.168.168.50:5000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://120.238.94.10:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
-http://120.238.94.10:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://202.168.168.50:5000/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://120.238.94.10:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="少儿卫视" group-title="卫视频道",少儿卫视
-http://120.238.94.10:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://202.168.168.50:5000/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://120.238.94.10:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
-http://8.134.184.162:8314/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
-http://120.238.94.10:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://202.168.168.50:5000/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://120.238.94.10:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
-http://163.142.186.57:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
-http://163.142.186.49:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="旅游卫视" group-title="卫视频道",旅游卫视
-http://120.238.94.10:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="星空卫视" group-title="卫视频道",星空卫视
-http://202.168.168.50:5000/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://202.168.168.50:5000/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://163.142.186.57:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://163.142.186.49:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://183.57.249.112:8183/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://120.238.94.10:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://202.168.168.50:5000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://120.238.94.10:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://202.168.168.50:5000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://120.238.94.10:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://202.168.168.50:5000/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://183.57.249.112:8183/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://120.238.94.10:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://202.168.168.50:5000/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://8.134.184.162:8314/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://183.57.249.112:8183/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://120.238.94.10:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://163.142.186.57:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://163.142.186.49:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://202.168.168.50:5000/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://120.238.94.10:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://202.168.168.50:5000/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://8.134.184.162:8314/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://183.57.249.112:8183/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://120.238.94.10:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://202.168.168.50:5000/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://163.142.186.57:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://8.134.184.162:8314/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://163.142.186.49:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://183.57.249.112:8183/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://120.238.94.10:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="珠江卫视设定" group-title="卫视频道",珠江卫视设定
-http://183.57.249.112:8183/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
-http://202.168.168.50:5000/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
-http://120.238.94.10:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
-http://120.238.94.10:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://202.168.168.50:5000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://8.134.184.162:8314/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://120.238.94.10:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://202.168.168.50:5000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://163.142.186.57:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://8.134.184.162:8314/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://163.142.186.49:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://120.238.94.10:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://202.168.168.50:5000/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://183.57.249.112:8183/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://120.238.94.10:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
-http://202.168.168.50:5000/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
-http://8.134.184.162:8314/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
-http://120.238.94.10:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道",青海卫视
-http://8.134.184.162:8314/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道",青海卫视
-http://120.238.94.10:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://202.168.168.50:5000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://8.134.184.162:8314/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://120.238.94.10:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东体育" group-title="广东频道",广东体育
-http://163.142.186.57:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东体育" group-title="广东频道",广东体育
-http://8.134.184.162:8314/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东体育" group-title="广东频道",广东体育
-http://163.142.186.49:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东体育" group-title="广东频道",广东体育
-http://183.57.249.112:8183/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东体育" group-title="广东频道",广东体育
-http://120.238.94.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东公共" group-title="广东频道",广东公共
-http://120.238.94.10:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东卫视" group-title="广东频道",广东卫视
-http://202.168.168.50:5000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东卫视" group-title="广东频道",广东卫视
-http://8.134.184.162:8314/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东卫视" group-title="广东频道",广东卫视
-http://183.57.249.112:8183/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东卫视" group-title="广东频道",广东卫视
-http://120.238.94.10:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东少儿" group-title="广东频道",广东少儿
-http://8.134.184.162:8314/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东影视" group-title="广东频道",广东影视
-http://8.134.184.162:8314/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东影视" group-title="广东频道",广东影视
-http://183.57.249.112:8183/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东新闻" group-title="广东频道",广东新闻
-http://8.134.184.162:8314/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东新闻" group-title="广东频道",广东新闻
-http://120.238.94.10:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东民生" group-title="广东频道",广东民生
-http://8.134.184.162:8314/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东珠江" group-title="广东频道",广东珠江
-http://163.142.186.57:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东珠江" group-title="广东频道",广东珠江
-http://8.134.184.162:8314/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东珠江" group-title="广东频道",广东珠江
-http://163.142.186.49:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东珠江" group-title="广东频道",广东珠江
-http://120.238.94.10:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东经济科教" group-title="广东频道",广东经济科教
-http://8.134.184.162:8314/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广州法治" group-title="广东频道",广州法治
-http://163.142.186.57:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广州法治" group-title="广东频道",广州法治
-http://163.142.186.49:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,CCTV-1 [源1]
+http://49.234.31.101:7066/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,CCTV-1 [源2]
+http://115.150.63.77:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV1 [源1]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,CCTV-2 [源1]
+http://115.150.63.77:9902/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-3 [源1]
+http://49.234.31.101:7066/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,CCTV-3 [源2]
+http://115.150.63.77:9902/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-4 [源1]
+http://49.234.31.101:7066/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,CCTV-4 [源2]
+http://115.150.63.77:9902/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-5 [源1]
+http://49.234.31.101:7066/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,CCTV-5 [源2]
+http://115.150.63.77:9902/tsfile/live/0001_5.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-6 [源1]
+http://49.234.31.101:7066/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,CCTV-6 [源2]
+http://115.150.63.77:9902/tsfile/live/0001_7.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-7 [源1]
+http://111.8.242.124:9999/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV-7 [源2]
+http://111.8.242.102:9999/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,CCTV-7 [源3]
+http://111.8.242.103:9999/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV-7 [源4]
+http://111.8.242.104:9999/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,CCTV-7 [源5]
+http://115.150.63.77:9902/tsfile/live/0001_8.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-8 [源1]
+http://49.234.31.101:7066/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,CCTV-8 [源2]
+http://115.150.63.77:9902/tsfile/live/0001_9.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-9 [源1]
+http://115.150.63.77:9902/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-10 [源1]
+http://115.150.63.77:9902/tsfile/live/0001_11.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-11 [源1]
+http://49.234.31.101:7066/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,CCTV-11 [源2]
+http://115.150.63.77:9902/tsfile/live/0001_12.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-12 [源1]
+http://115.150.63.77:9902/tsfile/live/0001_13.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-13 [源1]
+http://49.234.31.101:7066/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,CCTV-13 [源2]
+http://115.150.63.77:9902/tsfile/live/0001_14.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CCTV-15 [源1]
+http://49.234.31.101:7066/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,CCTV-16 [源1]
+http://115.150.63.77:9902/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,CETV-1 [源1]
+http://111.8.242.104:9999/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,CCTV1综合高清 [源1]
+http://121.19.134.137:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV2财经高清 [源1]
+http://121.19.134.137:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV3综艺高清 [源1]
+http://121.19.134.137:808/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV4国际高清 [源1]
+http://121.19.134.137:808/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV5体育高清 [源1]
+http://121.19.134.137:808/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV6电影高清 [源1]
+http://121.19.134.137:808/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV7军事高清 [源1]
+http://121.19.134.137:808/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV8电视剧高清 [源1]
+http://121.19.134.137:808/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV9记录高清 [源1]
+http://121.19.134.137:808/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV10科教高清 [源1]
+http://121.19.134.137:808/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV11戏曲高清 [源1]
+http://121.19.134.137:808/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV12社会与法高清 [源1]
+http://121.19.134.137:808/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV13新闻高清 [源1]
+http://121.19.134.137:808/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV14少儿高清 [源1]
+http://121.19.134.137:808/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV15音乐高清 [源1]
+http://121.19.134.137:808/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV16奥林匹克高清 [源1]
+http://121.19.134.137:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV17农业农村高清 [源1]
+http://121.19.134.137:808/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,CCTV5+体育赛视高清 [源1]
+http://121.19.134.137:808/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,广东卫视 [源5]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.84:5146 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源6]
+http://49.234.31.101:7066/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源7]
+http://111.8.242.103:9999/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源8]
+http://171.120.6.38:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,广东卫视 [源9]
+http://111.8.242.104:9999/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,广东卫视 [源10]
+http://120.202.94.181:9446/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源11]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gdwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,浙江卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,浙江卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,浙江卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,浙江卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,浙江卫视 [源5]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.89:5146 (Unknown,Unknown)
+#EXTINF:-1,浙江卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,浙江卫视 [源7]
+http://171.120.6.38:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,浙江卫视 [源8]
+http://111.8.242.104:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,浙江卫视 [源9]
+http://120.202.94.181:9446/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,浙江卫视 [源10]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,湖南卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南卫视 [源3]
+http://111.8.242.102:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南卫视 [源4]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.88:5146 (Unknown,Unknown)
+#EXTINF:-1,湖南卫视 [源5]
+http://111.8.242.103:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南卫视 [源6]
+http://171.120.6.38:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,湖南卫视 [源7]
+http://111.8.242.104:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南卫视 [源8]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,北京卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,北京卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,北京卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,北京卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,北京卫视 [源5]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.91:5146 (Unknown,Unknown)
+#EXTINF:-1,北京卫视 [源6]
+http://49.234.31.101:7066/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,北京卫视 [源7]
+http://111.8.242.103:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,北京卫视 [源8]
+http://171.120.6.38:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,北京卫视 [源9]
+http://111.8.242.104:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,北京卫视 [源10]
+http://120.202.94.181:9446/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,北京卫视 [源11]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/bjwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,湖北卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖北卫视 [源5]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.95:5146 (Unknown,Unknown)
+#EXTINF:-1,湖北卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北卫视 [源7]
+http://171.120.6.38:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,湖北卫视 [源8]
+http://111.8.242.104:9999/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖北卫视 [源9]
+http://120.202.94.181:9446/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北卫视 [源10]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hubeiws8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,黑龙江卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,黑龙江卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,黑龙江卫视 [源3]
+http://111.8.242.102:9999/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,黑龙江卫视 [源4]
+http://111.8.242.103:9999/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,黑龙江卫视 [源5]
+http://171.120.6.38:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,黑龙江卫视 [源6]
+http://111.8.242.104:9999/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,黑龙江卫视 [源7]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hljwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,安徽卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,安徽卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,安徽卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,安徽卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,安徽卫视 [源5]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.183:5146 (Unknown,Unknown)
+#EXTINF:-1,安徽卫视 [源6]
+http://49.234.31.101:7066/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,安徽卫视 [源7]
+http://111.8.242.103:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,安徽卫视 [源8]
+http://171.120.6.38:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,安徽卫视 [源9]
+http://111.8.242.104:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,安徽卫视 [源10]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,重庆卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,重庆卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,重庆卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,重庆卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,重庆卫视 [源5]
+http://49.234.31.101:7066/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,重庆卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,重庆卫视 [源7]
+http://171.120.6.38:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,重庆卫视 [源8]
+http://111.8.242.104:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,重庆卫视 [源9]
+http://171.38.220.70:8082udp://@224.1.2.31:32031 (钦州,联通)
+#EXTINF:-1,重庆卫视 [源10]
+http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,重庆卫视 [源11]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cqws8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,东方卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,东方卫视 [源2]
+http://111.8.242.102:9999/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,东方卫视 [源3]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.98:5146 (Unknown,Unknown)
+#EXTINF:-1,东方卫视 [源4]
+http://111.8.242.103:9999/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,东方卫视 [源5]
+http://111.8.242.104:9999/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,东南卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,东南卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,东南卫视 [源3]
+http://111.8.242.102:9999/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,东南卫视 [源4]
+http://111.8.242.103:9999/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,东南卫视 [源5]
+http://171.120.6.38:9999/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,东南卫视 [源6]
+http://219.145.93.74:10000/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,东南卫视 [源7]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dnwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,甘肃卫视 [源1]
+http://121.19.134.137:808/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,甘肃卫视 [源2]
+http://111.8.242.124:9999/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,甘肃卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,甘肃卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,甘肃卫视 [源5]
+http://111.8.242.103:9999/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,甘肃卫视 [源6]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gswssd4m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,广西卫视 [源1]
+http://121.19.134.137:808/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广西卫视 [源2]
+http://121.19.134.71:808/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,广西卫视 [源3]
+http://171.120.5.133:9999/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广西卫视 [源4]
+http://110.80.17.38:9999/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广西卫视 [源5]
+http://49.234.31.101:7066/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,广西卫视 [源6]
+http://171.120.6.38:9999/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,广西卫视 [源7]
+http://101.18.24.178:808/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,贵州卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,贵州卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,贵州卫视 [源3]
+http://111.8.242.102:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,贵州卫视 [源4]
+http://111.8.242.103:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,贵州卫视 [源5]
+http://171.120.6.38:9999/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,贵州卫视 [源6]
+http://219.145.93.74:10000/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,贵州卫视 [源7]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gzwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,海南卫视 [源1]
+http://121.19.134.137:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,海南卫视 [源2]
+http://101.18.24.178:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,河北卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,河北卫视 [源2]
+http://121.19.134.71:808/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,河北卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,河北卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,河北卫视 [源5]
+http://111.8.242.103:9999/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,河北卫视 [源6]
+http://111.8.242.104:9999/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,河南卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,河南卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,河南卫视 [源3]
+http://111.8.242.102:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,河南卫视 [源4]
+http://49.234.31.101:7066/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,河南卫视 [源5]
+http://49.234.31.101:7066/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,河南卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,河南卫视 [源7]
+http://171.120.6.38:9999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,河南卫视 [源8]
+http://171.38.220.70:8082udp://@224.1.2.38:32038 (钦州,联通)
+#EXTINF:-1,河南卫视 [源9]
+http://219.145.93.74:10000/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,吉林卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,吉林卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,吉林卫视 [源3]
+http://111.8.242.102:9999/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,吉林卫视 [源4]
+http://111.8.242.103:9999/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,吉林卫视 [源5]
+http://171.120.6.38:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,吉林卫视 [源6]
+http://111.8.242.104:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,吉林卫视 [源7]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jlwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,江苏卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江苏卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江苏卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江苏卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,江苏卫视 [源5]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.90:5146 (Unknown,Unknown)
+#EXTINF:-1,江苏卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江苏卫视 [源7]
+http://171.120.6.38:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,江苏卫视 [源8]
+http://111.8.242.104:9999/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,江苏卫视 [源9]
+http://120.202.94.181:9446/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江苏卫视 [源10]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jswshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,江西卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江西卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江西卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0138_2.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江西卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,江西卫视 [源5]
+http://49.234.31.101:7066/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,江西卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江西卫视 [源7]
+http://171.120.6.38:9999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,江西卫视 [源8]
+http://111.8.242.104:9999/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,江西卫视 [源9]
+http://219.145.93.74:10000/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江西卫视 [源10]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jxws8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,辽宁卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,辽宁卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,辽宁卫视 [源3]
+http://111.8.242.102:9999/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,辽宁卫视 [源4]
+http://111.8.242.103:9999/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,辽宁卫视 [源5]
+http://171.120.6.38:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,辽宁卫视 [源6]
+http://111.8.242.104:9999/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,辽宁卫视 [源7]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/lnwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,内蒙古卫视 [源1]
+http://121.19.134.137:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,内蒙古卫视 [源2]
+http://111.8.242.124:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,内蒙古卫视 [源3]
+http://121.19.134.71:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,内蒙古卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,内蒙古卫视 [源5]
+http://111.8.242.103:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,内蒙古卫视 [源6]
+http://111.8.242.104:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,内蒙古卫视 [源7]
+http://101.18.24.178:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,内蒙古卫视 [源8]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nmgws2d5m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,宁夏卫视 [源1]
+http://121.19.134.137:808/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,宁夏卫视 [源2]
+http://111.8.242.124:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,宁夏卫视 [源3]
+http://121.19.134.71:808/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,宁夏卫视 [源4]
+http://110.80.17.38:9999/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,宁夏卫视 [源5]
+http://111.8.242.102:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,宁夏卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,宁夏卫视 [源7]
+http://171.38.220.70:8082udp://@224.1.2.41:32041 (钦州,联通)
+#EXTINF:-1,宁夏卫视 [源8]
+http://101.18.24.178:808/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,宁夏卫视 [源9]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nxwssd4m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,青海卫视 [源1]
+http://121.19.134.137:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,青海卫视 [源2]
+http://111.8.242.124:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,青海卫视 [源3]
+http://121.19.134.71:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,青海卫视 [源4]
+http://171.120.5.133:9999/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,青海卫视 [源5]
+http://111.8.242.102:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,青海卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,青海卫视 [源7]
+http://171.120.6.38:9999/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,青海卫视 [源8]
+http://111.8.242.104:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,青海卫视 [源9]
+http://171.38.220.70:8082udp://@224.1.2.36:32036 (钦州,联通)
+#EXTINF:-1,青海卫视 [源10]
+http://101.18.24.178:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,青海卫视 [源11]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/qhwssd4m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,山东卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,山东卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,山东卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,山东卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,山东卫视 [源5]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.94:5146 (Unknown,Unknown)
+#EXTINF:-1,山东卫视 [源6]
+http://49.234.31.101:7066/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,山东卫视 [源7]
+http://111.8.242.103:9999/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,山东卫视 [源8]
+http://171.120.6.38:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,山东卫视 [源9]
+http://111.8.242.104:9999/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,山东卫视 [源10]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001002/XMTsdwshd/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,山西卫视 [源1]
+http://121.19.134.71:808/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,山西卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,山西卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,山西卫视 [源4]
+http://49.234.31.101:7066/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,山西卫视 [源5]
+http://171.120.6.38:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,山西卫视 [源6]
+http://111.8.242.104:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,山西卫视 [源7]
+http://171.38.220.70:8082udp://@224.1.2.33:32033 (钦州,联通)
+#EXTINF:-1,山西卫视 [源8]
+http://219.145.93.74:10000/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,陕西卫视 [源1]
+http://121.19.134.137:808/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,陕西卫视 [源2]
+http://111.8.242.124:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,陕西卫视 [源3]
+http://121.19.134.71:808/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,陕西卫视 [源4]
+http://171.120.5.133:9999/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,陕西卫视 [源5]
+http://111.8.242.102:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,陕西卫视 [源6]
+http://49.234.31.101:7066/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,陕西卫视 [源7]
+http://111.8.242.103:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,陕西卫视 [源8]
+http://171.120.6.38:9999/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,陕西卫视 [源9]
+http://111.8.242.104:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,陕西卫视 [源10]
+http://171.38.220.70:8082udp://@224.1.2.40:32040 (钦州,联通)
+#EXTINF:-1,陕西卫视 [源11]
+http://101.18.24.178:808/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,陕西卫视 [源12]
+http://219.145.93.74:10000/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,陕西卫视 [源13]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sxwssd4m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,四川卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,四川卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,四川卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,四川卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,四川卫视 [源5]
+http://49.234.31.101:7066/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,四川卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,四川卫视 [源7]
+http://171.120.6.38:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,四川卫视 [源8]
+http://111.8.242.104:9999/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,四川卫视 [源9]
+http://219.145.93.74:10000/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,四川卫视 [源10]
+http://115.150.63.77:9902/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,四川卫视 [源11]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/scwshd/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,深圳卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源3]
+http://111.8.242.102:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,深圳卫视 [源4]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.92:5146 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源5]
+http://49.234.31.101:7066/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源7]
+http://171.120.6.38:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,深圳卫视 [源8]
+http://111.8.242.104:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,深圳卫视 [源9]
+http://112.30.73.119:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源10]
+http://120.202.94.181:9446/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源11]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/szwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,三沙卫视 [源1]
+http://121.19.134.71:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,三沙卫视 [源2]
+http://101.18.24.178:808/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,天津卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,天津卫视 [源5]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.97:5146 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源6]
+http://49.234.31.101:7066/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源7]
+http://111.8.242.103:9999/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源8]
+http://171.120.6.38:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,天津卫视 [源9]
+http://111.8.242.104:9999/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,天津卫视 [源10]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/tjwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,西藏卫视 [源1]
+http://121.19.134.137:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,西藏卫视 [源2]
+http://111.8.242.124:9999/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,西藏卫视 [源3]
+http://121.19.134.71:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,西藏卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,西藏卫视 [源5]
+http://111.8.242.103:9999/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,西藏卫视 [源6]
+http://101.18.24.178:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,新疆卫视 [源1]
+http://121.19.134.137:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,新疆卫视 [源2]
+http://111.8.242.124:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,新疆卫视 [源3]
+http://121.19.134.71:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,新疆卫视 [源4]
+http://110.80.17.38:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,新疆卫视 [源5]
+http://111.8.242.102:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,新疆卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,新疆卫视 [源7]
+http://171.38.220.70:8082udp://@224.1.2.34:32034 (钦州,联通)
+#EXTINF:-1,新疆卫视 [源8]
+http://101.18.24.178:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,新疆卫视 [源9]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/xjwssd4m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,云南卫视 [源1]
+http://121.19.134.137:808/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,云南卫视 [源2]
+http://111.8.242.124:9999/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,云南卫视 [源3]
+http://111.8.242.102:9999/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,云南卫视 [源4]
+http://49.234.31.101:7066/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,云南卫视 [源5]
+http://111.8.242.103:9999/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,云南卫视 [源6]
+http://111.8.242.104:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,云南卫视 [源7]
+http://171.38.220.70:8082udp://@224.1.2.37:32037 (钦州,联通)
+#EXTINF:-1,云南卫视 [源8]
+http://101.18.24.178:808/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,云南卫视 [源9]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ynwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,广东卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,广东卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,广东卫视高清 [源5]
+http://115.150.63.77:9902/tsfile/live/0001_20.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,浙江卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,浙江卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,浙江卫视高清 [源3]
+http://49.234.31.101:7066/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,浙江卫视高清 [源4]
+http://49.234.31.101:7040/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,浙江卫视高清 [源5]
+http://101.18.24.178:808/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,浙江卫视高清 [源6]
+http://115.150.63.77:9902/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,湖南卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,湖南卫视高清 [源3]
+http://49.234.31.101:7066/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,湖南卫视高清 [源4]
+http://49.234.31.101:7040/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南卫视高清 [源5]
+http://101.18.24.178:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,湖南卫视高清 [源6]
+http://115.150.63.77:9902/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,北京卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,北京卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,北京卫视高清 [源3]
+http://49.234.31.101:7066/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,北京卫视高清 [源4]
+http://49.234.31.101:7040/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,北京卫视高清 [源5]
+http://101.18.24.178:808/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,北京卫视高清 [源6]
+http://115.150.63.77:9902/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,湖北卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,湖北卫视高清 [源3]
+http://49.234.31.101:7066/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,湖北卫视高清 [源4]
+http://49.234.31.101:7040/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北卫视高清 [源5]
+http://101.18.24.178:808/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,湖北卫视高清 [源6]
+http://115.150.63.77:9902/tsfile/live/0001_18.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,黑龙江卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,黑龙江卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,黑龙江卫视高清 [源3]
+http://49.234.31.101:7066/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,黑龙江卫视高清 [源4]
+http://49.234.31.101:7040/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,黑龙江卫视高清 [源5]
+http://101.18.24.178:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,黑龙江卫视高清 [源6]
+http://115.150.63.77:9902/tsfile/live/0001_21.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,安徽卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,安徽卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,安徽卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,安徽卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,安徽卫视高清 [源5]
+http://115.150.63.77:9902/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,重庆卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,重庆卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,重庆卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,重庆卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,重庆卫视高清 [源5]
+http://115.150.63.77:9902/tsfile/live/0001_30.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,东方卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,东方卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,东方卫视高清 [源3]
+http://49.234.31.101:7066/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,东方卫视高清 [源4]
+http://49.234.31.101:7040/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,东方卫视高清 [源5]
+http://101.18.24.178:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,东方卫视高清 [源6]
+http://115.150.63.77:9902/tsfile/live/0001_22.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,东南卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,东南卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,东南卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,东南卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,东南卫视高清 [源5]
+http://115.150.63.77:9902/tsfile/live/0001_26.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,广西卫视高清 [源1]
+http://115.150.63.77:9902/tsfile/live/0001_28.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,贵州卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,贵州卫视高清 [源2]
+http://49.234.31.101:7066/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,贵州卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,贵州卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,贵州卫视高清 [源5]
+http://115.150.63.77:9902/tsfile/live/0001_27.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,河北卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,河北卫视高清 [源2]
+http://49.234.31.101:7040/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,河北卫视高清 [源3]
+http://101.18.24.178:808/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,河北卫视高清 [源4]
+http://115.150.63.77:9902/tsfile/live/0001_24.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,河南卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,河南卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,河南卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,河南卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,吉林卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,吉林卫视高清 [源2]
+http://111.8.242.124:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,吉林卫视高清 [源3]
+http://121.19.134.71:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,吉林卫视高清 [源4]
+http://111.8.242.102:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,吉林卫视高清 [源5]
+http://111.8.242.103:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,吉林卫视高清 [源6]
+http://101.18.24.178:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,吉林卫视高清 [源7]
+http://115.150.63.77:9902/tsfile/live/0001_31.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,江苏卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江苏卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,江苏卫视高清 [源3]
+http://49.234.31.101:7066/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,江苏卫视高清 [源4]
+http://49.234.31.101:7040/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江苏卫视高清 [源5]
+http://101.18.24.178:808/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,江苏卫视高清 [源6]
+http://115.150.63.77:9902/tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,江西卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江西卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,江西卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,江西卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,江西卫视高清 [源5]
+http://115.150.63.77:9902/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,辽宁卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,辽宁卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,辽宁卫视高清 [源3]
+http://49.234.31.101:7066/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,辽宁卫视高清 [源4]
+http://49.234.31.101:7040/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,辽宁卫视高清 [源5]
+http://101.18.24.178:808/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,辽宁卫视高清 [源6]
+http://115.150.63.77:9902/tsfile/live/0001_19.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,山东卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,山东卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,山东卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,山东卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,四川卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,四川卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,四川卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,四川卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,深圳卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,深圳卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,深圳卫视高清 [源5]
+http://115.150.63.77:9902/tsfile/live/0001_23.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,天津卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,天津卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,天津卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,天津卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,天津卫视高清 [源5]
+http://115.150.63.77:9902/tsfile/live/0001_25.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,云南卫视高清 [源1]
+http://115.150.63.77:9902/tsfile/live/0001_32.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,广东珠江 [源1]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.1:5146 (Unknown,Unknown)
+#EXTINF:-1,广东体育 [源1]
+http://49.234.31.101:7066/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,广东新闻 [源1]
+http://49.234.31.101:7066/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,广东新闻 [源2]
+http://49.234.31.101:7040/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,广东卫视 [源5]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.84:5146 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源6]
+http://49.234.31.101:7066/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源7]
+http://111.8.242.103:9999/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源8]
+http://171.120.6.38:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,广东卫视 [源9]
+http://111.8.242.104:9999/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,广东卫视 [源10]
+http://120.202.94.181:9446/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视 [源11]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gdwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,深圳卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源3]
+http://111.8.242.102:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,深圳卫视 [源4]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.92:5146 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源5]
+http://49.234.31.101:7066/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源6]
+http://111.8.242.103:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源7]
+http://171.120.6.38:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,深圳卫视 [源8]
+http://111.8.242.104:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,深圳卫视 [源9]
+http://112.30.73.119:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源10]
+http://120.202.94.181:9446/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视 [源11]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/szwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,广东珠江高清 [源1]
+http://49.234.31.101:7066/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,广东珠江高清 [源2]
+http://49.234.31.101:7040/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东体育高清 [源1]
+http://49.234.31.101:7040/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,广东卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广东卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,广东卫视高清 [源5]
+http://115.150.63.77:9902/tsfile/live/0001_20.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,深圳卫视高清 [源1]
+http://121.19.134.137:808/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视高清 [源2]
+http://121.19.134.71:808/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,深圳卫视高清 [源3]
+http://49.234.31.101:7040/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,深圳卫视高清 [源4]
+http://101.18.24.178:808/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (保定,联通)
+#EXTINF:-1,深圳卫视高清 [源5]
+http://115.150.63.77:9902/tsfile/live/0001_23.m3u8?key=txiptv&playlive=1&authid=0 (赣州,电信)
+#EXTINF:-1,湖南都市 [源1]
+http://111.8.242.124:9999/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南都市 [源2]
+http://111.8.242.102:9999/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南都市 [源3]
+http://111.8.242.103:9999/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南都市 [源4]
+http://111.8.242.104:9999/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南经视 [源1]
+http://111.8.242.124:9999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南经视 [源2]
+http://111.8.242.102:9999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南经视 [源3]
+http://111.8.242.103:9999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南经视 [源4]
+http://111.8.242.104:9999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南电视剧 [源1]
+http://111.8.242.124:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南电视剧 [源2]
+http://111.8.242.102:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南电视剧 [源3]
+http://111.8.242.103:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南电视剧 [源4]
+http://111.8.242.104:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南爱晚 [源1]
+http://111.8.242.124:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南爱晚 [源2]
+http://111.8.242.102:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南爱晚 [源3]
+http://111.8.242.103:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南爱晚 [源4]
+http://111.8.242.104:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南教育 [源1]
+http://111.8.242.124:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南教育 [源2]
+http://111.8.242.102:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南教育 [源3]
+http://111.8.242.103:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南教育 [源4]
+http://111.8.242.104:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南娱乐 [源1]
+http://111.8.242.124:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南娱乐 [源2]
+http://111.8.242.102:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,湖南娱乐 [源3]
+http://111.8.242.103:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖南娱乐 [源4]
+http://111.8.242.104:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,衡阳公共 [源1]
+http://111.8.242.124:9999/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,衡阳公共 [源2]
+http://111.8.242.102:9999/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,衡阳公共 [源3]
+http://111.8.242.103:9999/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,益阳公共 [源1]
+http://111.8.242.124:9999/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,益阳公共 [源2]
+http://111.8.242.102:9999/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,益阳公共 [源3]
+http://111.8.242.103:9999/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北综合 [源1]
+http://120.202.94.181:9446/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北生活 [源1]
+http://120.202.94.181:9446/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北教育 [源1]
+http://120.202.94.181:9446/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北影视 [源1]
+http://120.202.94.181:9446/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北生活 [源1]
+http://120.202.94.181:9446/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北教育 [源1]
+http://120.202.94.181:9446/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,湖北影视 [源1]
+http://120.202.94.181:9446/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,广西国际 [源1]
+http://171.38.220.70:8082udp://@224.1.2.80:32080 (钦州,联通)
+#EXTINF:-1,天津卫视 [源1]
+http://111.8.242.124:9999/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源2]
+http://171.120.5.133:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源3]
+http://110.80.17.38:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源4]
+http://111.8.242.102:9999/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,天津卫视 [源5]
+http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.97:5146 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源6]
+http://49.234.31.101:7066/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&down=1 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源7]
+http://111.8.242.103:9999/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,天津卫视 [源8]
+http://171.120.6.38:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0 (太原,联通)
+#EXTINF:-1,天津卫视 [源9]
+http://111.8.242.104:9999/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0 (岳阳,移动)
+#EXTINF:-1,天津卫视 [源10]
+http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/tjwshd8m/index.m3u8 (杭州,阿里巴巴)
+#EXTINF:-1,厦门卫视 [源1]
+http://110.80.17.38:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,福建新闻 [源1]
+http://110.80.17.38:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+#EXTINF:-1,卡酷少儿 [源1]
+http://171.38.220.70:8082udp://@224.1.2.45:32045 (钦州,联通)
