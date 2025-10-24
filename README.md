@@ -28,7 +28,7 @@
 🎉💻 [IPTV-Web](https://github.com/Guovin/iptv-web)：IPTV电视直播源管理平台，支持在线播放等功能，开发中...
 
 💖 [频道别名收集计划](https://github.com/Guovin/iptv-api/discussions/1082)
-
+https://gh-proxy.com/raw.githubusercontent.com/加速
 - [✅ 核心特性](#核心特性)
 - [🔗 最新结果](#最新结果)
 - [⚙️ 配置参数](#配置)
