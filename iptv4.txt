@@ -1,4 +1,7 @@
 # 更新时间: 2025-10-26 03:05:28
+汕头频道,#genre#
+汕头综合,http://124.222.114.206/sxtv.php?id=st1
+汕头经济,http://124.222.114.206/sxtv.php?id=st2
 
 央视频道,#genre#
 CCTV1,http://163.142.186.57:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2282,4 +2285,5 @@ IPTV体育,http://118.248.170.97:8088/tsfile/live/0131_2.m3u8?key=txiptv&playliv
 未知电信12-hls-42,http://120.211.62.180:8000/hls/42/index.m3u8
 未知电信12-hls-43,http://120.211.62.180:8000/hls/43/index.m3u8
 未知电信12-hls-44,http://120.211.62.180:8000/hls/44/index.m3u8
+
 
