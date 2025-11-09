@@ -27,6 +27,7 @@ Hakkatv,http://123.51.136.80:8307/0.ts
 华视新闻,http://123.51.136.80:8319/0.ts
 
 央视频道,#genre#
+CCTV1,https://pull-flv-f11.douyincdn.com/media/stream-118291015589429932.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1763297810&major_anchor_level=common&sign=bdc13d9ad2568e3aaeb82d59972f105c&t_id=037-20251109205649814BDFB46A570AC248C5-kyuHfk&unique_id=stream-118291015589429932_684_flv&_session_id=227-2025110920565026754970946C31FB8B82.1762693010267.19316&rsi=0&abr_pts=-800
 CCTV1,http://218.13.170.98:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://163.142.186.57:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://175.0.68.108:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1200,4 +1201,5 @@ ICS频道,http://180.165.21.206:7777/tsfile/live/1032_1.m3u8?key=txiptv&playlive
 
 上海频道,#genre#
 上海教育台,http://180.165.21.206:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
