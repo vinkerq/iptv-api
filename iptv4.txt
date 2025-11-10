@@ -482,6 +482,11 @@ CCTV,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&aut
 明珠台,http://202.168.168.50:5000/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 澳视澳门,http://202.168.168.50:5000/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://202.168.168.50:5000/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+TVB星河,https://migu.188766.xyz/?migutoken=394583e0988aaebaa9edaf1fe78c521b&id=hk_tvbxh&type=dy
+TVB功夫,https://migu.188766.xyz/?migutoken=331f0928cfade83e4d13cf77a2f8262c&id=hk_yzwx&type=dy
+TVB Plus,https://migu.188766.xyz/?migutoken=b3f89ca4e7a671aa90383c4be8f7c3a7&id=hk_tvbp&type=dy
+无线新闻,https://migu.188766.xyz/?migutoken=8058532938fdc054ce09f63fef9ece05&id=hk_wxxw&type=dy
+无线娱乐新闻,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 
 卫视频道,#genre#
 三沙卫视,http://180.165.21.206:7777/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1201,6 +1206,7 @@ ICS频道,http://180.165.21.206:7777/tsfile/live/1032_1.m3u8?key=txiptv&playlive
 
 上海频道,#genre#
 上海教育台,http://180.165.21.206:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
