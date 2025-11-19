@@ -574,6 +574,19 @@ CCTV,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&aut
 港澳频道,#genre#
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,https://migu.188766.xyz/?migutoken=0df3582f5bc39a01d7651ebeae7d5605&id=hk_fct&type=dy
+翡翠台,https://live.catvod.com/iptv.php?id=owedlyam
+翡翠台,http://8.138.7.223/tv/hot.php?id=68
+翡翠台4K,https://live.catvod.com/iptv.php?id=38nwiie1
+TVB Plus,https://migu.188766.xyz/?migutoken=a431556b2efad81a19a0699c2aaa2e44&id=hk_tvbp&type=dy
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB无线新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
+TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
+TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+
+
 
 卫视频道,#genre#
 三沙卫视,http://180.165.21.206:7777/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1612,4 +1625,5 @@ IPTV野外,http://1.25.137.224:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=
 江苏频道,#genre#
 江苏城市,http://218.92.37.174:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
 江苏综艺,http://218.92.37.174:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
+
 
