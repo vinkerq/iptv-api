@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="汕头经济生活",汕头经济生活
+http://124.222.114.206/sxtv.php?id=st2
+#EXTINF:-1 tvg-name="汕头经济生活",汕头经济生活
 https://stream1.freetv.fun/shan-tou-jing-ji-4.m3u8
 #EXTINF:-1 tvg-name="汕头经济生活",汕头经济生活
 https://stream1.freetv.fun/shan-tou-jing-ji-4.m3u8
+#EXTINF:-1 tvg-name="汕头经济生活",汕头经济生活
+http://124.222.114.206/sxtv.php?id=st2
+#EXTINF:-1 tvg-name="汕头综合",汕头综合
+http://124.222.114.206/sxtv.php?id=st1
 #EXTINF:-1 tvg-name="汕头综合",汕头综合
 https://stream1.freetv.fun/shan-tou-zong-he-2.m3u8
 #EXTINF:-1 tvg-name="汕头综合",汕头综合
@@ -523,6 +529,8 @@ https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-8.m3u8
 https://stream1.freetv.fun/shan-tou-zong-he-2.m3u8
 #EXTINF:-1 tvg-name="汕头综合",汕头综合
 https://stream1.freetv.fun/shan-tou-zong-he-14.m3u8
+#EXTINF:-1 tvg-name="汕头综合",汕头综合
+http://124.222.114.206/sxtv.php?id=st1
 #EXTINF:-1 tvg-name="汕头综合",汕头综合
 https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
 #EXTINF:-1 tvg-name="揭阳公共频道",揭阳公共频道
