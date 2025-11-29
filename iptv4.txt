@@ -1,6 +1,9 @@
 汕头频道,#genre#
+汕头经济生活,http://124.222.114.206/sxtv.php?id=st2
 汕头经济生活,https://stream1.freetv.fun/shan-tou-jing-ji-4.m3u8
 汕头经济生活,https://stream1.freetv.fun/shan-tou-jing-ji-4.m3u8
+汕头经济生活,http://124.222.114.206/sxtv.php?id=st2
+汕头综合,http://124.222.114.206/sxtv.php?id=st1
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-2.m3u8
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-14.m3u8
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
@@ -265,6 +268,7 @@ CETV1,https://stream1.freetv.fun/cetv1-8.m3u8
 佛山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-8.m3u8
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-2.m3u8
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-14.m3u8
+汕头综合,http://124.222.114.206/sxtv.php?id=st1
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
 揭阳公共频道,https://stream1.freetv.fun/jie-yang-gong-gong-2.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-9.m3u8
