@@ -150,7 +150,7 @@ http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_
 #EXTINF:-1,深圳卫视 [源1]
 http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.92:5146 (广州,广东广电)
 #EXTINF:-1,深圳卫视 [源2]
-http://112.30.73.119:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+http://112.30.73.119:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0 (XX,移动)
 #EXTINF:-1,深圳卫视 [源3]
 http://120.202.94.181:9446/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
 #EXTINF:-1,深圳卫视 [源4]
@@ -262,7 +262,7 @@ http://47.116.70.223:9901http://120.210.193.151:8006/120000001003/live/program/_
 #EXTINF:-1,深圳卫视 [源1]
 http://202.168.187.221:9999http://16.0.0.1:4001/rtp/239.77.0.92:5146 (广州,广东广电)
 #EXTINF:-1,深圳卫视 [源2]
-http://112.30.73.119:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0 (Unknown,Unknown)
+http://112.30.73.119:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0 (XX,移动)
 #EXTINF:-1,深圳卫视 [源3]
 http://120.202.94.181:9446/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0 (Unknown,Unknown)
 #EXTINF:-1,深圳卫视 [源4]
