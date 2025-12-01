@@ -76,8 +76,6 @@ https://stream1.freetv.fun/cctv1-1.ctv
 #EXTINF:-1 tvg-name="CCTV1",CCTV1
 https://stream1.freetv.fun/cctv-01-3.ctv
 #EXTINF:-1 tvg-name="CCTV2",CCTV2
-https://stream1.freetv.fun/cctv2hd-1.m3u8
-#EXTINF:-1 tvg-name="CCTV2",CCTV2
 https://stream1.freetv.fun/cctv2-8m1080-2.m3u8
 #EXTINF:-1 tvg-name="CCTV2",CCTV2
 https://stream1.freetv.fun/cctv2-8m1080-4.m3u8
@@ -107,12 +105,6 @@ https://stream1.freetv.fun/cctv2-53.ctv
 https://stream1.freetv.fun/cctv2-77.ctv
 #EXTINF:-1 tvg-name="CCTV2",CCTV2
 https://stream1.freetv.fun/cctv-02-1.ctv
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-https://stream1.freetv.fun/cctv3-15.m3u8
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-https://stream1.freetv.fun/cctv-3gao-qing-2.m3u8
-#EXTINF:-1 tvg-name="CCTV3",CCTV3
-https://stream1.freetv.fun/cctv3hd-2.m3u8
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
 https://stream1.freetv.fun/cctv3-8m1080-2.m3u8
 #EXTINF:-1 tvg-name="CCTV3",CCTV3
@@ -190,8 +182,6 @@ https://stream1.freetv.fun/cctv5-23.ctv
 #EXTINF:-1 tvg-name="CCTV5",CCTV5
 https://stream1.freetv.fun/cctv5-97.ctv
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
-https://stream1.freetv.fun/cctv5-plus-6.m3u8
-#EXTINF:-1 tvg-name="CCTV5+",CCTV5+
 https://stream1.freetv.fun/cctv5-plus-14.m3u8
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
 https://stream1.freetv.fun/cctv5-plus-30.m3u8
@@ -207,10 +197,6 @@ https://stream1.freetv.fun/cctv5-plus-3.ctv
 https://stream1.freetv.fun/cctv5-plus--1.ctv
 #EXTINF:-1 tvg-name="CCTV5+",CCTV5+
 https://stream1.freetv.fun/cctv-5-plusti-yu-sai-shi-2.ctv
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-https://stream1.freetv.fun/cctv-6gao-qing-2.m3u8
-#EXTINF:-1 tvg-name="CCTV6",CCTV6
-https://stream1.freetv.fun/cctv6hd-2.m3u8
 #EXTINF:-1 tvg-name="CCTV6",CCTV6
 https://stream1.freetv.fun/cctv6-9.m3u8
 #EXTINF:-1 tvg-name="CCTV6",CCTV6
@@ -302,10 +288,6 @@ https://stream1.freetv.fun/cctv8-8.ctv
 #EXTINF:-1 tvg-name="CCTV8",CCTV8
 https://stream1.freetv.fun/cctv-08-1.ctv
 #EXTINF:-1 tvg-name="CCTV9",CCTV9
-https://stream1.freetv.fun/cctv9-41.m3u8
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
-https://stream1.freetv.fun/cctv-9gao-qing-1.m3u8
-#EXTINF:-1 tvg-name="CCTV9",CCTV9
 https://stream1.freetv.fun/cctv9-8m1080-1.m3u8
 #EXTINF:-1 tvg-name="CCTV9",CCTV9
 https://stream1.freetv.fun/cctv9-4m1080-1.m3u8
@@ -329,8 +311,6 @@ https://stream1.freetv.fun/cctv9-1.ctv
 https://stream1.freetv.fun/cctv9-11.ctv
 #EXTINF:-1 tvg-name="CCTV9",CCTV9
 https://stream1.freetv.fun/cctv9-59.ctv
-#EXTINF:-1 tvg-name="CCTV10",CCTV10
-https://stream1.freetv.fun/cctv-10ke-jiao-1.m3u8
 #EXTINF:-1 tvg-name="CCTV10",CCTV10
 https://stream1.freetv.fun/cctv10-79.m3u8
 #EXTINF:-1 tvg-name="CCTV10",CCTV10
@@ -392,8 +372,6 @@ https://stream1.freetv.fun/cctv11-50.ctv
 #EXTINF:-1 tvg-name="CCTV11",CCTV11
 https://stream1.freetv.fun/cctv-11-21.ctv
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
-https://stream1.freetv.fun/cctv12-32.m3u8
-#EXTINF:-1 tvg-name="CCTV12",CCTV12
 https://stream1.freetv.fun/cctv12-60.m3u8
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
 https://stream1.freetv.fun/cctv12-77.m3u8
@@ -429,10 +407,6 @@ https://stream1.freetv.fun/cctv-12-20.ctv
 https://stream1.freetv.fun/cctv12-1.ctv
 #EXTINF:-1 tvg-name="CCTV12",CCTV12
 https://stream1.freetv.fun/cctv12-9.ctv
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-https://stream1.freetv.fun/cctv-13xin-wen-4.m3u8
-#EXTINF:-1 tvg-name="CCTV13",CCTV13
-https://stream1.freetv.fun/cctv13hd-1.m3u8
 #EXTINF:-1 tvg-name="CCTV13",CCTV13
 https://stream1.freetv.fun/cctv13-4m1080-2.m3u8
 #EXTINF:-1 tvg-name="CCTV13",CCTV13
@@ -506,10 +480,6 @@ https://stream1.freetv.fun/cctv14-44.ctv
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
 https://stream1.freetv.fun/cctv15-51.m3u8
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
-https://stream1.freetv.fun/cctv-15gao-qing-4.m3u8
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
-https://stream1.freetv.fun/cctv-15yin-le-3.m3u8
-#EXTINF:-1 tvg-name="CCTV15",CCTV15
 https://stream1.freetv.fun/cctv15-1-5m1080-1.m3u8
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
 https://stream1.freetv.fun/cctv15-3-5m1080-2.m3u8
@@ -531,10 +501,6 @@ https://stream1.freetv.fun/cctv-15-17.ctv
 https://stream1.freetv.fun/cctv15-91.ctv
 #EXTINF:-1 tvg-name="CCTV15",CCTV15
 https://stream1.freetv.fun/cctv15-81.ctv
-#EXTINF:-1 tvg-name="CCTV16",CCTV16
-https://stream1.freetv.fun/cctv16-47.m3u8
-#EXTINF:-1 tvg-name="CCTV16",CCTV16
-https://stream1.freetv.fun/cctv16-53.m3u8
 #EXTINF:-1 tvg-name="CCTV16",CCTV16
 https://stream1.freetv.fun/cctv16-23.m3u8
 #EXTINF:-1 tvg-name="CCTV16",CCTV16
@@ -3243,3 +3209,4 @@ https://stream1.freetv.fun/jiang-su-wei-shi-26.ctv
 https://stream1.freetv.fun/jiang-su-wei-shi-100.ctv
 #EXTINF:-1 tvg-name="江苏卫视",江苏卫视
 https://stream1.freetv.fun/jiang-su-wei-shi-106.ctv
+
