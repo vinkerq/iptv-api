@@ -1,17 +1,12 @@
 汕头频道,#genre#
-汕头经济生活,https://stream1.freetv.fun/shan-tou-jing-ji-4.m3u8
 汕头经济生活,https://stream1.freetv.fun/shan-tou-sheng-huo-1.m3u8
 汕头经济生活,http://124.222.114.206/sxtv.php?id=st2
 汕头经济生活,https://stream1.freetv.fun/shan-tou-jing-ji-4.m3u8
 汕头经济生活,https://stream1.freetv.fun/shan-tou-sheng-huo-1.m3u8
 汕头经济生活,http://124.222.114.206/sxtv.php?id=st2
-汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-2.m3u8
-汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-14.m3u8
 汕头综合,http://124.222.114.206/sxtv.php?id=st1
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
 汕头新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
-揭阳公共频道,https://stream1.freetv.fun/jie-yang-gong-gong-2.m3u8
-揭阳新闻综合,https://stream1.freetv.fun/jie-yang-zong-he-1.m3u8
 揭阳新闻综合,https://stream1.freetv.fun/song-yang-xin-wen-zong-he-1.m3u8
 揭阳新闻综合,https://stream1.freetv.fun/jie-yang-zong-he-4.m3u8
 揭阳新闻综合,https://stream1.freetv.fun/jian-yang-xin-wen-zong-he-2.ctv
@@ -1659,3 +1654,4 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-5.ctv
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-26.ctv
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-100.ctv
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-106.ctv
+
