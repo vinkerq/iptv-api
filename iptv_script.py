@@ -6,31 +6,27 @@ from urllib3.util.retry import Retry
 from github import Github
 import base64
 
-# ============================
-# 仓库配置（直接使用提供的仓库地址）
-# ============================
+# 仓库配置
 REPO_OWNER = "vinkerq"
 REPO_NAME = "iptv-api"
-JIEMU_DIR = "jiemuyuan"  # 仓库中的节目源文件夹
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")  # 从Actions环境变量获取
+JIEMU_DIR = "jiemuyuan"
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 
-# 仓库文件路径（固定）
-SOURCE_FILE = f"{JIEMU_DIR}/jiemuyuan.txt"       # 主节目源
-RESERVE_FILE = f"{JIEMU_DIR}/jiemubaoliu.txt"   # 保留节目源
-EXCLUDE_FILE = f"{JIEMU_DIR}/jiemuyuanhmd.txt"  # 排除列表（单文件，适配仓库结构）
-OUTPUT_TXT = "iptv4.txt"
-OUTPUT_M3U = "iptv4.m3u"
+# 文件路径（输出到仓库根目录）
+SOURCE_FILE = f"{JIEMU_DIR}/jiemuyuan.txt"
+RESERVE_FILE = f"{JIEMU_DIR}/jiemubaoliu.txt"
+EXCLUDE_FILE = f"{JIEMU_DIR}/jiemuyuanhmd.txt"
+OUTPUT_TXT = "iptv4.txt"  # 根目录输出
+OUTPUT_M3U = "iptv4.m3u"  # 根目录输出
 LOG_FILE = "iptv4.log"
 
-# URL黑名单（保留原配置）
+# URL黑名单
 URL_BLACKLIST = [
     "https://stream1.freetv.fun/shan-tou-zong-he-14.m3u8",
     "https://stream1.freetv.fun/shan-tou-sheng-huo-1.m3u8"
 ]
 
-# ============================
-# 节目分类配置（保持原结构）
-# ============================
+# 节目分类配置
 CHANNEL_GROUPS = {
     "汕头频道,#genre#": ["汕头经济生活","汕头经济生活","汕头综合","汕头新闻综合","揭阳公共频道","揭阳新闻综合"],
     "央视频道,#genre#": [
@@ -203,39 +199,29 @@ CHANNEL_GROUPS = {
     ]
 }
 
-# ============================
-# GitHub仓库操作核心函数
-# ============================
+# GitHub仓库操作函数
 def get_github_repo():
-    """获取仓库实例"""
     g = Github(GITHUB_TOKEN)
     return g.get_repo(f"{REPO_OWNER}/{REPO_NAME}")
 
 def read_github_file(repo, file_path):
-    """读取仓库文件内容"""
     try:
         file_content = repo.get_contents(file_path)
         return base64.b64decode(file_content.content).decode("utf-8")
     except Exception as e:
-        print(f"警告：未找到文件 {file_path}，跳过 → {str(e)}")
+        print(f"警告：未找到文件 {file_path} → {str(e)}")
         return ""
 
 def write_github_file(repo, file_path, content, commit_msg):
-    """写入文件到仓库"""
     try:
-        # 尝试更新现有文件
         existing_file = repo.get_contents(file_path)
         repo.update_file(existing_file.path, commit_msg, content, existing_file.sha)
     except:
-        # 不存在则创建
         repo.create_file(file_path, commit_msg, content)
-    print(f"✅ 已更新文件：{file_path}")
+    print(f"✅ 已更新：{file_path}")
 
-# ============================
-# 工具函数（保持原逻辑）
-# ============================
+# 工具函数
 def download_channel_source():
-    """下载远程节目源更新主文件"""
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
@@ -253,11 +239,10 @@ def download_channel_source():
         response.raise_for_status()
         return response.text
     except Exception as e:
-        print(f"⚠️  远程节目源下载失败，使用仓库现有文件 → {str(e)}")
+        print(f"⚠️  远程更新失败 → {str(e)}")
         return None
 
 def get_core_channel_name(name: str) -> str:
-    """提取节目核心名称"""
     core_name = re.sub(r'^(?:\[(?:BD|HD|VGA|SD)\]\s*|(?:BD|HD|VGA|SD)\s+|-\s*)', '', name, flags=re.IGNORECASE)
     core_name = re.sub(r'\s*-gq$|\s*\d+m\d+$|\s*\*c$|\s*\*sm$|\s*\(备\)$|\s*\(粤\)$|\s*\(粵\)$', '', core_name, flags=re.IGNORECASE)
     core_name = re.sub(r'\[geo-blocked\]', '', core_name)
@@ -267,7 +252,6 @@ def get_core_channel_name(name: str) -> str:
     return core_name
 
 def load_exclude_sources(repo):
-    """加载排除列表（适配单文件）"""
     exclude_cores = set()
     exclude_urls = set()
     exclude_content = read_github_file(repo, EXCLUDE_FILE)
@@ -283,11 +267,9 @@ def load_exclude_sources(repo):
     return exclude_cores, exclude_urls
 
 def load_sources(repo, exclude_cores, exclude_urls):
-    """加载所有节目源（主文件+保留文件）"""
     sources = {}
     all_exclude_urls = exclude_urls.union(set(URL_BLACKLIST))
     
-    # 加载主节目源
     source_content = read_github_file(repo, SOURCE_FILE)
     for line in source_content.splitlines():
         line = line.strip()
@@ -302,7 +284,6 @@ def load_sources(repo, exclude_cores, exclude_urls):
             if url not in sources[core_name]:
                 sources[core_name].append(url)
     
-    # 加载保留节目源
     reserve_content = read_github_file(repo, RESERVE_FILE)
     for line in reserve_content.splitlines():
         line = line.strip()
@@ -320,7 +301,6 @@ def load_sources(repo, exclude_cores, exclude_urls):
     return sources
 
 def find_best_match_group(channel_name):
-    """自动匹配分类组"""
     core_name = get_core_channel_name(channel_name).lower()
     category_keywords = {
         "cctv": "央视频道,#genre#", "cetv": "央视频道,#genre#", "cgnt": "央视频道,#genre#",
@@ -337,30 +317,28 @@ def find_best_match_group(channel_name):
             return group
     return "卫视频道,#genre#"
 
-# ============================
-# 主逻辑
-# ============================
+# 主函数
 def main():
     repo = get_github_repo()
     log_lines = []
     
-    # 1. 更新主节目源（可选，可注释关闭）
+    # 更新主节目源
     new_source = download_channel_source()
     if new_source:
         write_github_file(repo, SOURCE_FILE, new_source, "Update jiemuyuan.txt from remote")
         log_lines.append("📥 已从远程更新主节目源")
     
-    # 2. 加载排除列表
+    # 加载排除列表
     exclude_cores, exclude_urls = load_exclude_sources(repo)
     all_exclude_urls = exclude_urls.union(set(URL_BLACKLIST))
     log_lines.append(f"🚫 排除统计：{len(exclude_cores)}个节目名，{len(all_exclude_urls)}个URL")
     log_lines.append(f"黑名单URL：{URL_BLACKLIST}")
     
-    # 3. 加载节目源
+    # 加载节目源
     all_sources = load_sources(repo, exclude_cores, exclude_urls)
     log_lines.append(f"📺 加载节目源：{len(all_sources)}个核心节目")
     
-    # 4. 生成输出内容
+    # 生成输出内容
     txt_out = []
     m3u_out = ["#EXTM3U"]
     processed = set()
@@ -390,14 +368,13 @@ def main():
             processed.add(core_name)
         txt_out.append("")
     
-    # 处理未分类的保留节目
+    # 处理未分类节目
     unprocessed = set(all_sources.keys()) - processed
     if unprocessed:
         log_lines.append(f"\n🔍 发现未分类节目：{unprocessed}")
         for core_name in unprocessed:
             group = find_best_match_group(core_name)
             urls = all_sources[core_name]
-            # 插入到对应分类后
             if group in txt_out:
                 idx = txt_out.index(group) + 1
                 while idx < len(txt_out) and txt_out[idx].strip() != "":
@@ -412,12 +389,12 @@ def main():
                 idx += 1
             log_lines.append(f"  🆕 自动分类：{core_name} → {group}（{len(urls)}条源）")
     
-    # 5. 写入结果
-    write_github_file(repo, OUTPUT_TXT, "\n".join(txt_out), "Auto generate iptv4.txt")
-    write_github_file(repo, OUTPUT_M3U, "\n".join(m3u_out), "Auto generate iptv4.m3u")
-    write_github_file(repo, LOG_FILE, "\n".join(log_lines), "Auto generate iptv4.log")
+    # 写入结果到仓库根目录
+    write_github_file(repo, OUTPUT_TXT, "\n".join(txt_out), "Update iptv4.txt")
+    write_github_file(repo, OUTPUT_M3U, "\n".join(m3u_out), "Update iptv4.m3u")
+    write_github_file(repo, LOG_FILE, "\n".join(log_lines), "Update iptv4.log")
     
-    log_lines.append(f"\n✅ 处理完成！输出文件：{OUTPUT_TXT}、{OUTPUT_M3U}")
+    log_lines.append(f"\n✅ 处理完成！输出到仓库根目录：{OUTPUT_TXT}、{OUTPUT_M3U}")
     print("\n".join(log_lines))
 
 if __name__ == "__main__":
