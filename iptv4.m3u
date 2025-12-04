@@ -7,815 +7,816 @@ https://stream1.freetv.fun/shan-tou-zong-he-2.m3u8
 https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
 #EXTINF:-1 group-title="汕头频道",汕头综合
 http://124.222.114.206/sxtv.php?id=st1
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTM3U
+#EXTINF:-1 group-title="酒店频道",CCTV1
 http://221.235.43.107:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="酒店频道",CCTV1
 http://221.235.43.73:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="酒店频道",CCTV1
 http://221.235.42.207:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="酒店频道",CCTV1
 http://221.235.43.220:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="酒店频道",CCTV1
 http://221.235.43.115:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="酒店频道",CCTV1
 http://171.117.23.60:9003/hls/1/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="酒店频道",CCTV1
 http://171.116.253.109:9003/hls/1/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="酒店频道",CCTV1
 http://182.34.117.131:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV1
+#EXTINF:-1 group-title="酒店频道",CCTV1
 http://183.11.239.36:808/hls/19/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="酒店频道",CCTV2
 http://183.11.239.36:808/hls/20/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="酒店频道",CCTV2
 http://221.235.43.115:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="酒店频道",CCTV2
 http://221.235.43.220:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="酒店频道",CCTV2
 http://171.117.23.60:9003/hls/2/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="酒店频道",CCTV2
 http://221.235.42.207:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="酒店频道",CCTV2
 http://221.235.43.73:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="酒店频道",CCTV2
 http://221.235.43.107:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV2
+#EXTINF:-1 group-title="酒店频道",CCTV2
 http://171.116.253.109:9003/hls/2/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV3
+#EXTINF:-1 group-title="酒店频道",CCTV3
 http://183.11.239.36:808/hls/91/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV3
+#EXTINF:-1 group-title="酒店频道",CCTV3
 http://221.235.43.73:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV3
+#EXTINF:-1 group-title="酒店频道",CCTV3
 http://221.235.43.107:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV3
+#EXTINF:-1 group-title="酒店频道",CCTV3
 http://221.235.42.207:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV3
+#EXTINF:-1 group-title="酒店频道",CCTV3
 http://171.117.23.60:9003/hls/3/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV3
+#EXTINF:-1 group-title="酒店频道",CCTV3
 http://221.235.43.220:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV3
+#EXTINF:-1 group-title="酒店频道",CCTV3
 http://221.235.43.115:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV3
+#EXTINF:-1 group-title="酒店频道",CCTV3
 http://171.116.253.109:9003/hls/3/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="酒店频道",CCTV4
 http://183.11.239.36:808/hls/77/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="酒店频道",CCTV4
 http://183.11.239.36:808/hls/22/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="酒店频道",CCTV4
 http://221.235.43.107:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="酒店频道",CCTV4
 http://221.235.42.207:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="酒店频道",CCTV4
 http://221.235.43.115:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="酒店频道",CCTV4
 http://221.235.43.73:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="酒店频道",CCTV4
 http://171.117.23.60:9003/hls/4/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="酒店频道",CCTV4
 http://171.116.253.109:9003/hls/4/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="酒店频道",CCTV4
 http://221.235.43.220:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV4
+#EXTINF:-1 group-title="酒店频道",CCTV4
 http://183.11.239.36:808/hls/67/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://183.11.239.36:808/hls/93/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://221.235.42.207:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://221.235.43.107:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://221.235.43.73:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://171.117.23.60:9003/hls/5/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://171.116.253.109:9003/hls/5/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://221.235.43.220:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://221.235.43.115:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://221.235.43.115:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://221.235.42.207:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://221.235.43.73:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://221.235.43.107:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://221.235.43.220:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="酒店频道",CCTV5
 http://171.117.23.60:9003/hls/6/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV6
+#EXTINF:-1 group-title="酒店频道",CCTV6
 http://183.11.239.36:808/hls/94/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV6
+#EXTINF:-1 group-title="酒店频道",CCTV6
 http://221.235.43.73:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV6
+#EXTINF:-1 group-title="酒店频道",CCTV6
 http://221.235.42.207:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV6
+#EXTINF:-1 group-title="酒店频道",CCTV6
 http://221.235.43.220:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV6
+#EXTINF:-1 group-title="酒店频道",CCTV6
 http://171.117.23.60:9003/hls/7/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV6
+#EXTINF:-1 group-title="酒店频道",CCTV6
 http://221.235.43.115:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV6
+#EXTINF:-1 group-title="酒店频道",CCTV6
 http://221.235.43.107:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV6
+#EXTINF:-1 group-title="酒店频道",CCTV6
 http://171.116.253.109:9003/hls/7/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV7
+#EXTINF:-1 group-title="酒店频道",CCTV7
 http://221.235.43.73:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV7
+#EXTINF:-1 group-title="酒店频道",CCTV7
 http://221.235.43.107:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV7
+#EXTINF:-1 group-title="酒店频道",CCTV7
 http://221.235.42.207:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV7
+#EXTINF:-1 group-title="酒店频道",CCTV7
 http://221.235.43.115:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV7
+#EXTINF:-1 group-title="酒店频道",CCTV7
 http://171.117.23.60:9003/hls/8/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV7
+#EXTINF:-1 group-title="酒店频道",CCTV7
 http://221.235.43.220:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV7
+#EXTINF:-1 group-title="酒店频道",CCTV7
 http://171.116.253.109:9003/hls/8/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV7
+#EXTINF:-1 group-title="酒店频道",CCTV7
 http://183.11.239.36:808/hls/25/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV8
+#EXTINF:-1 group-title="酒店频道",CCTV8
 http://221.235.43.107:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV8
+#EXTINF:-1 group-title="酒店频道",CCTV8
 http://221.235.43.73:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV8
+#EXTINF:-1 group-title="酒店频道",CCTV8
 http://221.235.43.115:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV8
+#EXTINF:-1 group-title="酒店频道",CCTV8
 http://221.235.43.220:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV8
+#EXTINF:-1 group-title="酒店频道",CCTV8
 http://221.235.42.207:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV8
+#EXTINF:-1 group-title="酒店频道",CCTV8
 http://171.116.253.109:9003/hls/9/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV8
+#EXTINF:-1 group-title="酒店频道",CCTV8
 http://171.117.23.60:9003/hls/9/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV8
+#EXTINF:-1 group-title="酒店频道",CCTV8
 http://183.11.239.36:808/hls/96/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="酒店频道",CCTV9
 http://221.235.43.73:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="酒店频道",CCTV9
 http://221.235.43.107:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="酒店频道",CCTV9
 http://221.235.42.207:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="酒店频道",CCTV9
 http://221.235.43.220:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="酒店频道",CCTV9
 http://171.117.23.60:9003/hls/10/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="酒店频道",CCTV9
 http://171.116.253.109:9003/hls/10/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="酒店频道",CCTV9
 http://221.235.43.115:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV9
+#EXTINF:-1 group-title="酒店频道",CCTV9
 http://183.11.239.36:808/hls/27/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="酒店频道",CCTV10
 http://221.235.43.73:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="酒店频道",CCTV10
 http://221.235.43.107:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="酒店频道",CCTV10
 http://221.235.42.207:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="酒店频道",CCTV10
 http://221.235.43.115:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="酒店频道",CCTV10
 http://171.117.23.60:9003/hls/11/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="酒店频道",CCTV10
 http://171.116.253.109:9003/hls/11/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="酒店频道",CCTV10
 http://221.235.43.220:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV10
+#EXTINF:-1 group-title="酒店频道",CCTV10
 http://183.11.239.36:808/hls/28/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV11
+#EXTINF:-1 group-title="酒店频道",CCTV11
 http://221.235.43.107:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV11
+#EXTINF:-1 group-title="酒店频道",CCTV11
 http://221.235.42.207:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV11
+#EXTINF:-1 group-title="酒店频道",CCTV11
 http://221.235.43.115:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV11
+#EXTINF:-1 group-title="酒店频道",CCTV11
 http://221.235.43.220:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV11
+#EXTINF:-1 group-title="酒店频道",CCTV11
 http://171.116.253.109:9003/hls/12/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV11
+#EXTINF:-1 group-title="酒店频道",CCTV11
 http://221.235.43.73:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV11
+#EXTINF:-1 group-title="酒店频道",CCTV11
 http://171.117.23.60:9003/hls/12/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV11
+#EXTINF:-1 group-title="酒店频道",CCTV11
 http://183.11.239.36:808/hls/29/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV12
+#EXTINF:-1 group-title="酒店频道",CCTV12
 http://221.235.42.207:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV12
+#EXTINF:-1 group-title="酒店频道",CCTV12
 http://221.235.43.115:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV12
+#EXTINF:-1 group-title="酒店频道",CCTV12
 http://221.235.43.73:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV12
+#EXTINF:-1 group-title="酒店频道",CCTV12
 http://221.235.43.107:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV12
+#EXTINF:-1 group-title="酒店频道",CCTV12
 http://171.116.253.109:9003/hls/13/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV12
+#EXTINF:-1 group-title="酒店频道",CCTV12
 http://221.235.43.220:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV12
+#EXTINF:-1 group-title="酒店频道",CCTV12
 http://171.117.23.60:9003/hls/13/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV12
+#EXTINF:-1 group-title="酒店频道",CCTV12
 http://183.11.239.36:808/hls/30/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="酒店频道",CCTV13
 http://221.235.43.115:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="酒店频道",CCTV13
 http://221.235.42.207:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="酒店频道",CCTV13
 http://221.235.43.107:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="酒店频道",CCTV13
 http://221.235.43.220:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="酒店频道",CCTV13
 http://221.235.43.73:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="酒店频道",CCTV13
 http://171.116.253.109:9003/hls/14/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="酒店频道",CCTV13
 http://171.117.23.60:9003/hls/14/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV13
+#EXTINF:-1 group-title="酒店频道",CCTV13
 http://183.11.239.36:808/hls/31/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="酒店频道",CCTV14
 http://221.235.43.73:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="酒店频道",CCTV14
 http://221.235.42.207:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="酒店频道",CCTV14
 http://221.235.43.107:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="酒店频道",CCTV14
 http://221.235.43.220:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="酒店频道",CCTV14
 http://171.116.253.109:9003/hls/15/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="酒店频道",CCTV14
 http://221.235.43.115:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="酒店频道",CCTV14
 http://171.117.23.60:9003/hls/15/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV14
+#EXTINF:-1 group-title="酒店频道",CCTV14
 http://183.11.239.36:808/hls/32/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV15
+#EXTINF:-1 group-title="酒店频道",CCTV15
 http://221.235.43.107:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV15
+#EXTINF:-1 group-title="酒店频道",CCTV15
 http://221.235.42.207:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV15
+#EXTINF:-1 group-title="酒店频道",CCTV15
 http://221.235.43.73:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV15
+#EXTINF:-1 group-title="酒店频道",CCTV15
 http://221.235.43.115:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV15
+#EXTINF:-1 group-title="酒店频道",CCTV15
 http://171.116.253.109:9003/hls/16/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV15
+#EXTINF:-1 group-title="酒店频道",CCTV15
 http://221.235.43.220:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV15
+#EXTINF:-1 group-title="酒店频道",CCTV15
 http://171.117.23.60:9003/hls/16/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV15
+#EXTINF:-1 group-title="酒店频道",CCTV15
 http://183.11.239.36:808/hls/102/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV16
+#EXTINF:-1 group-title="酒店频道",CCTV16
 http://171.117.23.60:9003/hls/17/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV16
+#EXTINF:-1 group-title="酒店频道",CCTV16
 http://171.116.253.109:9003/hls/17/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV16
+#EXTINF:-1 group-title="酒店频道",CCTV16
 http://183.11.239.36:808/hls/169/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV17
+#EXTINF:-1 group-title="酒店频道",CCTV17
 http://183.11.239.36:808/hls/35/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV17
+#EXTINF:-1 group-title="酒店频道",CCTV17
 http://221.235.43.107:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV17
+#EXTINF:-1 group-title="酒店频道",CCTV17
 http://221.235.43.220:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV17
+#EXTINF:-1 group-title="酒店频道",CCTV17
 http://221.235.43.115:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV17
+#EXTINF:-1 group-title="酒店频道",CCTV17
 http://221.235.42.207:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV17
+#EXTINF:-1 group-title="酒店频道",CCTV17
 http://221.235.43.73:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV17
+#EXTINF:-1 group-title="酒店频道",CCTV17
 http://171.117.23.60:9003/hls/18/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV17
+#EXTINF:-1 group-title="酒店频道",CCTV17
 http://171.116.253.109:9003/hls/18/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-NEWS
+#EXTINF:-1 group-title="酒店频道",CCTV-NEWS
 http://183.11.239.36:808/hls/34/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",CETV-1
+#EXTINF:-1 group-title="酒店频道",CETV-1
 http://183.11.239.36:808/hls/122/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",CETV2
+#EXTINF:-1 group-title="酒店频道",CETV2
 http://183.11.239.36:808/hls/78/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",CETV4
+#EXTINF:-1 group-title="酒店频道",CETV4
 http://183.11.239.36:808/hls/79/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",CETV早教
+#EXTINF:-1 group-title="酒店频道",CETV早教
 http://183.11.239.36:808/hls/100/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",CGTN
+#EXTINF:-1 group-title="酒店频道",CGTN
 http://221.235.43.220:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",CGTN
+#EXTINF:-1 group-title="酒店频道",CGTN
 http://221.235.43.73:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",CGTN
+#EXTINF:-1 group-title="酒店频道",CGTN
 http://221.235.42.207:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",CGTN
+#EXTINF:-1 group-title="酒店频道",CGTN
 http://221.235.43.107:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",CGTN
+#EXTINF:-1 group-title="酒店频道",CGTN
 http://221.235.43.115:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",CGTN俄语
+#EXTINF:-1 group-title="酒店频道",CGTN俄语
 http://183.11.239.36:808/hls/85/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",CGTN法语
+#EXTINF:-1 group-title="酒店频道",CGTN法语
 http://183.11.239.36:808/hls/82/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",CGTN英文记录
+#EXTINF:-1 group-title="酒店频道",CGTN英文记录
 http://183.11.239.36:808/hls/77/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",CGTN西班牙语
+#EXTINF:-1 group-title="酒店频道",CGTN西班牙语
 http://183.11.239.36:808/hls/81/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",CGTN阿拉伯语
+#EXTINF:-1 group-title="酒店频道",CGTN阿拉伯语
 http://183.11.239.36:808/hls/84/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",世界地理
+#EXTINF:-1 group-title="酒店频道",世界地理
 http://183.11.239.36:808/hls/11/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",世界地理
+#EXTINF:-1 group-title="酒店频道",世界地理
 http://171.116.253.109:9003/hls/59/index.m3u8
-#EXTINF:-1 group-title="卫视",东南卫视
+#EXTINF:-1 group-title="酒店频道",东南卫视
 http://221.235.43.220:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东南卫视
+#EXTINF:-1 group-title="酒店频道",东南卫视
 http://221.235.43.73:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东南卫视
+#EXTINF:-1 group-title="酒店频道",东南卫视
 http://221.235.43.107:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东南卫视
+#EXTINF:-1 group-title="酒店频道",东南卫视
 http://221.235.42.207:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东南卫视
+#EXTINF:-1 group-title="酒店频道",东南卫视
 http://221.235.43.115:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东方卫视
+#EXTINF:-1 group-title="酒店频道",东方卫视
 http://183.11.239.36:808/hls/114/index.m3u8
-#EXTINF:-1 group-title="卫视",东方卫视
+#EXTINF:-1 group-title="酒店频道",东方卫视
 http://221.235.43.115:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东方卫视
+#EXTINF:-1 group-title="酒店频道",东方卫视
 http://221.235.43.73:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东方卫视
+#EXTINF:-1 group-title="酒店频道",东方卫视
 http://221.235.43.220:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东方卫视
+#EXTINF:-1 group-title="酒店频道",东方卫视
 http://221.235.42.207:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东方卫视
+#EXTINF:-1 group-title="酒店频道",东方卫视
 http://221.235.43.107:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东方卫视
+#EXTINF:-1 group-title="酒店频道",东方卫视
 http://171.116.253.109:9003/hls/23/index.m3u8
-#EXTINF:-1 group-title="卫视",东方卫视
+#EXTINF:-1 group-title="酒店频道",东方卫视
 http://171.117.23.60:9003/hls/23/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",中学生
+#EXTINF:-1 group-title="酒店频道",中学生
 http://183.11.239.36:808/hls/24/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",书画
+#EXTINF:-1 group-title="酒店频道",书画
 http://183.11.239.36:808/hls/33/index.m3u8
-#EXTINF:-1 group-title="卫视",云南卫视
+#EXTINF:-1 group-title="酒店频道",云南卫视
 http://171.116.253.109:9003/hls/48/index.m3u8
-#EXTINF:-1 group-title="卫视",云南卫视
+#EXTINF:-1 group-title="酒店频道",云南卫视
 http://183.11.239.36:808/hls/52/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",兵器科技
+#EXTINF:-1 group-title="酒店频道",兵器科技
 http://171.116.253.109:9003/hls/75/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",兵器科技
+#EXTINF:-1 group-title="酒店频道",兵器科技
 http://183.11.239.36:808/hls/21/index.m3u8
-#EXTINF:-1 group-title="卫视",兵团卫视
+#EXTINF:-1 group-title="酒店频道",兵团卫视
 http://183.11.239.36:808/hls/7/index.m3u8
-#EXTINF:-1 group-title="卫视",内蒙卫视
+#EXTINF:-1 group-title="酒店频道",内蒙卫视
 http://171.117.23.60:9003/hls/38/index.m3u8
-#EXTINF:-1 group-title="卫视",内蒙卫视
+#EXTINF:-1 group-title="酒店频道",内蒙卫视
 http://171.116.253.109:9003/hls/38/index.m3u8
-#EXTINF:-1 group-title="卫视",内蒙古卫视
+#EXTINF:-1 group-title="酒店频道",内蒙古卫视
 http://183.11.239.36:808/hls/60/index.m3u8
-#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="酒店频道",北京卫视
 http://183.11.239.36:808/hls/41/index.m3u8
-#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="酒店频道",北京卫视
 http://221.235.43.73:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="酒店频道",北京卫视
 http://221.235.42.207:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="酒店频道",北京卫视
 http://171.116.253.109:9003/hls/20/index.m3u8
-#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="酒店频道",北京卫视
 http://221.235.43.220:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="酒店频道",北京卫视
 http://221.235.43.107:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="酒店频道",北京卫视
 http://171.117.23.60:9003/hls/20/index.m3u8
-#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 group-title="酒店频道",北京卫视
 http://221.235.43.115:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",卡酷少儿
+#EXTINF:-1 group-title="酒店频道",卡酷少儿
 http://171.116.253.109:9003/hls/57/index.m3u8
-#EXTINF:-1 group-title="卫视",厦门卫视
+#EXTINF:-1 group-title="酒店频道",厦门卫视
 http://183.11.239.36:808/hls/17/index.m3u8
-#EXTINF:-1 group-title="卫视",吉林卫视
+#EXTINF:-1 group-title="酒店频道",吉林卫视
 http://183.11.239.36:808/hls/10/index.m3u8
-#EXTINF:-1 group-title="卫视",吉林卫视
+#EXTINF:-1 group-title="酒店频道",吉林卫视
 http://171.117.23.60:9003/hls/34/index.m3u8
-#EXTINF:-1 group-title="卫视",吉林卫视
+#EXTINF:-1 group-title="酒店频道",吉林卫视
 http://171.116.253.109:9003/hls/34/index.m3u8
-#EXTINF:-1 group-title="卫视",吉林延边卫视
+#EXTINF:-1 group-title="酒店频道",吉林延边卫视
 http://183.11.239.36:808/hls/15/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",嘉佳卡通
+#EXTINF:-1 group-title="酒店频道",嘉佳卡通
 http://183.11.239.36:808/hls/8/index.m3u8
-#EXTINF:-1 group-title="卫视",四川卫视
+#EXTINF:-1 group-title="酒店频道",四川卫视
 http://183.11.239.36:808/hls/50/index.m3u8
-#EXTINF:-1 group-title="卫视",四川卫视
+#EXTINF:-1 group-title="酒店频道",四川卫视
 http://221.235.43.107:7777/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",四川卫视
+#EXTINF:-1 group-title="酒店频道",四川卫视
 http://221.235.42.207:7777/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",四川卫视
+#EXTINF:-1 group-title="酒店频道",四川卫视
 http://221.235.43.73:7777/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",四川卫视
+#EXTINF:-1 group-title="酒店频道",四川卫视
 http://171.116.253.109:9003/hls/44/index.m3u8
-#EXTINF:-1 group-title="卫视",四川卫视
+#EXTINF:-1 group-title="酒店频道",四川卫视
 http://221.235.43.115:7777/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",四川卫视
+#EXTINF:-1 group-title="酒店频道",四川卫视
 http://221.235.43.220:7777/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",国学频道
+#EXTINF:-1 group-title="酒店频道",国学频道
 http://183.11.239.36:808/hls/23/index.m3u8
-#EXTINF:-1 group-title="卫视",天津卫视
+#EXTINF:-1 group-title="酒店频道",天津卫视
 http://221.235.43.107:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",天津卫视
+#EXTINF:-1 group-title="酒店频道",天津卫视
 http://221.235.42.207:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",天津卫视
+#EXTINF:-1 group-title="酒店频道",天津卫视
 http://221.235.43.73:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",天津卫视
+#EXTINF:-1 group-title="酒店频道",天津卫视
 http://221.235.43.220:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",天津卫视
+#EXTINF:-1 group-title="酒店频道",天津卫视
 http://221.235.43.115:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",天津卫视
+#EXTINF:-1 group-title="酒店频道",天津卫视
 http://171.116.253.109:9003/hls/45/index.m3u8
-#EXTINF:-1 group-title="卫视",天津卫视
+#EXTINF:-1 group-title="酒店频道",天津卫视
 http://183.11.239.36:808/hls/42/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",央视台球
+#EXTINF:-1 group-title="酒店频道",央视台球
 http://171.116.253.109:9003/hls/63/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",央视台球
+#EXTINF:-1 group-title="酒店频道",央视台球
 http://183.11.239.36:808/hls/73/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",央视文化精品
+#EXTINF:-1 group-title="酒店频道",央视文化精品
 http://171.116.253.109:9003/hls/72/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",央视文化精品
+#EXTINF:-1 group-title="酒店频道",央视文化精品
 http://183.11.239.36:808/hls/97/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",央视高尔夫网球
+#EXTINF:-1 group-title="酒店频道",央视高尔夫网球
 http://171.116.253.109:9003/hls/64/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",女性时尚
+#EXTINF:-1 group-title="酒店频道",女性时尚
 http://183.11.239.36:808/hls/12/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",女性时尚
+#EXTINF:-1 group-title="酒店频道",女性时尚
 http://171.116.253.109:9003/hls/67/index.m3u8
-#EXTINF:-1 group-title="卫视",宁夏卫视
+#EXTINF:-1 group-title="酒店频道",宁夏卫视
 http://183.11.239.36:808/hls/106/index.m3u8
-#EXTINF:-1 group-title="卫视",宁夏卫视
+#EXTINF:-1 group-title="酒店频道",宁夏卫视
 http://171.117.23.60:9003/hls/39/index.m3u8
-#EXTINF:-1 group-title="卫视",宁夏卫视
+#EXTINF:-1 group-title="酒店频道",宁夏卫视
 http://171.116.253.109:9003/hls/39/index.m3u8
-#EXTINF:-1 group-title="卫视",安徽卫视
+#EXTINF:-1 group-title="酒店频道",安徽卫视
 http://221.235.43.73:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",安徽卫视
+#EXTINF:-1 group-title="酒店频道",安徽卫视
 http://221.235.43.107:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",安徽卫视
+#EXTINF:-1 group-title="酒店频道",安徽卫视
 http://221.235.42.207:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",安徽卫视
+#EXTINF:-1 group-title="酒店频道",安徽卫视
 http://221.235.43.220:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",安徽卫视
+#EXTINF:-1 group-title="酒店频道",安徽卫视
 http://221.235.43.115:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",安徽卫视
+#EXTINF:-1 group-title="酒店频道",安徽卫视
 http://171.116.253.109:9003/hls/21/index.m3u8
-#EXTINF:-1 group-title="卫视",安徽卫视
+#EXTINF:-1 group-title="酒店频道",安徽卫视
 http://171.117.23.60:9003/hls/21/index.m3u8
-#EXTINF:-1 group-title="卫视",安徽卫视
+#EXTINF:-1 group-title="酒店频道",安徽卫视
 http://183.11.239.36:808/hls/40/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",山东体育(电信高清)
+#EXTINF:-1 group-title="酒店频道",山东体育(电信高清)
 http://182.34.117.131:85/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",山东卫视
+#EXTINF:-1 group-title="酒店频道",山东卫视
 http://221.235.43.73:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",山东卫视
+#EXTINF:-1 group-title="酒店频道",山东卫视
 http://221.235.42.207:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",山东卫视
+#EXTINF:-1 group-title="酒店频道",山东卫视
 http://221.235.43.115:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",山东卫视
+#EXTINF:-1 group-title="酒店频道",山东卫视
 http://221.235.43.107:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",山东卫视
+#EXTINF:-1 group-title="酒店频道",山东卫视
 http://221.235.43.220:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",山东卫视
+#EXTINF:-1 group-title="酒店频道",山东卫视
 http://183.11.239.36:808/hls/43/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",山东教育
+#EXTINF:-1 group-title="酒店频道",山东教育
 http://183.11.239.36:808/hls/72/index.m3u8
-#EXTINF:-1 group-title="卫视",山西卫视
+#EXTINF:-1 group-title="酒店频道",山西卫视
 http://183.11.239.36:808/hls/59/index.m3u8
-#EXTINF:-1 group-title="卫视",山西卫视
+#EXTINF:-1 group-title="酒店频道",山西卫视
 http://171.116.253.109:9003/hls/19/index.m3u8
-#EXTINF:-1 group-title="卫视",山西卫视
+#EXTINF:-1 group-title="酒店频道",山西卫视
 http://171.117.23.60:9003/hls/19/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",山西文体生活
+#EXTINF:-1 group-title="酒店频道",山西文体生活
 http://171.116.253.109:9003/hls/54/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",山西社会与法制
+#EXTINF:-1 group-title="酒店频道",山西社会与法制
 http://171.116.253.109:9003/hls/53/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",山西经济与科技
+#EXTINF:-1 group-title="酒店频道",山西经济与科技
 http://171.116.253.109:9003/hls/52/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",山西黄河
+#EXTINF:-1 group-title="酒店频道",山西黄河
 http://171.116.253.109:9003/hls/55/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",广东体育
+#EXTINF:-1 group-title="酒店频道",广东体育
 http://183.11.239.36:808/hls/2/index.m3u8
-#EXTINF:-1 group-title="卫视",广东卫视
+#EXTINF:-1 group-title="酒店频道",广东卫视
 http://183.11.239.36:808/hls/80/index.m3u8
-#EXTINF:-1 group-title="卫视",广东卫视
+#EXTINF:-1 group-title="酒店频道",广东卫视
 http://221.235.43.220:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",广东卫视
+#EXTINF:-1 group-title="酒店频道",广东卫视
 http://221.235.43.73:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",广东卫视
+#EXTINF:-1 group-title="酒店频道",广东卫视
 http://221.235.42.207:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",广东卫视
+#EXTINF:-1 group-title="酒店频道",广东卫视
 http://221.235.43.107:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",广东卫视
+#EXTINF:-1 group-title="酒店频道",广东卫视
 http://221.235.43.115:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",广东卫视
+#EXTINF:-1 group-title="酒店频道",广东卫视
 http://171.116.253.109:9003/hls/26/index.m3u8
-#EXTINF:-1 group-title="卫视",广东卫视
+#EXTINF:-1 group-title="酒店频道",广东卫视
 http://171.117.23.60:9003/hls/26/index.m3u8
-#EXTINF:-1 group-title="卫视",广东大湾区卫视
+#EXTINF:-1 group-title="酒店频道",广东大湾区卫视
 http://183.11.239.36:808/hls/132/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",广东少儿
+#EXTINF:-1 group-title="酒店频道",广东少儿
 http://183.11.239.36:808/hls/175/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",广东影视
+#EXTINF:-1 group-title="酒店频道",广东影视
 http://183.11.239.36:808/hls/6/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",广东新闻
+#EXTINF:-1 group-title="酒店频道",广东新闻
 http://183.11.239.36:808/hls/5/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",广东民生
+#EXTINF:-1 group-title="酒店频道",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",广东珠江
+#EXTINF:-1 group-title="酒店频道",广东珠江
 http://183.11.239.36:808/hls/83/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",广东移动
+#EXTINF:-1 group-title="酒店频道",广东移动
 http://183.11.239.36:808/hls/14/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",广东综艺(4k)
+#EXTINF:-1 group-title="酒店频道",广东综艺(4k)
 http://183.11.239.36:808/hls/9/index.m3u8
-#EXTINF:-1 group-title="卫视",广西卫视
+#EXTINF:-1 group-title="酒店频道",广西卫视
 http://183.11.239.36:808/hls/56/index.m3u8
-#EXTINF:-1 group-title="卫视",广西卫视
+#EXTINF:-1 group-title="酒店频道",广西卫视
 http://171.117.23.60:9003/hls/27/index.m3u8
-#EXTINF:-1 group-title="卫视",广西卫视
+#EXTINF:-1 group-title="酒店频道",广西卫视
 http://171.116.253.109:9003/hls/27/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",怀旧剧场
+#EXTINF:-1 group-title="酒店频道",怀旧剧场
 http://171.116.253.109:9003/hls/58/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",怀旧剧场
+#EXTINF:-1 group-title="酒店频道",怀旧剧场
 http://183.11.239.36:808/hls/92/index.m3u8
-#EXTINF:-1 group-title="卫视",新疆卫视
+#EXTINF:-1 group-title="酒店频道",新疆卫视
 http://171.116.253.109:9003/hls/47/index.m3u8
-#EXTINF:-1 group-title="卫视",新疆卫视
+#EXTINF:-1 group-title="酒店频道",新疆卫视
 http://183.11.239.36:808/hls/65/index.m3u8
-#EXTINF:-1 group-title="卫视",江苏卫视
+#EXTINF:-1 group-title="酒店频道",江苏卫视
 http://183.11.239.36:808/hls/38/index.m3u8
-#EXTINF:-1 group-title="卫视",江苏卫视
+#EXTINF:-1 group-title="酒店频道",江苏卫视
 http://221.235.43.73:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江苏卫视
+#EXTINF:-1 group-title="酒店频道",江苏卫视
 http://221.235.42.207:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江苏卫视
+#EXTINF:-1 group-title="酒店频道",江苏卫视
 http://221.235.43.115:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江苏卫视
+#EXTINF:-1 group-title="酒店频道",江苏卫视
 http://221.235.43.107:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江苏卫视
+#EXTINF:-1 group-title="酒店频道",江苏卫视
 http://221.235.43.220:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江苏卫视
+#EXTINF:-1 group-title="酒店频道",江苏卫视
 http://171.116.253.109:9003/hls/35/index.m3u8
-#EXTINF:-1 group-title="卫视",江苏卫视
+#EXTINF:-1 group-title="酒店频道",江苏卫视
 http://171.117.23.60:9003/hls/35/index.m3u8
-#EXTINF:-1 group-title="卫视",江西卫视
+#EXTINF:-1 group-title="酒店频道",江西卫视
 http://221.235.43.73:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江西卫视
+#EXTINF:-1 group-title="酒店频道",江西卫视
 http://221.235.43.220:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江西卫视
+#EXTINF:-1 group-title="酒店频道",江西卫视
 http://221.235.43.107:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江西卫视
+#EXTINF:-1 group-title="酒店频道",江西卫视
 http://221.235.43.115:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江西卫视
+#EXTINF:-1 group-title="酒店频道",江西卫视
 http://221.235.42.207:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江西卫视
+#EXTINF:-1 group-title="酒店频道",江西卫视
 http://171.117.23.60:9003/hls/36/index.m3u8
-#EXTINF:-1 group-title="卫视",江西卫视
+#EXTINF:-1 group-title="酒店频道",江西卫视
 http://171.116.253.109:9003/hls/36/index.m3u8
-#EXTINF:-1 group-title="卫视",江西卫视
+#EXTINF:-1 group-title="酒店频道",江西卫视
 http://183.11.239.36:808/hls/44/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",汽摩
+#EXTINF:-1 group-title="酒店频道",汽摩
 http://183.11.239.36:808/hls/66/index.m3u8
-#EXTINF:-1 group-title="卫视",河北卫视
+#EXTINF:-1 group-title="酒店频道",河北卫视
 http://183.11.239.36:808/hls/54/index.m3u8
-#EXTINF:-1 group-title="卫视",河北卫视
+#EXTINF:-1 group-title="酒店频道",河北卫视
 http://171.117.23.60:9003/hls/29/index.m3u8
-#EXTINF:-1 group-title="卫视",河北卫视
+#EXTINF:-1 group-title="酒店频道",河北卫视
 http://171.116.253.109:9003/hls/29/index.m3u8
-#EXTINF:-1 group-title="卫视",河南卫视
+#EXTINF:-1 group-title="酒店频道",河南卫视
 http://221.235.43.107:7777/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",河南卫视
+#EXTINF:-1 group-title="酒店频道",河南卫视
 http://221.235.42.207:7777/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",河南卫视
+#EXTINF:-1 group-title="酒店频道",河南卫视
 http://221.235.43.115:7777/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",河南卫视
+#EXTINF:-1 group-title="酒店频道",河南卫视
 http://171.117.23.60:9003/hls/30/index.m3u8
-#EXTINF:-1 group-title="卫视",河南卫视
+#EXTINF:-1 group-title="酒店频道",河南卫视
 http://221.235.43.220:7777/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",河南卫视
+#EXTINF:-1 group-title="酒店频道",河南卫视
 http://171.116.253.109:9003/hls/30/index.m3u8
-#EXTINF:-1 group-title="卫视",河南卫视
+#EXTINF:-1 group-title="酒店频道",河南卫视
 http://221.235.43.73:7777/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",河南卫视
+#EXTINF:-1 group-title="酒店频道",河南卫视
 http://183.11.239.36:808/hls/51/index.m3u8
-#EXTINF:-1 group-title="卫视",浙江卫视
+#EXTINF:-1 group-title="酒店频道",浙江卫视
 http://221.235.43.73:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",浙江卫视
+#EXTINF:-1 group-title="酒店频道",浙江卫视
 http://221.235.43.107:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",浙江卫视
+#EXTINF:-1 group-title="酒店频道",浙江卫视
 http://221.235.43.115:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",浙江卫视
+#EXTINF:-1 group-title="酒店频道",浙江卫视
 http://221.235.42.207:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",浙江卫视
+#EXTINF:-1 group-title="酒店频道",浙江卫视
 http://221.235.43.220:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",浙江卫视
+#EXTINF:-1 group-title="酒店频道",浙江卫视
 http://171.116.253.109:9003/hls/49/index.m3u8
-#EXTINF:-1 group-title="卫视",浙江卫视高清
+#EXTINF:-1 group-title="酒店频道",浙江卫视高清
 http://183.11.239.36:808/hls/37/index.m3u8
-#EXTINF:-1 group-title="卫视",海南卫视
+#EXTINF:-1 group-title="酒店频道",海南卫视
 http://183.11.239.36:808/hls/124/index.m3u8
-#EXTINF:-1 group-title="卫视",海南卫视
+#EXTINF:-1 group-title="酒店频道",海南卫视
 http://171.117.23.60:9003/hls/28/index.m3u8
-#EXTINF:-1 group-title="卫视",海南卫视
+#EXTINF:-1 group-title="酒店频道",海南卫视
 http://171.116.253.109:9003/hls/28/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",深圳健康频道
+#EXTINF:-1 group-title="酒店频道",深圳健康频道
 http://183.11.239.36:808/hls/158/index.m3u8
-#EXTINF:-1 group-title="卫视",深圳卫视
+#EXTINF:-1 group-title="酒店频道",深圳卫视
 http://221.235.43.73:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",深圳卫视
+#EXTINF:-1 group-title="酒店频道",深圳卫视
 http://221.235.42.207:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",深圳卫视
+#EXTINF:-1 group-title="酒店频道",深圳卫视
 http://221.235.43.220:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",深圳卫视
+#EXTINF:-1 group-title="酒店频道",深圳卫视
 http://221.235.43.115:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",深圳卫视
+#EXTINF:-1 group-title="酒店频道",深圳卫视
 http://221.235.43.107:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",深圳卫视
+#EXTINF:-1 group-title="酒店频道",深圳卫视
 http://171.116.253.109:9003/hls/43/index.m3u8
-#EXTINF:-1 group-title="卫视",深圳卫视
+#EXTINF:-1 group-title="酒店频道",深圳卫视
 http://183.11.239.36:808/hls/45/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",深圳少儿
+#EXTINF:-1 group-title="酒店频道",深圳少儿
 http://183.11.239.36:808/hls/157/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",深圳电视剧频道
+#EXTINF:-1 group-title="酒店频道",深圳电视剧频道
 http://183.11.239.36:808/hls/141/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",深圳财经生活
+#EXTINF:-1 group-title="酒店频道",深圳财经生活
 http://183.11.239.36:808/hls/151/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",深圳都市
+#EXTINF:-1 group-title="酒店频道",深圳都市
 http://183.11.239.36:808/hls/140/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",湖北公共
+#EXTINF:-1 group-title="酒店频道",湖北公共
 http://221.235.42.207:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北公共
+#EXTINF:-1 group-title="酒店频道",湖北公共
 http://221.235.43.107:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北公共
+#EXTINF:-1 group-title="酒店频道",湖北公共
 http://221.235.43.115:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北公共
+#EXTINF:-1 group-title="酒店频道",湖北公共
 http://221.235.43.220:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北公共
+#EXTINF:-1 group-title="酒店频道",湖北公共
 http://221.235.43.73:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖北卫视
+#EXTINF:-1 group-title="酒店频道",湖北卫视
 http://183.11.239.36:808/hls/46/index.m3u8
-#EXTINF:-1 group-title="卫视",湖北卫视
+#EXTINF:-1 group-title="酒店频道",湖北卫视
 http://221.235.42.207:7777/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖北卫视
+#EXTINF:-1 group-title="酒店频道",湖北卫视
 http://221.235.43.115:7777/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖北卫视
+#EXTINF:-1 group-title="酒店频道",湖北卫视
 http://171.117.23.60:9003/hls/32/index.m3u8
-#EXTINF:-1 group-title="卫视",湖北卫视
+#EXTINF:-1 group-title="酒店频道",湖北卫视
 http://221.235.43.73:7777/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖北卫视
+#EXTINF:-1 group-title="酒店频道",湖北卫视
 http://221.235.43.220:7777/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖北卫视
+#EXTINF:-1 group-title="酒店频道",湖北卫视
 http://221.235.43.107:7777/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖北卫视
+#EXTINF:-1 group-title="酒店频道",湖北卫视
 http://171.116.253.109:9003/hls/32/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",湖北经视
+#EXTINF:-1 group-title="酒店频道",湖北经视
 http://221.235.42.207:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北经视
+#EXTINF:-1 group-title="酒店频道",湖北经视
 http://221.235.43.73:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北经视
+#EXTINF:-1 group-title="酒店频道",湖北经视
 http://221.235.43.220:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北经视
+#EXTINF:-1 group-title="酒店频道",湖北经视
 http://221.235.43.107:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北经视
+#EXTINF:-1 group-title="酒店频道",湖北经视
 http://221.235.43.115:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北综合
+#EXTINF:-1 group-title="酒店频道",湖北综合
 http://221.235.43.220:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北综合
+#EXTINF:-1 group-title="酒店频道",湖北综合
 http://221.235.43.107:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北综合
+#EXTINF:-1 group-title="酒店频道",湖北综合
 http://221.235.42.207:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北综合
+#EXTINF:-1 group-title="酒店频道",湖北综合
 http://221.235.43.73:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店TV频道",湖北综合
+#EXTINF:-1 group-title="酒店频道",湖北综合
 http://221.235.43.115:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖南卫视
+#EXTINF:-1 group-title="酒店频道",湖南卫视
 http://183.11.239.36:808/hls/36/index.m3u8
-#EXTINF:-1 group-title="卫视",湖南卫视
+#EXTINF:-1 group-title="酒店频道",湖南卫视
 http://221.235.42.207:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖南卫视
+#EXTINF:-1 group-title="酒店频道",湖南卫视
 http://221.235.43.73:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖南卫视
+#EXTINF:-1 group-title="酒店频道",湖南卫视
 http://221.235.43.107:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖南卫视
+#EXTINF:-1 group-title="酒店频道",湖南卫视
 http://221.235.43.115:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖南卫视
+#EXTINF:-1 group-title="酒店频道",湖南卫视
 http://171.117.23.60:9003/hls/33/index.m3u8
-#EXTINF:-1 group-title="卫视",湖南卫视
+#EXTINF:-1 group-title="酒店频道",湖南卫视
 http://221.235.43.220:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",甘肃卫视
+#EXTINF:-1 group-title="酒店频道",甘肃卫视
 http://171.116.253.109:9003/hls/25/index.m3u8
-#EXTINF:-1 group-title="卫视",甘肃卫视
+#EXTINF:-1 group-title="酒店频道",甘肃卫视
 http://171.117.23.60:9003/hls/25/index.m3u8
-#EXTINF:-1 group-title="卫视",甘肃卫视
+#EXTINF:-1 group-title="酒店频道",甘肃卫视
 http://183.11.239.36:808/hls/119/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",电视指南
+#EXTINF:-1 group-title="酒店频道",电视指南
 http://183.11.239.36:808/hls/13/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",电视指南
+#EXTINF:-1 group-title="酒店频道",电视指南
 http://171.116.253.109:9003/hls/76/index.m3u8
-#EXTINF:-1 group-title="卫视",福建卫视
+#EXTINF:-1 group-title="酒店频道",福建卫视
 http://171.116.253.109:9003/hls/24/index.m3u8
-#EXTINF:-1 group-title="卫视",福建卫视
+#EXTINF:-1 group-title="酒店频道",福建卫视
 http://171.117.23.60:9003/hls/24/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",第一剧场
+#EXTINF:-1 group-title="酒店频道",第一剧场
 http://171.116.253.109:9003/hls/60/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",第一剧场
+#EXTINF:-1 group-title="酒店频道",第一剧场
 http://183.11.239.36:808/hls/98/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",经济科教
+#EXTINF:-1 group-title="酒店频道",经济科教
 http://183.11.239.36:808/hls/4/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",老故事
+#EXTINF:-1 group-title="酒店频道",老故事
 http://183.11.239.36:808/hls/26/index.m3u8
-#EXTINF:-1 group-title="卫视",西藏卫视
+#EXTINF:-1 group-title="酒店频道",西藏卫视
 http://183.11.239.36:808/hls/64/index.m3u8
-#EXTINF:-1 group-title="卫视",西藏卫视
+#EXTINF:-1 group-title="酒店频道",西藏卫视
 http://171.116.253.109:9003/hls/46/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",财富天下
+#EXTINF:-1 group-title="酒店频道",财富天下
 http://183.11.239.36:808/hls/75/index.m3u8
-#EXTINF:-1 group-title="卫视",贵州卫视
+#EXTINF:-1 group-title="酒店频道",贵州卫视
 http://221.235.42.207:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",贵州卫视
+#EXTINF:-1 group-title="酒店频道",贵州卫视
 http://221.235.43.73:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",贵州卫视
+#EXTINF:-1 group-title="酒店频道",贵州卫视
 http://221.235.43.220:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",贵州卫视
+#EXTINF:-1 group-title="酒店频道",贵州卫视
 http://221.235.43.107:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",贵州卫视
+#EXTINF:-1 group-title="酒店频道",贵州卫视
 http://221.235.43.115:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",贵州卫视
+#EXTINF:-1 group-title="酒店频道",贵州卫视
 http://183.11.239.36:808/hls/49/index.m3u8
-#EXTINF:-1 group-title="卫视",辽宁卫视
+#EXTINF:-1 group-title="酒店频道",辽宁卫视
 http://221.235.43.73:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",辽宁卫视
+#EXTINF:-1 group-title="酒店频道",辽宁卫视
 http://221.235.43.107:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",辽宁卫视
+#EXTINF:-1 group-title="酒店频道",辽宁卫视
 http://221.235.43.220:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",辽宁卫视
+#EXTINF:-1 group-title="酒店频道",辽宁卫视
 http://221.235.43.115:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",辽宁卫视
+#EXTINF:-1 group-title="酒店频道",辽宁卫视
 http://221.235.42.207:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",辽宁卫视
+#EXTINF:-1 group-title="酒店频道",辽宁卫视
 http://171.116.253.109:9003/hls/37/index.m3u8
-#EXTINF:-1 group-title="卫视",辽宁卫视
+#EXTINF:-1 group-title="酒店频道",辽宁卫视
 http://171.117.23.60:9003/hls/37/index.m3u8
-#EXTINF:-1 group-title="卫视",辽宁卫视
+#EXTINF:-1 group-title="酒店频道",辽宁卫视
 http://183.11.239.36:808/hls/47/index.m3u8
-#EXTINF:-1 group-title="卫视",重庆卫视
+#EXTINF:-1 group-title="酒店频道",重庆卫视
 http://183.11.239.36:808/hls/53/index.m3u8
-#EXTINF:-1 group-title="卫视",重庆卫视
+#EXTINF:-1 group-title="酒店频道",重庆卫视
 http://221.235.42.207:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",重庆卫视
+#EXTINF:-1 group-title="酒店频道",重庆卫视
 http://221.235.43.73:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",重庆卫视
+#EXTINF:-1 group-title="酒店频道",重庆卫视
 http://221.235.43.220:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",重庆卫视
+#EXTINF:-1 group-title="酒店频道",重庆卫视
 http://221.235.43.107:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",重庆卫视
+#EXTINF:-1 group-title="酒店频道",重庆卫视
 http://221.235.43.115:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",重庆卫视
+#EXTINF:-1 group-title="酒店频道",重庆卫视
 http://171.116.253.109:9003/hls/22/index.m3u8
-#EXTINF:-1 group-title="卫视",重庆卫视
+#EXTINF:-1 group-title="酒店频道",重庆卫视
 http://171.117.23.60:9003/hls/22/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",金鹰卡通
+#EXTINF:-1 group-title="酒店频道",金鹰卡通
 http://171.116.253.109:9003/hls/56/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",金鹰纪实
+#EXTINF:-1 group-title="酒店频道",金鹰纪实
 http://183.11.239.36:808/hls/171/index.m3u8
-#EXTINF:-1 group-title="卫视",陕西卫视
+#EXTINF:-1 group-title="酒店频道",陕西卫视
 http://171.116.253.109:9003/hls/42/index.m3u8
-#EXTINF:-1 group-title="卫视",陕西卫视
+#EXTINF:-1 group-title="酒店频道",陕西卫视
 http://183.11.239.36:808/hls/58/index.m3u8
-#EXTINF:-1 group-title="卫视",青海卫视
+#EXTINF:-1 group-title="酒店频道",青海卫视
 http://171.116.253.109:9003/hls/40/index.m3u8
-#EXTINF:-1 group-title="卫视",青海卫视
+#EXTINF:-1 group-title="酒店频道",青海卫视
 http://171.117.23.60:9003/hls/40/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",靓妆
+#EXTINF:-1 group-title="酒店频道",靓妆
 http://183.11.239.36:808/hls/12/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",风云剧场
+#EXTINF:-1 group-title="酒店频道",风云剧场
 http://171.116.253.109:9003/hls/61/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",风云剧场
+#EXTINF:-1 group-title="酒店频道",风云剧场
 http://183.11.239.36:808/hls/95/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",风云足球
+#EXTINF:-1 group-title="酒店频道",风云足球
 http://183.11.239.36:808/hls/133/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",风云足球
+#EXTINF:-1 group-title="酒店频道",风云足球
 http://171.116.253.109:9003/hls/33/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",风云音乐
+#EXTINF:-1 group-title="酒店频道",风云音乐
 http://171.116.253.109:9003/hls/62/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",风云音乐
+#EXTINF:-1 group-title="酒店频道",风云音乐
 http://183.11.239.36:808/hls/99/index.m3u8
-#EXTINF:-1 group-title="酒店TV频道",高尔夫，网球
+#EXTINF:-1 group-title="酒店频道",高尔夫，网球
 http://183.11.239.36:808/hls/174/index.m3u8
-#EXTINF:-1 group-title="卫视",黑龙江卫视
+#EXTINF:-1 group-title="酒店频道",黑龙江卫视
 http://183.11.239.36:808/hls/48/index.m3u8
-#EXTINF:-1 group-title="卫视",黑龙江卫视
+#EXTINF:-1 group-title="酒店频道",黑龙江卫视
 http://221.235.43.107:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",黑龙江卫视
+#EXTINF:-1 group-title="酒店频道",黑龙江卫视
 http://221.235.43.220:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",黑龙江卫视
+#EXTINF:-1 group-title="酒店频道",黑龙江卫视
 http://221.235.43.115:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",黑龙江卫视
+#EXTINF:-1 group-title="酒店频道",黑龙江卫视
 http://221.235.43.73:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",黑龙江卫视
+#EXTINF:-1 group-title="酒店频道",黑龙江卫视
 http://171.117.23.60:9003/hls/31/index.m3u8
-#EXTINF:-1 group-title="卫视",黑龙江卫视
+#EXTINF:-1 group-title="酒店频道",黑龙江卫视
 http://221.235.42.207:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",黑龙江卫视
+#EXTINF:-1 group-title="酒店频道",黑龙江卫视
 http://171.116.253.109:9003/hls/31/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
 https://stream1.freetv.fun/cctv1-57.m3u8
