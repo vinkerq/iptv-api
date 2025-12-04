@@ -10,297 +10,817 @@ http://124.222.114.206/sxtv.php?id=st1
 #EXTINF:-1 group-title="央视",CCTV1
 http://221.235.43.107:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV1
-http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV1
-http://220.187.219.47:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV1
-http://175.0.70.82:8088/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.220:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV1
+http://221.235.43.115:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV1
+http://171.117.23.60:9003/hls/1/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1
+http://171.116.253.109:9003/hls/1/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1
+http://182.34.117.131:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV1
+http://183.11.239.36:808/hls/19/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://183.11.239.36:808/hls/20/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://221.235.43.115:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV2
+http://221.235.43.220:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV2
+http://171.117.23.60:9003/hls/2/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://221.235.42.207:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV2
+http://221.235.43.73:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV2
 http://221.235.43.107:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV2
-http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV2
-http://220.187.219.47:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV2
-http://175.0.70.82:8088/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.116.253.109:9003/hls/2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV3
-http://175.0.70.82:8088/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/91/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV3
-http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV3
 http://221.235.43.107:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV3
-http://220.187.219.47:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV3
+http://171.117.23.60:9003/hls/3/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV3
+http://221.235.43.220:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV3
+http://221.235.43.115:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV3
+http://171.116.253.109:9003/hls/3/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
-http://175.0.70.82:8088/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/77/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://183.11.239.36:808/hls/22/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
 http://221.235.43.107:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV4
-http://220.187.219.47:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV4
+http://221.235.43.115:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV4
+http://221.235.43.73:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV4
+http://171.117.23.60:9003/hls/4/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://171.116.253.109:9003/hls/4/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://221.235.43.220:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV4
+http://183.11.239.36:808/hls/67/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5
-http://221.235.43.107:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/93/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5
-http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
-http://175.0.70.82:8088/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV5
-http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV5
 http://221.235.43.107:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV5
-http://220.187.219.47:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV5
+http://171.117.23.60:9003/hls/5/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5
+http://171.116.253.109:9003/hls/5/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5
+http://221.235.43.220:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV5
+http://221.235.43.115:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV5
+http://221.235.43.115:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV5
+http://221.235.42.207:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV5
+http://221.235.43.73:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV5
+http://221.235.43.107:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV5
+http://221.235.43.220:7777/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV5
+http://171.117.23.60:9003/hls/6/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV6
-http://175.0.70.82:8088/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/94/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV6
-http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV6
-http://220.187.219.47:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV6
+http://221.235.43.220:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV6
+http://171.117.23.60:9003/hls/7/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV6
+http://221.235.43.115:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV6
 http://221.235.43.107:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV6
+http://171.116.253.109:9003/hls/7/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV7
-http://175.0.70.82:8088/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV7
 http://221.235.43.107:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV7
-http://220.187.219.47:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV8
-http://175.0.70.82:8088/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV8
-http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV8
-http://220.187.219.47:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV7
+http://221.235.43.115:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV7
+http://171.117.23.60:9003/hls/8/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://221.235.43.220:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV7
+http://171.116.253.109:9003/hls/8/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://183.11.239.36:808/hls/25/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV8
 http://221.235.43.107:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV8
+http://221.235.43.73:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV8
+http://221.235.43.115:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV8
+http://221.235.43.220:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV8
+http://221.235.42.207:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV8
+http://171.116.253.109:9003/hls/9/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV8
+http://171.117.23.60:9003/hls/9/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV8
+http://183.11.239.36:808/hls/96/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV9
-http://175.0.70.82:8088/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV9
-http://220.187.219.47:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV9
-http://61.136.172.236:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV9
 http://221.235.43.107:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV9
+http://221.235.42.207:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV9
+http://221.235.43.220:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV9
+http://171.117.23.60:9003/hls/10/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+http://171.116.253.109:9003/hls/10/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+http://221.235.43.115:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV9
+http://183.11.239.36:808/hls/27/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV10
-http://61.136.172.236:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV10
-http://175.0.70.82:8088/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV10
-http://220.187.219.47:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV10
 http://221.235.43.107:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV11
-http://175.0.70.82:8088/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV10
+http://221.235.42.207:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV10
+http://221.235.43.115:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV10
+http://171.117.23.60:9003/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://171.116.253.109:9003/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://221.235.43.220:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV10
+http://183.11.239.36:808/hls/28/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV11
 http://221.235.43.107:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV11
-http://220.187.219.47:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV11
-http://61.136.172.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.115:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV11
+http://221.235.43.220:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV11
+http://171.116.253.109:9003/hls/12/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV11
+http://221.235.43.73:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV11
+http://171.117.23.60:9003/hls/12/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV11
+http://183.11.239.36:808/hls/29/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV12
-http://175.0.70.82:8088/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV12
-http://220.187.219.47:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.115:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV12
-http://61.136.172.236:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV12
 http://221.235.43.107:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV12
+http://171.116.253.109:9003/hls/13/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV12
+http://221.235.43.220:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV12
+http://171.117.23.60:9003/hls/13/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV12
+http://183.11.239.36:808/hls/30/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV13
-http://175.0.70.82:8088/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.115:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV13
+http://221.235.42.207:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV13
 http://221.235.43.107:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV13
-http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.220:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV13
+http://221.235.43.73:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV13
+http://171.116.253.109:9003/hls/14/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://171.117.23.60:9003/hls/14/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://183.11.239.36:808/hls/31/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV14
-http://175.0.70.82:8088/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV14
-http://61.136.172.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV14
 http://221.235.43.107:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV15
-http://175.0.70.82:8088/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV15
-http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV14
+http://221.235.43.220:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV14
+http://171.116.253.109:9003/hls/15/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV14
+http://221.235.43.115:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV14
+http://171.117.23.60:9003/hls/15/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV14
+http://183.11.239.36:808/hls/32/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV15
 http://221.235.43.107:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV15
+http://221.235.42.207:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV15
+http://221.235.43.73:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV15
+http://221.235.43.115:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV15
+http://171.116.253.109:9003/hls/16/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV15
+http://221.235.43.220:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV15
+http://171.117.23.60:9003/hls/16/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV15
+http://183.11.239.36:808/hls/102/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV16
+http://171.117.23.60:9003/hls/17/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV16
+http://171.116.253.109:9003/hls/17/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV16
+http://183.11.239.36:808/hls/169/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV17
+http://183.11.239.36:808/hls/35/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV17
 http://221.235.43.107:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源频道",CGTN
+#EXTINF:-1 group-title="央视",CCTV17
+http://221.235.43.220:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV17
+http://221.235.43.115:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV17
+http://221.235.42.207:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV17
+http://221.235.43.73:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV17
+http://171.117.23.60:9003/hls/18/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV17
+http://171.116.253.109:9003/hls/18/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-NEWS
+http://183.11.239.36:808/hls/34/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",CETV-1
+http://183.11.239.36:808/hls/122/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",CETV2
+http://183.11.239.36:808/hls/78/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",CETV4
+http://183.11.239.36:808/hls/79/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",CETV早教
+http://183.11.239.36:808/hls/100/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",CGTN
+http://221.235.43.220:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",CGTN
+http://221.235.43.73:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",CGTN
+http://221.235.42.207:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",CGTN
 http://221.235.43.107:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",上海卫视
-http://220.187.219.47:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",CGTN
+http://221.235.43.115:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",CGTN俄语
+http://183.11.239.36:808/hls/85/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",CGTN法语
+http://183.11.239.36:808/hls/82/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",CGTN英文记录
+http://183.11.239.36:808/hls/77/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",CGTN西班牙语
+http://183.11.239.36:808/hls/81/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",CGTN阿拉伯语
+http://183.11.239.36:808/hls/84/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",世界地理
+http://183.11.239.36:808/hls/11/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",世界地理
+http://171.116.253.109:9003/hls/59/index.m3u8
 #EXTINF:-1 group-title="卫视",东南卫视
-http://61.136.172.236:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.220:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",东南卫视
+http://221.235.43.73:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",东南卫视
 http://221.235.43.107:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",东南卫视
-http://220.187.219.47:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东南卫视高清
-http://175.0.70.82:8088/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",东南卫视
+http://221.235.43.115:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",东方卫视
-http://61.136.172.236:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/114/index.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视
+http://221.235.43.115:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",东方卫视
+http://221.235.43.73:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",东方卫视
+http://221.235.43.220:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",东方卫视
+http://221.235.42.207:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",东方卫视
 http://221.235.43.107:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",东方卫视高清
-http://175.0.70.82:8088/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",东方卫视
+http://171.116.253.109:9003/hls/23/index.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视
+http://171.117.23.60:9003/hls/23/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",中学生
+http://183.11.239.36:808/hls/24/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",书画
+http://183.11.239.36:808/hls/33/index.m3u8
 #EXTINF:-1 group-title="卫视",云南卫视
-http://220.187.219.47:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.116.253.109:9003/hls/48/index.m3u8
+#EXTINF:-1 group-title="卫视",云南卫视
+http://183.11.239.36:808/hls/52/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",兵器科技
+http://171.116.253.109:9003/hls/75/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",兵器科技
+http://183.11.239.36:808/hls/21/index.m3u8
+#EXTINF:-1 group-title="卫视",兵团卫视
+http://183.11.239.36:808/hls/7/index.m3u8
+#EXTINF:-1 group-title="卫视",内蒙卫视
+http://171.117.23.60:9003/hls/38/index.m3u8
+#EXTINF:-1 group-title="卫视",内蒙卫视
+http://171.116.253.109:9003/hls/38/index.m3u8
+#EXTINF:-1 group-title="卫视",内蒙古卫视
+http://183.11.239.36:808/hls/60/index.m3u8
 #EXTINF:-1 group-title="卫视",北京卫视
-http://61.136.172.236:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/41/index.m3u8
+#EXTINF:-1 group-title="卫视",北京卫视
+http://221.235.43.73:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",北京卫视
+http://221.235.42.207:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",北京卫视
+http://171.116.253.109:9003/hls/20/index.m3u8
+#EXTINF:-1 group-title="卫视",北京卫视
+http://221.235.43.220:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",北京卫视
 http://221.235.43.107:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",北京卫视
-http://220.187.219.47:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",北京卫视高清
-http://175.0.70.82:8088/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.117.23.60:9003/hls/20/index.m3u8
+#EXTINF:-1 group-title="卫视",北京卫视
+http://221.235.43.115:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",卡酷少儿
+http://171.116.253.109:9003/hls/57/index.m3u8
+#EXTINF:-1 group-title="卫视",厦门卫视
+http://183.11.239.36:808/hls/17/index.m3u8
 #EXTINF:-1 group-title="卫视",吉林卫视
-http://220.187.219.47:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/10/index.m3u8
 #EXTINF:-1 group-title="卫视",吉林卫视
-http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.117.23.60:9003/hls/34/index.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://171.116.253.109:9003/hls/34/index.m3u8
+#EXTINF:-1 group-title="卫视",吉林延边卫视
+http://183.11.239.36:808/hls/15/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",嘉佳卡通
+http://183.11.239.36:808/hls/8/index.m3u8
 #EXTINF:-1 group-title="卫视",四川卫视
-http://220.187.219.47:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",四川卫视
-http://61.136.172.236:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/50/index.m3u8
 #EXTINF:-1 group-title="卫视",四川卫视
 http://221.235.43.107:7777/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",天津卫视
-http://220.187.219.47:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",天津卫视
-http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",四川卫视
+http://221.235.42.207:7777/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",四川卫视
+http://221.235.43.73:7777/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",四川卫视
+http://171.116.253.109:9003/hls/44/index.m3u8
+#EXTINF:-1 group-title="卫视",四川卫视
+http://221.235.43.115:7777/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",四川卫视
+http://221.235.43.220:7777/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",国学频道
+http://183.11.239.36:808/hls/23/index.m3u8
 #EXTINF:-1 group-title="卫视",天津卫视
 http://221.235.43.107:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",天津卫视
+http://221.235.42.207:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",天津卫视
+http://221.235.43.73:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",天津卫视
+http://221.235.43.220:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",天津卫视
+http://221.235.43.115:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",天津卫视
+http://171.116.253.109:9003/hls/45/index.m3u8
+#EXTINF:-1 group-title="卫视",天津卫视
+http://183.11.239.36:808/hls/42/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",央视台球
+http://171.116.253.109:9003/hls/63/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",央视台球
+http://183.11.239.36:808/hls/73/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",央视文化精品
+http://171.116.253.109:9003/hls/72/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",央视文化精品
+http://183.11.239.36:808/hls/97/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",央视高尔夫网球
+http://171.116.253.109:9003/hls/64/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",女性时尚
+http://183.11.239.36:808/hls/12/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",女性时尚
+http://171.116.253.109:9003/hls/67/index.m3u8
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://183.11.239.36:808/hls/106/index.m3u8
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://171.117.23.60:9003/hls/39/index.m3u8
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://171.116.253.109:9003/hls/39/index.m3u8
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://221.235.43.73:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",安徽卫视
 http://221.235.43.107:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",安徽卫视
-http://220.187.219.47:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",安徽卫视
-http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",安徽卫视高清
-http://175.0.70.82:8088/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.220:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://221.235.43.115:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://171.116.253.109:9003/hls/21/index.m3u8
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://171.117.23.60:9003/hls/21/index.m3u8
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://183.11.239.36:808/hls/40/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",山东体育(电信高清)
+http://182.34.117.131:85/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",山东卫视
-http://220.187.219.47:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",山东卫视
-http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",山东卫视
+http://221.235.43.115:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",山东卫视
 http://221.235.43.107:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",山东卫视高清
-http://175.0.70.82:8088/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",山东卫视
+http://221.235.43.220:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",山东卫视
+http://183.11.239.36:808/hls/43/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",山东教育
+http://183.11.239.36:808/hls/72/index.m3u8
 #EXTINF:-1 group-title="卫视",山西卫视
-http://220.187.219.47:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/59/index.m3u8
+#EXTINF:-1 group-title="卫视",山西卫视
+http://171.116.253.109:9003/hls/19/index.m3u8
+#EXTINF:-1 group-title="卫视",山西卫视
+http://171.117.23.60:9003/hls/19/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",山西文体生活
+http://171.116.253.109:9003/hls/54/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",山西社会与法制
+http://171.116.253.109:9003/hls/53/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",山西经济与科技
+http://171.116.253.109:9003/hls/52/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",山西黄河
+http://171.116.253.109:9003/hls/55/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",广东体育
+http://183.11.239.36:808/hls/2/index.m3u8
 #EXTINF:-1 group-title="卫视",广东卫视
-http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/80/index.m3u8
 #EXTINF:-1 group-title="卫视",广东卫视
-http://220.187.219.47:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.220:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",广东卫视
+http://221.235.43.73:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",广东卫视
+http://221.235.42.207:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",广东卫视
 http://221.235.43.107:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",广东卫视高清
-http://175.0.70.82:8088/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",广东卫视
+http://221.235.43.115:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",广东卫视
+http://171.116.253.109:9003/hls/26/index.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视
+http://171.117.23.60:9003/hls/26/index.m3u8
+#EXTINF:-1 group-title="卫视",广东大湾区卫视
+http://183.11.239.36:808/hls/132/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",广东少儿
+http://183.11.239.36:808/hls/175/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",广东影视
+http://183.11.239.36:808/hls/6/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",广东新闻
+http://183.11.239.36:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",广东民生
+http://183.11.239.36:808/hls/18/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",广东珠江
+http://183.11.239.36:808/hls/83/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",广东移动
+http://183.11.239.36:808/hls/14/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",广东综艺(4k)
+http://183.11.239.36:808/hls/9/index.m3u8
 #EXTINF:-1 group-title="卫视",广西卫视
-http://220.187.219.47:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/56/index.m3u8
 #EXTINF:-1 group-title="卫视",广西卫视
-http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",旅游卫视
-http://220.187.219.47:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.117.23.60:9003/hls/27/index.m3u8
+#EXTINF:-1 group-title="卫视",广西卫视
+http://171.116.253.109:9003/hls/27/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",怀旧剧场
+http://171.116.253.109:9003/hls/58/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",怀旧剧场
+http://183.11.239.36:808/hls/92/index.m3u8
+#EXTINF:-1 group-title="卫视",新疆卫视
+http://171.116.253.109:9003/hls/47/index.m3u8
+#EXTINF:-1 group-title="卫视",新疆卫视
+http://183.11.239.36:808/hls/65/index.m3u8
 #EXTINF:-1 group-title="卫视",江苏卫视
-http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://221.235.43.73:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://221.235.42.207:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://221.235.43.115:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://221.235.43.107:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",江苏卫视
-http://220.187.219.47:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江苏卫视高清
-http://175.0.70.82:8088/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.220:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://171.116.253.109:9003/hls/35/index.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://171.117.23.60:9003/hls/35/index.m3u8
 #EXTINF:-1 group-title="卫视",江西卫视
-http://61.136.172.236:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",江西卫视
-http://220.187.219.47:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.220:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",江西卫视
 http://221.235.43.107:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",江西卫视高清
-http://175.0.70.82:8088/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",江西卫视
+http://221.235.43.115:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",江西卫视
+http://221.235.42.207:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",江西卫视
+http://171.117.23.60:9003/hls/36/index.m3u8
+#EXTINF:-1 group-title="卫视",江西卫视
+http://171.116.253.109:9003/hls/36/index.m3u8
+#EXTINF:-1 group-title="卫视",江西卫视
+http://183.11.239.36:808/hls/44/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",汽摩
+http://183.11.239.36:808/hls/66/index.m3u8
 #EXTINF:-1 group-title="卫视",河北卫视
-http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/54/index.m3u8
 #EXTINF:-1 group-title="卫视",河北卫视
-http://220.187.219.47:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",河南卫视
-http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",河南卫视
-http://220.187.219.47:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.117.23.60:9003/hls/29/index.m3u8
+#EXTINF:-1 group-title="卫视",河北卫视
+http://171.116.253.109:9003/hls/29/index.m3u8
 #EXTINF:-1 group-title="卫视",河南卫视
 http://221.235.43.107:7777/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",河南卫视
+http://221.235.42.207:7777/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",河南卫视
+http://221.235.43.115:7777/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",河南卫视
+http://171.117.23.60:9003/hls/30/index.m3u8
+#EXTINF:-1 group-title="卫视",河南卫视
+http://221.235.43.220:7777/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",河南卫视
+http://171.116.253.109:9003/hls/30/index.m3u8
+#EXTINF:-1 group-title="卫视",河南卫视
+http://221.235.43.73:7777/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",河南卫视
+http://183.11.239.36:808/hls/51/index.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视
-http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://175.0.70.82:8088/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://220.187.219.47:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",浙江卫视
 http://221.235.43.107:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://221.235.43.115:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://221.235.42.207:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://221.235.43.220:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://171.116.253.109:9003/hls/49/index.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视高清
+http://183.11.239.36:808/hls/37/index.m3u8
+#EXTINF:-1 group-title="卫视",海南卫视
+http://183.11.239.36:808/hls/124/index.m3u8
+#EXTINF:-1 group-title="卫视",海南卫视
+http://171.117.23.60:9003/hls/28/index.m3u8
+#EXTINF:-1 group-title="卫视",海南卫视
+http://171.116.253.109:9003/hls/28/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",深圳健康频道
+http://183.11.239.36:808/hls/158/index.m3u8
 #EXTINF:-1 group-title="卫视",深圳卫视
-http://220.187.219.47:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",深圳卫视
-http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://221.235.43.220:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://221.235.43.115:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",深圳卫视
 http://221.235.43.107:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",深圳卫视高清
-http://175.0.70.82:8088/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源频道",湖北公共
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://171.116.253.109:9003/hls/43/index.m3u8
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://183.11.239.36:808/hls/45/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",深圳少儿
+http://183.11.239.36:808/hls/157/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",深圳电视剧频道
+http://183.11.239.36:808/hls/141/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",深圳财经生活
+http://183.11.239.36:808/hls/151/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",深圳都市
+http://183.11.239.36:808/hls/140/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",湖北公共
+http://221.235.42.207:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北公共
 http://221.235.43.107:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北公共
+http://221.235.43.115:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北公共
+http://221.235.43.220:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北公共
+http://221.235.43.73:7777/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",湖北卫视
-http://61.136.172.236:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/46/index.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
-http://220.187.219.47:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://221.235.43.115:7777/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://171.117.23.60:9003/hls/32/index.m3u8
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://221.235.43.73:7777/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://221.235.43.220:7777/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",湖北卫视
 http://221.235.43.107:7777/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源频道",湖北经视
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://171.116.253.109:9003/hls/32/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",湖北经视
+http://221.235.42.207:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北经视
+http://221.235.43.73:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北经视
+http://221.235.43.220:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北经视
 http://221.235.43.107:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源频道",湖北综合
+#EXTINF:-1 group-title="酒店TV频道",湖北经视
+http://221.235.43.115:7777/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北综合
+http://221.235.43.220:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北综合
 http://221.235.43.107:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北综合
+http://221.235.42.207:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北综合
+http://221.235.43.73:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="酒店TV频道",湖北综合
+http://221.235.43.115:7777/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",湖南卫视
-http://61.136.172.236:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/36/index.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://221.235.42.207:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://221.235.43.73:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://221.235.43.107:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",湖南卫视
-http://220.187.219.47:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",湖南卫视高清
-http://175.0.70.82:8088/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源频道",湖南娱乐高清
-http://175.0.70.82:8088/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源频道",湖南都市高清
-http://175.0.70.82:8088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源频道",湖南金鹰卡通高清
-http://175.0.70.82:8088/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.115:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://171.117.23.60:9003/hls/33/index.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://221.235.43.220:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://171.116.253.109:9003/hls/25/index.m3u8
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://171.117.23.60:9003/hls/25/index.m3u8
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://183.11.239.36:808/hls/119/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",电视指南
+http://183.11.239.36:808/hls/13/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",电视指南
+http://171.116.253.109:9003/hls/76/index.m3u8
+#EXTINF:-1 group-title="卫视",福建卫视
+http://171.116.253.109:9003/hls/24/index.m3u8
+#EXTINF:-1 group-title="卫视",福建卫视
+http://171.117.23.60:9003/hls/24/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",第一剧场
+http://171.116.253.109:9003/hls/60/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",第一剧场
+http://183.11.239.36:808/hls/98/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",经济科教
+http://183.11.239.36:808/hls/4/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",老故事
+http://183.11.239.36:808/hls/26/index.m3u8
+#EXTINF:-1 group-title="卫视",西藏卫视
+http://183.11.239.36:808/hls/64/index.m3u8
+#EXTINF:-1 group-title="卫视",西藏卫视
+http://171.116.253.109:9003/hls/46/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",财富天下
+http://183.11.239.36:808/hls/75/index.m3u8
 #EXTINF:-1 group-title="卫视",贵州卫视
-http://61.136.172.236:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",贵州卫视
-http://220.187.219.47:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://221.235.43.220:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",贵州卫视
 http://221.235.43.107:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",贵州卫视高清
-http://175.0.70.82:8088/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://221.235.43.115:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://183.11.239.36:808/hls/49/index.m3u8
 #EXTINF:-1 group-title="卫视",辽宁卫视
-http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.73:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",辽宁卫视
 http://221.235.43.107:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",辽宁卫视
-http://220.187.219.47:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",辽宁卫视高清
-http://175.0.70.82:8088/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.43.220:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://221.235.43.115:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://221.235.42.207:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://171.116.253.109:9003/hls/37/index.m3u8
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://171.117.23.60:9003/hls/37/index.m3u8
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://183.11.239.36:808/hls/47/index.m3u8
 #EXTINF:-1 group-title="卫视",重庆卫视
-http://220.187.219.47:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/53/index.m3u8
 #EXTINF:-1 group-title="卫视",重庆卫视
-http://61.136.172.236:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.235.42.207:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://221.235.43.73:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://221.235.43.220:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",重庆卫视
 http://221.235.43.107:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://221.235.43.115:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://171.116.253.109:9003/hls/22/index.m3u8
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://171.117.23.60:9003/hls/22/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",金鹰卡通
+http://171.116.253.109:9003/hls/56/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",金鹰纪实
+http://183.11.239.36:808/hls/171/index.m3u8
+#EXTINF:-1 group-title="卫视",陕西卫视
+http://171.116.253.109:9003/hls/42/index.m3u8
+#EXTINF:-1 group-title="卫视",陕西卫视
+http://183.11.239.36:808/hls/58/index.m3u8
+#EXTINF:-1 group-title="卫视",青海卫视
+http://171.116.253.109:9003/hls/40/index.m3u8
+#EXTINF:-1 group-title="卫视",青海卫视
+http://171.117.23.60:9003/hls/40/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",靓妆
+http://183.11.239.36:808/hls/12/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",风云剧场
+http://171.116.253.109:9003/hls/61/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",风云剧场
+http://183.11.239.36:808/hls/95/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",风云足球
+http://183.11.239.36:808/hls/133/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",风云足球
+http://171.116.253.109:9003/hls/33/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",风云音乐
+http://171.116.253.109:9003/hls/62/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",风云音乐
+http://183.11.239.36:808/hls/99/index.m3u8
+#EXTINF:-1 group-title="酒店TV频道",高尔夫，网球
+http://183.11.239.36:808/hls/174/index.m3u8
 #EXTINF:-1 group-title="卫视",黑龙江卫视
-http://220.187.219.47:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视",黑龙江卫视
-http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/48/index.m3u8
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://221.235.43.107:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://221.235.43.220:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://221.235.43.115:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://221.235.43.73:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://171.117.23.60:9003/hls/31/index.m3u8
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://221.235.42.207:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://171.116.253.109:9003/hls/31/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
 https://stream1.freetv.fun/cctv1-57.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
 https://stream1.freetv.fun/cctv1-28.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
-https://stream1.freetv.fun/cctv1-38.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
 https://stream1.freetv.fun/cctv1-25.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
@@ -358,6 +878,8 @@ https://stream1.freetv.fun/cctv2-19.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
 https://stream1.freetv.fun/cctv2-17.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
+https://stream1.freetv.fun/cctv2-44.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
 https://stream1.freetv.fun/cctv2-35.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
 https://stream1.freetv.fun/cctv2-27.m3u8
@@ -414,21 +936,17 @@ https://stream1.freetv.fun/cctv3-53.ctv
 #EXTINF:-1 group-title="央视",CCTV4
 https://stream1.freetv.fun/cctv4-30.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
-https://stream1.freetv.fun/cctv4-65.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
 https://stream1.freetv.fun/cctv4-79.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
-https://stream1.freetv.fun/cctv4-13.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
 https://stream1.freetv.fun/cctv4-55.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
 https://stream1.freetv.fun/cctv4-28.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
+https://stream1.freetv.fun/cctv4-65.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
 https://stream1.freetv.fun/cctv4-52.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
 https://stream1.freetv.fun/cctv4-33.m3u8
-#EXTINF:-1 group-title="央视",CCTV4
-https://stream1.freetv.fun/cctv4-6.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
 https://stream1.freetv.fun/cctv4-4m1080-2.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
@@ -457,8 +975,6 @@ https://stream1.freetv.fun/cctv4-zhong-yang-wei-shi-1.ctv
 https://stream1.freetv.fun/cctv4-zhong-yang-wei-shi-4.ctv
 #EXTINF:-1 group-title="央视",CCTV4中文国际
 https://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-1.m3u8
-#EXTINF:-1 group-title="央视",CCTV4中文国际
-https://stream1.freetv.fun/cctv-4zhong-wen-guo-ji-5.m3u8
 #EXTINF:-1 group-title="央视",CCTV4中文国际
 https://stream1.freetv.fun/cctv-4-zhong-wen-guo-ji-6.ctv
 #EXTINF:-1 group-title="央视",CCTV5
@@ -491,8 +1007,6 @@ https://stream1.freetv.fun/cctv5-23.ctv
 https://stream1.freetv.fun/cctv5-97.ctv
 #EXTINF:-1 group-title="央视",CCTV5P
 https://stream1.freetv.fun/cctv5p-1.m3u8
-#EXTINF:-1 group-title="央视",CCTV5PLUS
-https://stream1.freetv.fun/cctv5-plus-6.m3u8
 #EXTINF:-1 group-title="央视",CCTV5PLUS
 https://stream1.freetv.fun/cctv5-plus-14.m3u8
 #EXTINF:-1 group-title="央视",CCTV5PLUS
@@ -546,9 +1060,9 @@ https://stream1.freetv.fun/cctv6-72.m3u8
 #EXTINF:-1 group-title="央视",CCTV6
 https://stream1.freetv.fun/cctv6-gq-1.ctv
 #EXTINF:-1 group-title="央视",CCTV6
-https://stream1.freetv.fun/cctv6--c-1.ctv
-#EXTINF:-1 group-title="央视",CCTV6
 https://stream1.freetv.fun/cctv6-71.ctv
+#EXTINF:-1 group-title="央视",CCTV6
+https://stream1.freetv.fun/cctv6-6.ctv
 #EXTINF:-1 group-title="央视",CCTV7
 https://stream1.freetv.fun/cctv7-29.m3u8
 #EXTINF:-1 group-title="央视",CCTV7
@@ -575,6 +1089,8 @@ https://stream1.freetv.fun/cctv7-53.m3u8
 https://stream1.freetv.fun/cctv7-57.m3u8
 #EXTINF:-1 group-title="央视",CCTV7
 https://stream1.freetv.fun/cctv7-16.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+https://stream1.freetv.fun/cctv7-18.ctv
 #EXTINF:-1 group-title="央视",CCTV7
 https://stream1.freetv.fun/cctv7-68.ctv
 #EXTINF:-1 group-title="央视",CCTV7
@@ -652,8 +1168,6 @@ https://stream1.freetv.fun/cctv10-79.m3u8
 #EXTINF:-1 group-title="央视",CCTV10
 https://stream1.freetv.fun/cctv10-43.m3u8
 #EXTINF:-1 group-title="央视",CCTV10
-https://stream1.freetv.fun/cctv10-12.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
 https://stream1.freetv.fun/cctv10-8m1080-2.m3u8
 #EXTINF:-1 group-title="央视",CCTV10
 https://stream1.freetv.fun/cctv10-8m1080-1.m3u8
@@ -696,8 +1210,6 @@ https://stream1.freetv.fun/cctv11-9.m3u8
 #EXTINF:-1 group-title="央视",CCTV11
 https://stream1.freetv.fun/cctv11-10.m3u8
 #EXTINF:-1 group-title="央视",CCTV11
-https://stream1.freetv.fun/cctv11-54.m3u8
-#EXTINF:-1 group-title="央视",CCTV11
 https://stream1.freetv.fun/cctv11-29.m3u8
 #EXTINF:-1 group-title="央视",CCTV11
 https://stream1.freetv.fun/cctv11-58.m3u8
@@ -729,10 +1241,6 @@ https://stream1.freetv.fun/cctv12-70.m3u8
 https://stream1.freetv.fun/cctv12-6.m3u8
 #EXTINF:-1 group-title="央视",CCTV12
 https://stream1.freetv.fun/cctv12-58.m3u8
-#EXTINF:-1 group-title="央视",CCTV12
-https://stream1.freetv.fun/cctv12-79.m3u8
-#EXTINF:-1 group-title="央视",CCTV12
-https://stream1.freetv.fun/cctv12-46.m3u8
 #EXTINF:-1 group-title="央视",CCTV12
 https://stream1.freetv.fun/cctv12-8m1080-1.m3u8
 #EXTINF:-1 group-title="央视",CCTV12
@@ -853,8 +1361,6 @@ https://stream1.freetv.fun/cctv15-38.m3u8
 https://stream1.freetv.fun/cctv15-40.m3u8
 #EXTINF:-1 group-title="央视",CCTV15
 https://stream1.freetv.fun/cctv15-6.m3u8
-#EXTINF:-1 group-title="央视",CCTV15
-https://stream1.freetv.fun/cctv15-67.m3u8
 #EXTINF:-1 group-title="央视",CCTV15
 https://stream1.freetv.fun/cctv15-gq-1.ctv
 #EXTINF:-1 group-title="央视",CCTV15
@@ -997,8 +1503,6 @@ https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-5.ctv
 https://stream1.freetv.fun/shan-tou-jing-ji-6.m3u8
 #EXTINF:-1 group-title="广东频道",揭阳综合
 https://stream1.freetv.fun/jie-yang-zong-he-4.m3u8
-#EXTINF:-1 group-title="广东频道",揭阳综合
-https://stream1.freetv.fun/jie-yang-zong-he-3.m3u8
 #EXTINF:-1 group-title="广东频道",广州南国都市
 https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-1.m3u8
 #EXTINF:-1 group-title="广东频道",广州南国都市
@@ -1010,13 +1514,11 @@ https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-5.m3u8
 #EXTINF:-1 group-title="广东频道",广州南国都市
 https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-7.ctv
 #EXTINF:-1 group-title="广东频道",广州法治
-https://stream1.freetv.fun/yan-zhou-fa-zhi-11.m3u8
-#EXTINF:-1 group-title="广东频道",广州法治
 https://stream1.freetv.fun/yan-zhou-fa-zhi-7.ctv
-#EXTINF:-1 group-title="广东频道",广州法治
-https://stream1.freetv.fun/yan-zhou-fa-zhi-17.ctv
 #EXTINF:-1 group-title="广东频道",广州竞赛
 https://stream1.freetv.fun/yan-zhou-jing-sai-22.m3u8
+#EXTINF:-1 group-title="广东频道",广州竞赛
+https://stream1.freetv.fun/yan-zhou-jing-sai-29.ctv
 #EXTINF:-1 group-title="广东频道",广州竞赛
 https://stream1.freetv.fun/yan-zhou-jing-sai-15.ctv
 #EXTINF:-1 group-title="广东频道",广州新闻
@@ -1066,17 +1568,15 @@ https://stream1.freetv.fun/yan-zhou-zong-he-8.m3u8
 #EXTINF:-1 group-title="广东频道",广州综合
 https://stream1.freetv.fun/yan-zhou-zong-he-14.m3u8
 #EXTINF:-1 group-title="广东频道",广州综合
+https://stream1.freetv.fun/yan-zhou-zong-he-6.m3u8
+#EXTINF:-1 group-title="广东频道",广州综合
 https://stream1.freetv.fun/yan-zhou-zong-he-27.ctv
 #EXTINF:-1 group-title="广东频道",广州综合
 https://stream1.freetv.fun/yan-zhou-zong-he-5.ctv
 #EXTINF:-1 group-title="广东频道",广州综合
-https://stream1.freetv.fun/yan-zhou-zong-he-7.ctv
-#EXTINF:-1 group-title="广东频道",广州综合
 https://stream1.freetv.fun/yan-zhou-zong-he-21.ctv
 #EXTINF:-1 group-title="广东频道",广州综合
 https://stream1.freetv.fun/yan-zhou-zong-he-18.ctv
-#EXTINF:-1 group-title="广东频道",广州影视
-https://stream1.freetv.fun/yan-zhou-ying-shi-5.m3u8
 #EXTINF:-1 group-title="广东频道",广州影视
 https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
 #EXTINF:-1 group-title="广东频道",佛山公共
@@ -1093,8 +1593,6 @@ https://stream1.freetv.fun/yan-xi-wei-shi-64.m3u8
 https://stream1.freetv.fun/yan-xi-wei-shi-55.m3u8
 #EXTINF:-1 group-title="卫视",广西卫视
 https://stream1.freetv.fun/yan-xi-wei-shi-79.m3u8
-#EXTINF:-1 group-title="卫视",广西卫视
-https://stream1.freetv.fun/yan-xi-wei-shi-82.m3u8
 #EXTINF:-1 group-title="卫视",广西卫视
 https://stream1.freetv.fun/yan-xi-wei-shi-69.m3u8
 #EXTINF:-1 group-title="卫视",广西卫视
@@ -1136,15 +1634,11 @@ https://stream1.freetv.fun/yan-dong-shao-er-13.m3u8
 #EXTINF:-1 group-title="广东频道",广东少儿
 https://stream1.freetv.fun/yan-dong-shao-er-20.m3u8
 #EXTINF:-1 group-title="广东频道",广东少儿
-https://stream1.freetv.fun/yan-dong-shao-er-14.m3u8
-#EXTINF:-1 group-title="广东频道",广东少儿
 https://stream1.freetv.fun/yan-dong-shao-er-7.ctv
 #EXTINF:-1 group-title="广东频道",广东少儿
 https://stream1.freetv.fun/yan-dong-shao-er-18.ctv
 #EXTINF:-1 group-title="广东频道",广东少儿
 https://stream1.freetv.fun/yan-dong-shao-er-23.ctv
-#EXTINF:-1 group-title="广东频道",广东民生
-https://stream1.freetv.fun/yan-dong-min-sheng-27.m3u8
 #EXTINF:-1 group-title="广东频道",广东民生
 https://stream1.freetv.fun/yan-dong-min-sheng-22.m3u8
 #EXTINF:-1 group-title="广东频道",广东民生
@@ -1163,8 +1657,6 @@ https://stream1.freetv.fun/yan-dong-min-sheng-39.ctv
 https://stream1.freetv.fun/yan-dong-zhu-jiang-27.m3u8
 #EXTINF:-1 group-title="广东频道",广东珠江
 https://stream1.freetv.fun/yan-dong-zhu-jiang-31.m3u8
-#EXTINF:-1 group-title="广东频道",广东珠江
-https://stream1.freetv.fun/yan-dong-zhu-jiang-23.m3u8
 #EXTINF:-1 group-title="广东频道",广东珠江
 https://stream1.freetv.fun/yan-dong-zhu-jiang-7.m3u8
 #EXTINF:-1 group-title="广东频道",广东珠江
@@ -1196,6 +1688,8 @@ https://stream1.freetv.fun/yan-dong-wei-shi-33.m3u8
 #EXTINF:-1 group-title="卫视",广东卫视
 https://stream1.freetv.fun/yan-dong-wei-shi-80.m3u8
 #EXTINF:-1 group-title="卫视",广东卫视
+https://stream1.freetv.fun/yan-dong-wei-shi-39.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视
 https://stream1.freetv.fun/yan-dong-wei-shi-28.m3u8
 #EXTINF:-1 group-title="卫视",广东卫视
 https://stream1.freetv.fun/yan-dong-wei-shi-101.m3u8
@@ -1209,8 +1703,6 @@ https://stream1.freetv.fun/yan-dong-wei-shi-86.m3u8
 https://stream1.freetv.fun/yan-dong-wei-shi-36.m3u8
 #EXTINF:-1 group-title="卫视",广东卫视
 https://stream1.freetv.fun/yan-dong-wei-shi-52.m3u8
-#EXTINF:-1 group-title="卫视",广东卫视
-https://stream1.freetv.fun/yan-dong-wei-shi-10.m3u8
 #EXTINF:-1 group-title="卫视",广东卫视
 https://stream1.freetv.fun/yan-dong-wei-shi--4m1080-2.m3u8
 #EXTINF:-1 group-title="卫视",广东卫视
@@ -1228,11 +1720,9 @@ https://stream1.freetv.fun/yan-dong-wei-shi-83.ctv
 #EXTINF:-1 group-title="卫视",广东卫视
 https://stream1.freetv.fun/yan-dong-wei-shi-70.ctv
 #EXTINF:-1 group-title="广东频道",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-32.m3u8
+#EXTINF:-1 group-title="广东频道",广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8
-#EXTINF:-1 group-title="广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8
-#EXTINF:-1 group-title="广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-18.m3u8
 #EXTINF:-1 group-title="广东频道",广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-35.m3u8
 #EXTINF:-1 group-title="广东频道",广东体育
@@ -1246,6 +1736,8 @@ https://stream1.freetv.fun/yan-dong-ti-yu-33.ctv
 #EXTINF:-1 group-title="广东频道",广东新闻
 https://stream1.freetv.fun/yan-dong-xin-wen-9.m3u8
 #EXTINF:-1 group-title="广东频道",广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-19.m3u8
+#EXTINF:-1 group-title="广东频道",广东新闻
 https://stream1.freetv.fun/yan-dong-xin-wen-23.m3u8
 #EXTINF:-1 group-title="广东频道",广东新闻
 https://stream1.freetv.fun/yan-dong-xin-wen-6.m3u8
@@ -1253,8 +1745,6 @@ https://stream1.freetv.fun/yan-dong-xin-wen-6.m3u8
 https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
 #EXTINF:-1 group-title="广东频道",广东新闻
 https://stream1.freetv.fun/yan-dong-xin-wen-24.ctv
-#EXTINF:-1 group-title="广东频道",广东新闻
-https://stream1.freetv.fun/yan-dong-xin-wen-3.ctv
 #EXTINF:-1 group-title="广东频道",嘉佳卡通
 https://stream1.freetv.fun/jia-jia-qia-tong-22.m3u8
 #EXTINF:-1 group-title="广东频道",嘉佳卡通
@@ -1285,8 +1775,6 @@ https://stream1.freetv.fun/tvb-plus-1.m3u8
 https://stream1.freetv.fun/tvb-plus-6.ctv
 #EXTINF:-1 group-title="港澳频道",TVBPLUS
 https://stream1.freetv.fun/tvb-plus-4.ctv
-#EXTINF:-1 group-title="港澳频道",TVBPLUS
-https://stream1.freetv.fun/tvbplus-5.ctv
 #EXTINF:-1 group-title="港澳频道",TVBPLUS
 https://stream1.freetv.fun/tvbplus-6.ctv
 #EXTINF:-1 group-title="港澳频道",TVBS亚洲
@@ -1345,8 +1833,6 @@ https://stream1.freetv.fun/fei-cui-13.ctv
 https://stream1.freetv.fun/fei-cui-15.ctv
 #EXTINF:-1 group-title="港澳频道",翡翠
 https://stream1.freetv.fun/fei-cui-11.ctv
-#EXTINF:-1 group-title="港澳频道",NOW新聞
-https://stream1.freetv.fun/nowxin-wen-1.m3u8
 #EXTINF:-1 group-title="港澳频道",无线新闻
 https://stream1.freetv.fun/wu-xian-xin-wen-12.m3u8
 #EXTINF:-1 group-title="港澳频道",无线新闻
@@ -1361,8 +1847,6 @@ https://stream1.freetv.fun/tvbshuan-le-1.ctv
 https://stream1.freetv.fun/ming-zhu-6.m3u8
 #EXTINF:-1 group-title="港澳频道",明珠
 https://stream1.freetv.fun/ming-zhu-3.ctv
-#EXTINF:-1 group-title="港澳频道",明珠
-https://stream1.freetv.fun/ming-zhu-10.ctv
 #EXTINF:-1 group-title="港澳频道",明珠
 https://stream1.freetv.fun/ming-zhu-4.ctv
 #EXTINF:-1 group-title="港澳频道",明珠
@@ -1385,6 +1869,8 @@ https://stream1.freetv.fun/feng-huang-zhong-wen-19.m3u8
 https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
 #EXTINF:-1 group-title="港澳频道",凤凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-7.ctv
+#EXTINF:-1 group-title="港澳频道",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-9.ctv
 #EXTINF:-1 group-title="港澳频道",凤凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-4.ctv
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
@@ -1447,8 +1933,6 @@ https://stream1.freetv.fun/ao-men-zi-xun-2.m3u8
 https://stream1.freetv.fun/ao-men-macau-2.m3u8
 #EXTINF:-1 group-title="港澳频道",澳门MACAU
 https://stream1.freetv.fun/ao-men-macau-1.m3u8
-#EXTINF:-1 group-title="港澳频道",NOW財經
-https://stream1.freetv.fun/nowcai-jing-1.m3u8
 #EXTINF:-1 group-title="港澳频道",VIUTV
 https://stream1.freetv.fun/viutv-4.m3u8
 #EXTINF:-1 group-title="港澳频道",VIUTV
@@ -1477,8 +1961,6 @@ https://stream1.freetv.fun/viutvsix-1.ctv
 https://stream1.freetv.fun/viutvsix-2.ctv
 #EXTINF:-1 group-title="港澳频道",NOWSPORTSPREMIERLEAGUE3
 https://stream1.freetv.fun/now-sports-premier-league-3-1.ctv
-#EXTINF:-1 group-title="港澳频道",NOWSPORTS精選
-https://stream1.freetv.fun/now-sportsjing-xuan-1.m3u8
 #EXTINF:-1 group-title="港澳频道",MOVIEMUSIC
 https://stream1.freetv.fun/movie-music-1.m3u8
 #EXTINF:-1 group-title="港澳频道",悬疑MOVIE
@@ -1511,6 +1993,8 @@ https://stream1.freetv.fun/cgtn-5.ctv
 https://stream1.freetv.fun/cgtn-31.ctv
 #EXTINF:-1 group-title="港澳频道",CGTN
 https://stream1.freetv.fun/cgtn-32.ctv
+#EXTINF:-1 group-title="港澳频道",POPC
+https://stream1.freetv.fun/popc-1.ctv
 #EXTINF:-1 group-title="港澳频道",HOYTV
 https://stream1.freetv.fun/hoy-tv-2.ctv
 #EXTINF:-1 group-title="港澳频道",HOYTV
@@ -1627,6 +2111,8 @@ https://stream1.freetv.fun/dong-nan-wei-shi--8m1080-1.m3u8
 https://stream1.freetv.fun/dong-nan-wei-shi-75.ctv
 #EXTINF:-1 group-title="卫视",东南卫视
 https://stream1.freetv.fun/dong-nan-wei-shi-34.ctv
+#EXTINF:-1 group-title="卫视",东南卫视
+https://stream1.freetv.fun/dong-nan-wei-shi-53.ctv
 #EXTINF:-1 group-title="卫视",东方卫视
 https://stream1.freetv.fun/dong-fang-wei-shi-23.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视
@@ -1641,8 +2127,6 @@ https://stream1.freetv.fun/dong-fang-wei-shi-99.m3u8
 https://stream1.freetv.fun/dong-fang-wei-shi-24.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视
 https://stream1.freetv.fun/dong-fang-wei-shi-102.m3u8
-#EXTINF:-1 group-title="卫视",东方卫视
-https://stream1.freetv.fun/dong-fang-wei-shi-28.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视
 https://stream1.freetv.fun/dong-fang-wei-shi-42.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视
@@ -1796,8 +2280,6 @@ https://stream1.freetv.fun/an-hui-wei-shi-74.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视
 https://stream1.freetv.fun/an-hui-wei-shi-94.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视
-https://stream1.freetv.fun/an-hui-wei-shi-49.m3u8
-#EXTINF:-1 group-title="卫视",安徽卫视
 https://stream1.freetv.fun/an-hui-wei-shi-88.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视
 https://stream1.freetv.fun/an-hui-wei-shi-26.m3u8
@@ -1822,8 +2304,6 @@ https://stream1.freetv.fun/an-hui-wei-shi-5.ctv
 #EXTINF:-1 group-title="卫视",安徽卫视
 https://stream1.freetv.fun/an-hui-wei-shi-47.ctv
 #EXTINF:-1 group-title="卫视",河北卫视
-https://stream1.freetv.fun/he-bei-wei-shi-2.m3u8
-#EXTINF:-1 group-title="卫视",河北卫视
 https://stream1.freetv.fun/he-bei-wei-shi-81.m3u8
 #EXTINF:-1 group-title="卫视",河北卫视
 https://stream1.freetv.fun/he-bei-wei-shi-87.m3u8
@@ -1837,8 +2317,6 @@ https://stream1.freetv.fun/he-bei-wei-shi-64.m3u8
 https://stream1.freetv.fun/he-bei-wei-shi-76.m3u8
 #EXTINF:-1 group-title="卫视",河北卫视
 https://stream1.freetv.fun/he-bei-wei-shi-21.m3u8
-#EXTINF:-1 group-title="卫视",河北卫视
-https://stream1.freetv.fun/he-bei-wei-shi-9.m3u8
 #EXTINF:-1 group-title="卫视",河北卫视
 https://stream1.freetv.fun/he-bei-wei-shi--8m1080-2.m3u8
 #EXTINF:-1 group-title="卫视",河北卫视
@@ -1857,6 +2335,8 @@ https://stream1.freetv.fun/he-nan-wei-shi-34.m3u8
 https://stream1.freetv.fun/he-nan-wei-shi-8.m3u8
 #EXTINF:-1 group-title="卫视",河南卫视
 https://stream1.freetv.fun/he-nan-wei-shi-49.m3u8
+#EXTINF:-1 group-title="卫视",河南卫视
+https://stream1.freetv.fun/he-nan-wei-shi-84.m3u8
 #EXTINF:-1 group-title="卫视",河南卫视
 https://stream1.freetv.fun/he-nan-wei-shi-76.m3u8
 #EXTINF:-1 group-title="卫视",河南卫视
@@ -1912,11 +2392,7 @@ https://stream1.freetv.fun/shen-zhen-wei-shi-46.m3u8
 #EXTINF:-1 group-title="卫视",深圳卫视
 https://stream1.freetv.fun/shen-zhen-wei-shi-30.m3u8
 #EXTINF:-1 group-title="卫视",深圳卫视
-https://stream1.freetv.fun/shen-zhen-wei-shi-66.m3u8
-#EXTINF:-1 group-title="卫视",深圳卫视
 https://stream1.freetv.fun/shen-zhen-wei-shi-58.m3u8
-#EXTINF:-1 group-title="卫视",深圳卫视
-https://stream1.freetv.fun/shen-zhen-wei-shi-77.m3u8
 #EXTINF:-1 group-title="卫视",深圳卫视
 https://stream1.freetv.fun/shen-zhen-wei-shi-90.m3u8
 #EXTINF:-1 group-title="卫视",深圳卫视
@@ -1935,16 +2411,14 @@ https://stream1.freetv.fun/shen-zhen-wei-shi-102.ctv
 https://stream1.freetv.fun/shen-zhen-wei-shi-97.ctv
 #EXTINF:-1 group-title="卫视",深圳卫视
 https://stream1.freetv.fun/shen-zhen-wei-shi-94.ctv
+#EXTINF:-1 group-title="卫视",深圳卫视
+https://stream1.freetv.fun/shen-zhen-wei-shi-8.ctv
 #EXTINF:-1 group-title="卫视",湖北卫视
 https://stream1.freetv.fun/hu-bei-wei-shi-63.m3u8
-#EXTINF:-1 group-title="卫视",湖北卫视
-https://stream1.freetv.fun/hu-bei-wei-shi-12.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
 https://stream1.freetv.fun/hu-bei-wei-shi-84.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
 https://stream1.freetv.fun/hu-bei-wei-shi-38.m3u8
-#EXTINF:-1 group-title="卫视",湖北卫视
-https://stream1.freetv.fun/hu-bei-wei-shi-52.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
 https://stream1.freetv.fun/hu-bei-wei-shi-20.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
@@ -1955,8 +2429,6 @@ https://stream1.freetv.fun/hu-bei-wei-shi-82.m3u8
 https://stream1.freetv.fun/hu-bei-wei-shi-72.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
 https://stream1.freetv.fun/hu-bei-wei-shi-77.m3u8
-#EXTINF:-1 group-title="卫视",湖北卫视
-https://stream1.freetv.fun/hu-bei-wei-shi-58.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
 https://stream1.freetv.fun/hu-bei-wei-shi--8m1080-1.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
@@ -2042,6 +2514,8 @@ https://stream1.freetv.fun/si-chuan-wei-shi-53.m3u8
 #EXTINF:-1 group-title="卫视",四川卫视
 https://stream1.freetv.fun/si-chuan-wei-shi-8.m3u8
 #EXTINF:-1 group-title="卫视",四川卫视
+https://stream1.freetv.fun/si-chuan-wei-shi-5.m3u8
+#EXTINF:-1 group-title="卫视",四川卫视
 https://stream1.freetv.fun/si-chuan-wei-shi-46.ctv
 #EXTINF:-1 group-title="卫视",四川卫视
 https://stream1.freetv.fun/si-chuan-wei-shi-22.ctv
@@ -2080,7 +2554,7 @@ https://stream1.freetv.fun/zhong-qing-wei-shi-63.m3u8
 #EXTINF:-1 group-title="卫视",重庆卫视
 https://stream1.freetv.fun/zhong-qing-wei-shi-55.m3u8
 #EXTINF:-1 group-title="卫视",重庆卫视
-https://stream1.freetv.fun/zhong-qing-wei-shi-95.m3u8
+https://stream1.freetv.fun/zhong-qing-wei-shi-24.m3u8
 #EXTINF:-1 group-title="卫视",重庆卫视
 https://stream1.freetv.fun/zhong-qing-wei-shi-57.m3u8
 #EXTINF:-1 group-title="卫视",江西卫视
@@ -2096,11 +2570,7 @@ https://stream1.freetv.fun/jiang-xi-wei-shi-66.m3u8
 #EXTINF:-1 group-title="卫视",江西卫视
 https://stream1.freetv.fun/jiang-xi-wei-shi-78.m3u8
 #EXTINF:-1 group-title="卫视",江西卫视
-https://stream1.freetv.fun/jiang-xi-wei-shi-91.m3u8
-#EXTINF:-1 group-title="卫视",江西卫视
 https://stream1.freetv.fun/jiang-xi-wei-shi-87.m3u8
-#EXTINF:-1 group-title="卫视",江西卫视
-https://stream1.freetv.fun/jiang-xi-wei-shi-37.m3u8
 #EXTINF:-1 group-title="卫视",江西卫视
 https://stream1.freetv.fun/jiang-xi-wei-shi-88.m3u8
 #EXTINF:-1 group-title="卫视",江西卫视
@@ -2121,8 +2591,6 @@ https://stream1.freetv.fun/jiang-xi-wei-shi-93.ctv
 https://stream1.freetv.fun/jiang-xi-wei-shi-53.ctv
 #EXTINF:-1 group-title="卫视",山西卫视
 https://stream1.freetv.fun/shan-xi-wei-shi-104.m3u8
-#EXTINF:-1 group-title="卫视",山西卫视
-https://stream1.freetv.fun/shan-xi-wei-shi-37.m3u8
 #EXTINF:-1 group-title="卫视",山西卫视
 https://stream1.freetv.fun/shan-xi-wei-shi-90.m3u8
 #EXTINF:-1 group-title="卫视",山西卫视
@@ -2198,8 +2666,6 @@ https://stream1.freetv.fun/gui-zhou-wei-shi--8m1080-2.m3u8
 #EXTINF:-1 group-title="卫视",贵州卫视
 https://stream1.freetv.fun/gui-zhou-wei-shi-15.m3u8
 #EXTINF:-1 group-title="卫视",贵州卫视
-https://stream1.freetv.fun/gui-zhou-wei-shi-96.m3u8
-#EXTINF:-1 group-title="卫视",贵州卫视
 https://stream1.freetv.fun/gui-zhou-wei-shi-21.m3u8
 #EXTINF:-1 group-title="卫视",贵州卫视
 https://stream1.freetv.fun/gui-zhou-wei-shi-22.m3u8
@@ -2226,6 +2692,8 @@ https://stream1.freetv.fun/hai-nan-wei-shi-78.m3u8
 #EXTINF:-1 group-title="卫视",海南卫视
 https://stream1.freetv.fun/hai-nan-wei-shi-49.m3u8
 #EXTINF:-1 group-title="卫视",海南卫视
+https://stream1.freetv.fun/hai-nan-wei-shi-51.m3u8
+#EXTINF:-1 group-title="卫视",海南卫视
 https://stream1.freetv.fun/hai-nan-wei-shi-37.m3u8
 #EXTINF:-1 group-title="卫视",海南卫视
 https://stream1.freetv.fun/hai-nan-wei-shi-67.m3u8
@@ -2237,10 +2705,6 @@ https://stream1.freetv.fun/hai-nan-wei-shi-72.ctv
 https://stream1.freetv.fun/zhu-xia-wei-shi-43.m3u8
 #EXTINF:-1 group-title="卫视",宁夏卫视
 https://stream1.freetv.fun/zhu-xia-wei-shi-32.m3u8
-#EXTINF:-1 group-title="卫视",宁夏卫视
-https://stream1.freetv.fun/zhu-xia-wei-shi-73.m3u8
-#EXTINF:-1 group-title="卫视",宁夏卫视
-https://stream1.freetv.fun/zhu-xia-wei-shi-36.m3u8
 #EXTINF:-1 group-title="卫视",宁夏卫视
 https://stream1.freetv.fun/zhu-xia-wei-shi-21.m3u8
 #EXTINF:-1 group-title="卫视",宁夏卫视
@@ -2280,7 +2744,7 @@ https://stream1.freetv.fun/shan-xi-wei-shi-5.m3u8
 #EXTINF:-1 group-title="卫视",陕西卫视
 https://stream1.freetv.fun/shan-xi-wei-shi-13.m3u8
 #EXTINF:-1 group-title="卫视",陕西卫视
-https://stream1.freetv.fun/shan-xi-wei-shi-98.m3u8
+https://stream1.freetv.fun/shan-xi-wei-shi-125.m3u8
 #EXTINF:-1 group-title="卫视",陕西卫视
 https://stream1.freetv.fun/shan-xi-wei-shi-53.m3u8
 #EXTINF:-1 group-title="卫视",陕西卫视
@@ -2295,6 +2759,8 @@ https://stream1.freetv.fun/ji-lin-wei-shi-42.m3u8
 https://stream1.freetv.fun/ji-lin-wei-shi-36.m3u8
 #EXTINF:-1 group-title="卫视",吉林卫视
 https://stream1.freetv.fun/ji-lin-wei-shi-38.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视
+https://stream1.freetv.fun/ji-lin-wei-shi-48.m3u8
 #EXTINF:-1 group-title="卫视",吉林卫视
 https://stream1.freetv.fun/ji-lin-wei-shi-68.m3u8
 #EXTINF:-1 group-title="卫视",吉林卫视
@@ -2348,11 +2814,11 @@ https://stream1.freetv.fun/hei-long-jiang-wei-shi-11.m3u8
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 https://stream1.freetv.fun/hei-long-jiang-wei-shi-30.m3u8
 #EXTINF:-1 group-title="卫视",黑龙江卫视
-https://stream1.freetv.fun/hei-long-jiang-wei-shi-45.m3u8
-#EXTINF:-1 group-title="卫视",黑龙江卫视
 https://stream1.freetv.fun/hei-long-jiang-wei-shi-87.m3u8
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 https://stream1.freetv.fun/hei-long-jiang-wei-shi-88.m3u8
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+https://stream1.freetv.fun/hei-long-jiang-wei-shi-1.m3u8
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 https://stream1.freetv.fun/hei-long-jiang-wei-shi-3.m3u8
 #EXTINF:-1 group-title="卫视",黑龙江卫视
@@ -2476,6 +2942,8 @@ https://stream1.freetv.fun/xi-cang-wei-shi-23.m3u8
 #EXTINF:-1 group-title="卫视",西藏卫视
 https://stream1.freetv.fun/xi-cang-wei-shi-28.m3u8
 #EXTINF:-1 group-title="卫视",西藏卫视
+https://stream1.freetv.fun/xi-cang-wei-shi-7.m3u8
+#EXTINF:-1 group-title="卫视",西藏卫视
 https://stream1.freetv.fun/xi-cang-wei-shi-38.ctv
 #EXTINF:-1 group-title="卫视",西藏卫视
 https://stream1.freetv.fun/xi-cang-wei-shi-6.ctv
@@ -2558,6 +3026,8 @@ https://stream1.freetv.fun/da-wan-qu-wei-shi-25.m3u8
 #EXTINF:-1 group-title="卫视",大湾区卫视
 https://stream1.freetv.fun/da-wan-qu-wei-shi-3.m3u8
 #EXTINF:-1 group-title="卫视",大湾区卫视
+https://stream1.freetv.fun/da-wan-qu-wei-shi-20.m3u8
+#EXTINF:-1 group-title="卫视",大湾区卫视
 https://stream1.freetv.fun/da-wan-qu-wei-shi-15.ctv
 #EXTINF:-1 group-title="卫视",大湾区卫视
 https://stream1.freetv.fun/da-wan-qu-wei-shi-18.ctv
@@ -2602,8 +3072,6 @@ https://stream1.freetv.fun/chcjia-ting-ying-yuan-18.ctv
 #EXTINF:-1 group-title="数字频道",CHC家庭影院
 https://stream1.freetv.fun/chcjia-ting-ying-yuan-5.ctv
 #EXTINF:-1 group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-31.m3u8
-#EXTINF:-1 group-title="数字频道",金鹰卡通
 https://stream1.freetv.fun/jin-ying-qia-tong-42.m3u8
 #EXTINF:-1 group-title="数字频道",金鹰卡通
 https://stream1.freetv.fun/jin-ying-qia-tong-16.m3u8
@@ -2617,8 +3085,6 @@ https://stream1.freetv.fun/jin-ying-qia-tong-24.m3u8
 https://stream1.freetv.fun/jin-ying-qia-tong-18.m3u8
 #EXTINF:-1 group-title="数字频道",金鹰卡通
 https://stream1.freetv.fun/jin-ying-qia-tong-34.m3u8
-#EXTINF:-1 group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-5.m3u8
 #EXTINF:-1 group-title="数字频道",优漫卡通
 https://stream1.freetv.fun/you-man-qia-tong-21.m3u8
 #EXTINF:-1 group-title="数字频道",优漫卡通
@@ -2627,8 +3093,6 @@ https://stream1.freetv.fun/you-man-qia-tong-29.ctv
 https://stream1.freetv.fun/ha-ha-xuan-dong-18.m3u8
 #EXTINF:-1 group-title="数字频道",哈哈炫动
 https://stream1.freetv.fun/ha-ha-xuan-dong-14.m3u8
-#EXTINF:-1 group-title="数字频道",哈哈炫动
-https://stream1.freetv.fun/ha-ha-xuan-dong-31.m3u8
 #EXTINF:-1 group-title="数字频道",家庭剧场
 https://stream1.freetv.fun/jia-ting-ju-chang-1.m3u8
 #EXTINF:-1 group-title="数字频道",家庭剧场
@@ -2657,8 +3121,6 @@ https://stream1.freetv.fun/san-li-tai-wan-6.ctv
 https://stream1.freetv.fun/san-li-du-hui-4.ctv
 #EXTINF:-1 group-title="台湾频道",三立都會
 https://stream1.freetv.fun/san-li-du-hui-2.ctv
-#EXTINF:-1 group-title="台湾频道",三立都會
-https://stream1.freetv.fun/san-li-du-hui-1.ctv
 #EXTINF:-1 group-title="台湾频道",三立都會
 https://stream1.freetv.fun/san-li-du-hui-5.ctv
 #EXTINF:-1 group-title="台湾频道",中天亚洲
@@ -2722,8 +3184,6 @@ https://stream1.freetv.fun/zhong-shi-7.m3u8
 #EXTINF:-1 group-title="台湾频道",中視
 https://stream1.freetv.fun/zhong-shi-11.m3u8
 #EXTINF:-1 group-title="台湾频道",中視
-https://stream1.freetv.fun/zhong-shi-13.m3u8
-#EXTINF:-1 group-title="台湾频道",中視
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 group-title="台湾频道",中視
 https://stream1.freetv.fun/zhong-shi-10.ctv
@@ -2733,8 +3193,6 @@ https://stream1.freetv.fun/zhong-shi-15.ctv
 https://stream1.freetv.fun/zhong-shi-xin-wen-5.ctv
 #EXTINF:-1 group-title="台湾频道",中视经典
 https://stream1.freetv.fun/zhong-shi-jing-dian-1.ctv
-#EXTINF:-1 group-title="台湾频道",亚洲旅游
-https://stream1.freetv.fun/ya-zhou-lu-you---c-1.ctv
 #EXTINF:-1 group-title="台湾频道",亚洲旅游
 https://stream1.freetv.fun/ya-zhou-lu-you-3.ctv
 #EXTINF:-1 group-title="台湾频道",亞洲旅遊
@@ -2749,8 +3207,6 @@ https://stream1.freetv.fun/ya-zhou-lu-you-10.m3u8
 https://stream1.freetv.fun/ya-zhou-lu-you-12.m3u8
 #EXTINF:-1 group-title="台湾频道",亞洲旅遊
 https://stream1.freetv.fun/ya-zhou-lu-you-13.m3u8
-#EXTINF:-1 group-title="台湾频道",亞洲旅遊
-https://stream1.freetv.fun/ya-zhou-lu-you-15.m3u8
 #EXTINF:-1 group-title="台湾频道",亞洲旅遊
 https://stream1.freetv.fun/ya-zhou-lu-you-1.ctv
 #EXTINF:-1 group-title="台湾频道",亞洲旅遊
@@ -2788,8 +3244,6 @@ https://stream1.freetv.fun/ba-da-zong-he-6.ctv
 #EXTINF:-1 group-title="台湾频道",八大綜合
 https://stream1.freetv.fun/ba-da-zong-he-1.ctv
 #EXTINF:-1 group-title="台湾频道",八大綜合
-https://stream1.freetv.fun/ba-da-zong-he-3.ctv
-#EXTINF:-1 group-title="台湾频道",八大綜合
 https://stream1.freetv.fun/ba-da-zong-he-4.ctv
 #EXTINF:-1 group-title="台湾频道",公視
 https://stream1.freetv.fun/gong-shi-5.ctv
@@ -2797,6 +3251,8 @@ https://stream1.freetv.fun/gong-shi-5.ctv
 https://stream1.freetv.fun/gong-shi-3.ctv
 #EXTINF:-1 group-title="台湾频道",公視
 https://stream1.freetv.fun/gong-shi-2.ctv
+#EXTINF:-1 group-title="台湾频道",公视
+https://stream1.freetv.fun/gong-shi---c-1.ctv
 #EXTINF:-1 group-title="台湾频道",公视
 https://stream1.freetv.fun/gong-shi-6.ctv
 #EXTINF:-1 group-title="台湾频道",台视新闻
@@ -2834,8 +3290,6 @@ https://stream1.freetv.fun/da-ai-dian-shi-2.m3u8
 #EXTINF:-1 group-title="台湾频道",大愛電視
 https://stream1.freetv.fun/da-ai-dian-shi-3.m3u8
 #EXTINF:-1 group-title="台湾频道",大愛電視
-https://stream1.freetv.fun/da-ai-dian-shi-7.m3u8
-#EXTINF:-1 group-title="台湾频道",大愛電視
 https://stream1.freetv.fun/da-ai-dian-shi-6.ctv
 #EXTINF:-1 group-title="台湾频道",大愛電視
 https://stream1.freetv.fun/da-ai-dian-shi-4.ctv
@@ -2866,8 +3320,6 @@ https://stream1.freetv.fun/hao-xiao-xi-10.m3u8
 #EXTINF:-1 group-title="台湾频道",好消息
 https://stream1.freetv.fun/hao-xiao-xi-11.m3u8
 #EXTINF:-1 group-title="台湾频道",好消息
-https://stream1.freetv.fun/hao-xiao-xi-13.m3u8
-#EXTINF:-1 group-title="台湾频道",好消息
 https://stream1.freetv.fun/hao-xiao-xi-3.ctv
 #EXTINF:-1 group-title="台湾频道",好消息
 https://stream1.freetv.fun/hao-xiao-xi-1.ctv
@@ -2895,8 +3347,6 @@ https://stream1.freetv.fun/hao-xiao-xi--2--c-1.ctv
 https://stream1.freetv.fun/huan-yu-xin-wen-2.ctv
 #EXTINF:-1 group-title="台湾频道",寰宇财经
 https://stream1.freetv.fun/huan-yu-cai-jing-3.ctv
-#EXTINF:-1 group-title="台湾频道",寰宇财经
-https://stream1.freetv.fun/huan-yu-cai-jing---c-1.ctv
 #EXTINF:-1 group-title="台湾频道",年代新聞
 https://stream1.freetv.fun/nian-dai-xin-wen-5.ctv
 #EXTINF:-1 group-title="台湾频道",年代新聞
@@ -2918,6 +3368,8 @@ https://stream1.freetv.fun/dong-sen-xi-ju-1.ctv
 #EXTINF:-1 group-title="台湾频道",东森新闻
 https://stream1.freetv.fun/dong-sen-xin-wen-2.ctv
 #EXTINF:-1 group-title="台湾频道",東森新聞
+https://stream1.freetv.fun/dong-sen-xin-wen-11.m3u8
+#EXTINF:-1 group-title="台湾频道",東森新聞
 https://stream1.freetv.fun/dong-sen-xin-wen-3.m3u8
 #EXTINF:-1 group-title="台湾频道",東森新聞
 https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
@@ -2928,8 +3380,6 @@ https://stream1.freetv.fun/dong-sen-xin-wen-7.m3u8
 #EXTINF:-1 group-title="台湾频道",東森新聞
 https://stream1.freetv.fun/dong-sen-xin-wen-5.m3u8
 #EXTINF:-1 group-title="台湾频道",東森新聞
-https://stream1.freetv.fun/dong-sen-xin-wen-10.m3u8
-#EXTINF:-1 group-title="台湾频道",東森新聞
 https://stream1.freetv.fun/dong-sen-xin-wen-8.ctv
 #EXTINF:-1 group-title="台湾频道",東森新聞
 https://stream1.freetv.fun/dong-sen-xin-wen-4.ctv
@@ -2939,8 +3389,6 @@ https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv
 https://stream1.freetv.fun/dong-sen-yang-pian-4.ctv
 #EXTINF:-1 group-title="台湾频道",东森综合
 https://stream1.freetv.fun/dong-sen-zong-he-4.ctv
-#EXTINF:-1 group-title="台湾频道",东森综合
-https://stream1.freetv.fun/dong-sen-zong-he---c-1.ctv
 #EXTINF:-1 group-title="台湾频道",東森綜合
 https://stream1.freetv.fun/dong-sen-zong-he-5.ctv
 #EXTINF:-1 group-title="台湾频道",东森美洲2
@@ -2949,8 +3397,6 @@ https://stream1.freetv.fun/dong-sen-mei-zhou-2-1.m3u8
 https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
 #EXTINF:-1 group-title="台湾频道",东森财经新闻
 https://stream1.freetv.fun/dong-sen-cai-jing-xin-wen-5.ctv
-#EXTINF:-1 group-title="台湾频道",东森财经新闻
-https://stream1.freetv.fun/dong-sen-cai-jing-xin-wen---c-1.ctv
 #EXTINF:-1 group-title="台湾频道",東森財經
 https://stream1.freetv.fun/dong-sen-cai-jing-2.ctv
 #EXTINF:-1 group-title="台湾频道",東森財經
@@ -2968,8 +3414,6 @@ https://stream1.freetv.fun/dong-sen-chao-shi-34-5-1.m3u8
 #EXTINF:-1 group-title="台湾频道",东森电影
 https://stream1.freetv.fun/dong-sen-dian-ying-2.m3u8
 #EXTINF:-1 group-title="台湾频道",东森电影
-https://stream1.freetv.fun/dong-sen-dian-ying---c-1.ctv
-#EXTINF:-1 group-title="台湾频道",东森电影
 https://stream1.freetv.fun/dong-sen-dian-ying-4.ctv
 #EXTINF:-1 group-title="台湾频道",民视
 rtmp://f13h.mine.nu/sat/tv051
@@ -2981,8 +3425,6 @@ https://stream1.freetv.fun/min-shi-11.ctv
 https://stream1.freetv.fun/min-shi-7.m3u8
 #EXTINF:-1 group-title="台湾频道",民視
 https://stream1.freetv.fun/min-shi-4.m3u8
-#EXTINF:-1 group-title="台湾频道",民視
-https://stream1.freetv.fun/min-shi-1.m3u8
 #EXTINF:-1 group-title="台湾频道",民視
 https://stream1.freetv.fun/min-shi-9.m3u8
 #EXTINF:-1 group-title="台湾频道",民視
@@ -3052,8 +3494,6 @@ https://stream1.freetv.fun/mei-ya-dian-ying-10.ctv
 #EXTINF:-1 group-title="台湾频道",华视
 https://stream1.freetv.fun/hua-shi-8.ctv
 #EXTINF:-1 group-title="台湾频道",华视
-https://stream1.freetv.fun/hua-shi---c-1.ctv
-#EXTINF:-1 group-title="台湾频道",华视
 rtmp://f13h.mine.nu:1935/sat/tv111
 #EXTINF:-1 group-title="台湾频道",華視
 https://stream1.freetv.fun/hua-shi-9.m3u8
@@ -3092,15 +3532,13 @@ https://stream1.freetv.fun/jing-tian-qia-tong-4.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天卡通
 https://stream1.freetv.fun/jing-tian-qia-tong-6.m3u8
 #EXTINF:-1 group-title="台湾频道",靖天卡通
-https://stream1.freetv.fun/jing-tian-qia-tong-7.m3u8
-#EXTINF:-1 group-title="台湾频道",靖天卡通
 https://stream1.freetv.fun/jing-tian-qia-tong-1.ctv
 #EXTINF:-1 group-title="台湾频道",靖天卡通
 https://stream1.freetv.fun/jing-tian-qia-tong---c-1.ctv
-#EXTINF:-1 group-title="台湾频道",靖天国际
-https://stream1.freetv.fun/jing-tian-guo-ji---c-1.ctv
 #EXTINF:-1 group-title="台湾频道",非凡商業
 https://stream1.freetv.fun/fei-fan-shang-ye-1.m3u8
+#EXTINF:-1 group-title="台湾频道",非凡商業
+https://stream1.freetv.fun/fei-fan-shang-ye-5.m3u8
 #EXTINF:-1 group-title="台湾频道",非凡商業
 https://stream1.freetv.fun/fei-fan-shang-ye-3.m3u8
 #EXTINF:-1 group-title="台湾频道",非凡商業
@@ -3153,6 +3591,8 @@ https://stream1.freetv.fun/long-hua-dian-ying-6.m3u8
 https://stream1.freetv.fun/long-hua-dian-ying-5.m3u8
 #EXTINF:-1 group-title="台湾频道",龍華電影
 https://stream1.freetv.fun/long-hua-dian-ying-4.m3u8
+#EXTINF:-1 group-title="台湾频道",龍華電影
+https://stream1.freetv.fun/long-hua-dian-ying-2.m3u8
 #EXTINF:-1 group-title="台湾频道",龍華電影
 https://stream1.freetv.fun/long-hua-dian-ying-9.ctv
 #EXTINF:-1 group-title="台湾频道",龍華電影
@@ -3512,8 +3952,6 @@ https://stream1.freetv.fun/yi-ma-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 group-title="河南频道",获嘉新闻综合频道
 https://stream1.freetv.fun/huo-jia-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南娱乐
-https://stream1.freetv.fun/hu-nan-yu-le-3.m3u8
-#EXTINF:-1 group-title="湖南频道",湖南娱乐
 https://stream1.freetv.fun/hu-nan-yu-le-18.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南娱乐
 https://stream1.freetv.fun/hu-nan-yu-le-17.m3u8
@@ -3527,8 +3965,6 @@ https://stream1.freetv.fun/hu-nan-dian-ying-13.m3u8
 https://stream1.freetv.fun/hu-nan-dian-shi-ju-6.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
 https://stream1.freetv.fun/hu-nan-dian-shi-ju-15.m3u8
-#EXTINF:-1 group-title="湖南频道",湖南电视剧
-https://stream1.freetv.fun/hu-nan-dian-shi-ju-9.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南都市
 https://stream1.freetv.fun/hu-nan-du-shi-9.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南都市
@@ -3544,8 +3980,6 @@ https://stream1.freetv.fun/hu-nan-jing-shi-16.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南经视
 https://stream1.freetv.fun/hu-nan-jing-shi-9.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南经视
-https://stream1.freetv.fun/hu-nan-jing-shi-23.m3u8
-#EXTINF:-1 group-title="湖南频道",湖南经视
 https://stream1.freetv.fun/hu-nan-jing-shi-13.ctv
 #EXTINF:-1 group-title="湖南频道",湖南经视
 https://stream1.freetv.fun/hu-nan-jing-shi-15.ctv
@@ -3559,8 +3993,6 @@ https://stream1.freetv.fun/hu-nan-gong-gong-5.m3u8
 https://stream1.freetv.fun/hu-nan-gong-gong-6.m3u8
 #EXTINF:-1 group-title="湖南频道",湖南国际
 https://stream1.freetv.fun/hu-nan-guo-ji-9.ctv
-#EXTINF:-1 group-title="湖南频道",湖南衛視
-https://stream1.freetv.fun/hu-nan-wei-shi-91.ctv
 #EXTINF:-1 group-title="湖南频道",湖南衛視
 https://stream1.freetv.fun/hu-nan-wei-shi-22.ctv
 #EXTINF:-1 group-title="湖北频道",十堰经济旅游
