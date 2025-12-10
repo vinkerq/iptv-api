@@ -1,5 +1,10 @@
 # 更新时间: 2025-12-10 21:54:05
 
+汕头频道,#genre#
+汕头经济生活,http://124.222.114.206/sxtv.php?id=st2
+汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
+汕头综合,http://124.222.114.206/sxtv.php?id=st1
+
 央视频道,#genre#
 CCTV1,http://113.218.204.144:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1196,4 +1201,5 @@ qazaqstantv,http://120.70.60.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playliv
 
 内蒙古频道,#genre#
 内蒙古,http://49.234.31.101:7011/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
