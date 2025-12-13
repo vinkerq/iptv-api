@@ -3,12 +3,22 @@
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=ZzIKiO&tk=jcmngPC64ClK
 #EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://logo.catvod.com/揭阳综合.png" group-title="汕头频道",揭阳综合
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=nVuWvL&tk=jcmngPC64ClK
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://logo.catvod.com/揭阳综合.png" group-title="汕头频道",揭阳综合
+https://stream1.freetv.fun/jie-yang-zong-he-4.m3u8
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://logo.catvod.com/揭阳综合.png" group-title="汕头频道",揭阳综合
+https://stream1.freetv.fun/jie-yang-zong-he-3.m3u8
 #EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=H6Btek&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://logo.catvod.com/汕头经济生活.png" group-title="汕头频道",汕头经济生活
-http://124.222.114.206/sxtv.php?id=st2
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
+https://stream1.freetv.fun/shan-tou-jing-ji-5.m3u8
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="汕头频道",汕头综合
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=yB8NrB&tk=jcmngPC64ClK
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="汕头频道",汕头综合
+https://stream1.freetv.fun/shan-tou-zong-he-8.m3u8
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="汕头频道",汕头综合
+https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
+#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://logo.catvod.com/汕头经济生活.png" group-title="汕头频道",汕头经济生活
+http://124.222.114.206/sxtv.php?id=st2
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="汕头频道",汕头综合
 http://124.222.114.206/sxtv.php?id=st1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="咪咕--央视频道",CCTV-1 综合
@@ -1829,14 +1839,6 @@ http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=lekBA2&tk=jcmngPC64ClK
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=MjyVvk&tk=jcmngPC64ClK
 #EXTINF:-1 tvg-name="惠州都市生活" tvg-logo="https://logo.catvod.com/惠州都市生活.png" group-title="HKTV-广东频道",惠州都市生活
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=hQQbx5&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://logo.catvod.com/揭阳生活.png" group-title="HKTV-广东频道",揭阳生活
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=ZzIKiO&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://logo.catvod.com/揭阳综合.png" group-title="HKTV-广东频道",揭阳综合
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=nVuWvL&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="HKTV-广东频道",汕头经济
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=H6Btek&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="HKTV-广东频道",汕头综合
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=yB8NrB&tk=jcmngPC64ClK
 #EXTINF:-1 tvg-name="深圳国际" tvg-logo="https://logo.catvod.com/深圳国际.png" group-title="HKTV-广东频道",深圳国际
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=MMcCfs&tk=jcmngPC64ClK
 #EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo="https://logo.catvod.com/深圳宜和购物.png" group-title="HKTV-广东频道",深圳宜和购物
@@ -1853,22 +1855,6 @@ http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=boe436&tk=jcmngPC64ClK
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=nTWWTD&tk=jcmngPC64ClK
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://logo.catvod.com/炫动卡通.png" group-title="HKTV-广东频道",炫动卡通
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=tcAd6K&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="HKTV-广东频道",辽宁卫视
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=zejcmw&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="HKTV-广东频道",辽宁卫视
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=jI1kTd&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="HKTV-广东频道",辽宁卫视
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=mDrcA6&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="HKTV-广东频道",辽宁卫视
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=STFzKg&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="HKTV-广东频道",辽宁卫视
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=IWKx5k&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="HKTV-广东频道",辽宁卫视
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=PsxvT5&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="HKTV-广东频道",辽宁卫视
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=HXqyR3&tk=jcmngPC64ClK
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="HKTV-广东频道",辽宁卫视
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=MonI39&tk=jcmngPC64ClK
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="HKTV-广东频道",金鹰卡通
 http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=c1J50I&tk=jcmngPC64ClK
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="HKTV-广东频道",金鹰卡通
@@ -2027,8 +2013,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=39
 http://iptv.4666888.xyz/iptv2A.php?id=40
 #EXTINF:-1 tvg-name="東森电影" tvg-logo="https://logo.catvod.com/東森电影.png" group-title="风云-港澳台频道",東森电影
 http://iptv.4666888.xyz/iptv2A.php?id=48
-#EXTINF:-1 tvg-name="東森电影" tvg-logo="https://logo.catvod.com/東森电影.png" group-title="风云-港澳台频道",東森电影
-http://iptv.4666888.xyz/iptv2A.php?id=48
 #EXTINF:-1 tvg-name="龍華电影" tvg-logo="https://logo.catvod.com/龍華电影.png" group-title="风云-港澳台频道",龍華电影
 http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://logo.catvod.com/靖天电影.png" group-title="风云-港澳台频道",靖天电影
@@ -2067,10 +2051,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=3
 http://iptv.4666888.xyz/iptv2A.php?id=4
 #EXTINF:-1 tvg-name="wwwe" tvg-logo="https://logo.catvod.com/wwwe.png" group-title="风云-港澳台频道",wwwe
 http://iptv.4666888.xyz/iptv2A.php?id=5
-#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="EPG直播-汕头频道",汕头综合
-https://stream1.freetv.fun/shan-tou-zong-he-8.m3u8
-#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="EPG直播-汕头频道",汕头综合
-https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="EPG直播-央视频道",CCTV1
 https://stream1.freetv.fun/cctv1-28.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="EPG直播-央视频道",CCTV1
@@ -2427,12 +2407,6 @@ https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-1.m3u8
 https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 tvg-name="东莞新闻综合" tvg-logo="https://logo.catvod.com/东莞新闻综合.png" group-title="EPG直播-广东频道",东莞新闻综合
 https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-5.ctv
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="EPG直播-广东频道",汕头经济
-https://stream1.freetv.fun/shan-tou-jing-ji-5.m3u8
-#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://logo.catvod.com/揭阳综合.png" group-title="EPG直播-广东频道",揭阳综合
-https://stream1.freetv.fun/jie-yang-zong-he-4.m3u8
-#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://logo.catvod.com/揭阳综合.png" group-title="EPG直播-广东频道",揭阳综合
-https://stream1.freetv.fun/jie-yang-zong-he-3.m3u8
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://logo.catvod.com/广州南国都市.png" group-title="EPG直播-广东频道",广州南国都市
 https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-1.m3u8
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://logo.catvod.com/广州南国都市.png" group-title="EPG直播-广东频道",广州南国都市
