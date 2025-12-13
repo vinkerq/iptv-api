@@ -696,7 +696,6 @@ BTV北京卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=usFqwW&tk=jcmngPC6
 陕西卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=RN8Njw&tk=jcmngPC64ClK
 陕西卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=T2r2X2&tk=jcmngPC64ClK
 黑龙江卫视-高清,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Cplij6&tk=jcmngPC64ClK
-黑龙江电信,#genre#
 
 广东频道--HKTV,#genre#
 优漫卡通,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=yq9Whd&tk=jcmngPC64ClK
@@ -744,7 +743,6 @@ BTV北京卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=usFqwW&tk=jcmngPC6
 广东经济,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=UtWnd9&tk=jcmngPC64ClK
 广东经济科教,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=GCOfup&tk=jcmngPC64ClK
 广东经济科教,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=dIOX8n&tk=jcmngPC64ClK
-广东阿里,#genre#
 广州南国都市,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=ckrYwp&tk=jcmngPC64ClK
 广州影视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=k0S1Tw&tk=jcmngPC64ClK
 广州新闻,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=EuKQAW&tk=jcmngPC64ClK
@@ -788,13 +786,6 @@ BTV北京卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=usFqwW&tk=jcmngPC6
 青海卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=iMOOd0&tk=jcmngPC64ClK
 青海卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=74o53a&tk=jcmngPC64ClK
 青海卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=9jytSi&tk=jcmngPC64ClK
-黑龙江卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=cV4Of1&tk=jcmngPC64ClK
-黑龙江卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=RILJS5&tk=jcmngPC64ClK
-黑龙江卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=IsR6xA&tk=jcmngPC64ClK
-黑龙江卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=j3waca&tk=jcmngPC64ClK
-黑龙江卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=BnoyFB&tk=jcmngPC64ClK
-黑龙江卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=T2BcIP&tk=jcmngPC64ClK
-黑龙江卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=j1fWPw&tk=jcmngPC64ClK
 
 广西频道--HKTV,#genre#
 4K超清,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=w7UOij&tk=jcmngPC64ClK
@@ -810,7 +801,6 @@ IPTV足球,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Zhlsqp&tk=jcmngPC64ClK
 卡酷卡通,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Zpi0X5&tk=jcmngPC64ClK
 卡酷少儿,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=n1BwYt&tk=jcmngPC64ClK
 山东教育,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Tx49pT&tk=jcmngPC64ClK
-山西电信,#genre#
 广西影视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=pOxAW9&tk=jcmngPC64ClK
 广西综艺,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=PsXoVS&tk=jcmngPC64ClK
 广西都市,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Xxn5II&tk=jcmngPC64ClK
@@ -824,7 +814,6 @@ IPTV足球,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Zhlsqp&tk=jcmngPC64ClK
 湖南电影,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=nNfROu&tk=jcmngPC64ClK
 湖南电视剧,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=6WL7p4&tk=jcmngPC64ClK
 湖南经视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=3HnATg&tk=jcmngPC64ClK
-湖南联通,#genre#
 湖南都市,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=ViDJxA&tk=jcmngPC64ClK
 湖南金鹰卡通,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=rDIRli&tk=jcmngPC64ClK
 金鹰纪实,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=mbgsST&tk=jcmngPC64ClK
@@ -834,6 +823,8 @@ IPTV足球,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Zhlsqp&tk=jcmngPC64ClK
 黑龙江文体,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=DuHPZE&tk=jcmngPC64ClK
 黑龙江新闻法治,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=NekZpG&tk=jcmngPC64ClK
 黑龙江都市,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=P44lYz&tk=jcmngPC64ClK
+
+
 
 
 
