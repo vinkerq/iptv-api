@@ -1,9 +1,14 @@
 汕头频道,#genre#
 揭阳生活,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=ZzIKiO&tk=jcmngPC64ClK
 揭阳综合,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=nVuWvL&tk=jcmngPC64ClK
+揭阳综合,https://stream1.freetv.fun/jie-yang-zong-he-4.m3u8
+揭阳综合,https://stream1.freetv.fun/jie-yang-zong-he-3.m3u8
 汕头经济,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=H6Btek&tk=jcmngPC64ClK
-汕头经济生活,http://124.222.114.206/sxtv.php?id=st2
+汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-5.m3u8
 汕头综合,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=yB8NrB&tk=jcmngPC64ClK
+汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-8.m3u8
+汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
+汕头经济生活,http://124.222.114.206/sxtv.php?id=st2
 汕头综合,http://124.222.114.206/sxtv.php?id=st1
 
 咪咕--央视频道,#genre#
@@ -26,7 +31,6 @@ CCTV-13 新闻,https://migu.188766.xyz/?migutoken=d5a0b352a6826871d456574006816b
 CCTV-14 少儿,https://migu.188766.xyz/?migutoken=92dc0aa97c285fc3c3b84d4c80ef2488&id=CCTV14&type=yy
 CCTV-15 音乐,https://migu.188766.xyz/?migutoken=0e691d6975567be0eff055cacb4402cb&id=CCTV15&type=yy
 CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=2ae41eb51d31b1ebf16144da30c867eb&id=CCTV17&type=yy
-
 咪咕--卫视频道,#genre#
 兵团卫视,https://migu.188766.xyz/?migutoken=471d92a245db6f577c4ec746cb31dd41&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,https://migu.188766.xyz/?migutoken=12a4fd41564dc005ae11785a74141ee3&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
@@ -49,7 +53,6 @@ CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=2ae41eb51d31b1ebf16144da
 陕西卫视,https://migu.188766.xyz/?migutoken=fbd8632f7aecc774a25214b6216be5db&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 浙江卫视,https://migu.188766.xyz/?migutoken=07ea54c2623897cd1501ab4328365a41&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 浙江卫视,https://migu.188766.xyz/?migutoken=464d5227718fe65af324221bc9ca8ea5&id=z_jws&type=sz
-
 咪咕--超清频道,#genre#
 北京卫视4K,https://migu.188766.xyz/?migutoken=f2cd2e021637040e66fce2c2c1c2c18f&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 东方卫视4K,https://migu.188766.xyz/?migutoken=f9f2ad10feedada7f2f490ab17e0076a&id=dfws&type=sz
@@ -58,7 +61,6 @@ CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=2ae41eb51d31b1ebf16144da
 深圳卫视4K,https://migu.188766.xyz/?migutoken=110b6263a0b7854ae9356fbcd87e8543&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 浙江卫视4K,https://migu.188766.xyz/?migutoken=2db6a537c00ee399ac01fa69ede6497d&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-
 咪咕--广东频道,#genre#
 广东民生,https://hk.188766.xyz/?migutoken=809340a70d627814b93104a60cd8168e&id=gd_gdms&type=sz
 广东少儿,https://hk.188766.xyz/?migutoken=cfc1264312923f266efacc448562abb7&id=gd_gdse&type=sz
@@ -71,7 +73,6 @@ CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=2ae41eb51d31b1ebf16144da
 广东珠江,https://hk.188766.xyz/?migutoken=953929b5c6525437f8795ac44548ef33&id=gd_gdzj&type=sz
 岭南戏曲,https://hk.188766.xyz/?migutoken=855709d5b8bb1093a2f467da622404d6&id=gd_lnxq&type=sz
 现代教育,https://hk.188766.xyz/?migutoken=f9af0ecb326f9c1d1897c78c603ef7d0&id=gd_xdjy&type=sz
-
 咪咕--港澳频道,#genre#
 CH5,https://mgev.188766.xyz/?migutoken=cc509d4ae7bd0d93b09ba2b9ea4a5392&id=hk_ch5&type=dy
 CH8,https://mgev.188766.xyz/?migutoken=ad402b0676c53f93feb4baaa42da7899&id=hk_ch8&type=dy
@@ -93,7 +94,6 @@ TVB星河,https://mgev.188766.xyz/?migutoken=909e1cbba3e2eafffdae604086a7ec92&id
 凤凰资讯,https://mgev.188766.xyz/?migutoken=1abcbdd2ced3bcb1ce0b6b71980eeac7&id=hk_fhzx&type=dy
 明珠台,https://mgev.188766.xyz/?migutoken=8d165bf7736fa8be8cdb7cf4220d1384&id=hk_mzt&type=dy
 无线新闻,https://mgev.188766.xyz/?migutoken=4c691e971f62868e56225f31547721d0&id=hk_wxxw&type=dy
-
 咪咕--数字频道,#genre#
 CETV-1,https://migu.188766.xyz/?migutoken=0984af71cf2fe2fe290e3c00af48b8e9&id=CETV1&type=yy
 CETV-2,https://migu.188766.xyz/?migutoken=45567d922fd1a112e2c5d2d5ca3b05ba&id=CETV2&type=yy
@@ -123,7 +123,6 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=9feae80f700509b3ee555a67874a5
 中学生,https://migu.188766.xyz/?migutoken=cf886561c5343229bea1872f2850118d&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&type=yy
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
 最强综艺趴,https://migu.188766.xyz/?migutoken=fae7d4e3d46c3b593de3d447edffe3c5&id=%E6%9C%80%E5%BC%BA%E7%BB%BC%E8%89%BA%E8%B6%B4&type=yy
-
 咪咕--北京频道,#genre#
 北京财经,https://migu.188766.xyz/?migutoken=a267976da1221b9649b7adffebf240db&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京纪实科教,https://migu.188766.xyz/?migutoken=b8d91d4a9f96fbb0d3f054924a2bf3d9&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
@@ -132,7 +131,6 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=9feae80f700509b3ee555a67874a5
 北京新闻,https://migu.188766.xyz/?migutoken=3f6567bce28c2acffaf8fdda3f878202&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
 北京影视,https://migu.188766.xyz/?migutoken=566499b3091ccd34fa8039af2cf7e6d2&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
 卡酷少儿,https://migu.188766.xyz/?migutoken=a203f9c39cef844c8ed3cb58708615fe&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
-
 咪咕--河南频道,#genre#
 河南电视剧,https://migu.188766.xyz/?migutoken=5b8529600458b38f607bee045816f1ac&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
 河南都市,https://migu.188766.xyz/?migutoken=c05805421a8b1802d233b2af6787ee2f&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
@@ -145,7 +143,6 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=9feae80f700509b3ee555a67874a5
 河南象视界,https://migu.188766.xyz/?migutoken=48b91e6d8583302872ef9cd503600bd2&id=%E8%B1%A1%E8%A7%86%E7%95%8C&type=yy
 河南新闻,https://migu.188766.xyz/?migutoken=09efd545dc61a98f26156a88f9e0ce3d&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
 河南移动戏曲,https://migu.188766.xyz/?migutoken=d6f14578048e66dfaa042f215321971d&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
-
 咪咕--上海频道,#genre#
 爱上海,https://migu.188766.xyz/?migutoken=325889cd5233b3ab8bd838b1e3d3fe6f&id=ash&type=sz
 哈哈炫动,https://migu.188766.xyz/?migutoken=7168dc8451d9b065a8aee63a995b71a7&id=hhxd&type=sz
@@ -154,14 +151,12 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=9feae80f700509b3ee555a67874a5
 上海魔都眼,https://migu.188766.xyz/?migutoken=ddf6fada866b853ba59ae84770411498&id=mdy&type=sz
 上海新纪实,https://migu.188766.xyz/?migutoken=8a40eb72fd0506a9607780ce0992d69d&id=jsrw&type=sz
 上海新闻综合,https://migu.188766.xyz/?migutoken=0cff7733a56e05973252b70b3ca770f7&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
-
 咪咕--海南频道,#genre#
 海南公共,https://migu.188766.xyz/?migutoken=0f339d1baf8af77f9cfaffdbf25ec35f&id=hn_ggpd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=a2efb0f8a48d48d0b656b18614a7e34e&id=hn_sepd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=089c4f2aad9c8dfabf31290983fa206d&id=hn_wlpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=edfddcd3b68496c8546ac268b04d9d6e&id=hn_xwpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=7113ba2bf2434317657814744a2ecd02&id=hn_jjpd&type=sz
-
 咪咕--浙江频道,#genre#
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -171,7 +166,6 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=9feae80f700509b3ee555a67874a5
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-
 咪咕--内蒙古频道,#genre#
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
@@ -180,7 +174,6 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=9feae80f700509b3ee555a67874a5
 内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
-
 咪咕--江苏频道,#genre#
 江苏国际,https://migu.188766.xyz/?migutoken=587bf38c97412e84e8cff93c5367d8ce&id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&type=yy
 江苏教育,https://migu.188766.xyz/?migutoken=13db19b3606b65ddc17b956ad7e74987&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
@@ -188,7 +181,6 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=9feae80f700509b3ee555a67874a5
 江苏新闻,https://migu.188766.xyz/?migutoken=2c3e291f133b82735375e476000c8820&id=%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
 江苏影视,https://migu.188766.xyz/?migutoken=f5fd496ecae982130958aa47c1bf9968&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy
 江苏综艺,https://migu.188766.xyz/?migutoken=e80f6795c56059b1dd7ddb2f5162f7c6&id=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&type=yy
-
 咪咕--南京及地方频道,#genre#
 淮安新闻综合,https://migu.188766.xyz/?migutoken=bdd37b7554a6d158fda1d9aee4b82b74&id=%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 江阴新闻综合,https://migu.188766.xyz/?migutoken=3b39c1ae49c502aafce11f4eec4a07fa&id=%E6%B1%9F%E9%98%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
@@ -207,9 +199,6 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=9feae80f700509b3ee555a67874a5
 徐州新闻综合,https://migu.188766.xyz/?migutoken=5e43d8f5f967f71c8490cb8abf2418a5&id=%E5%BE%90%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 盐城新闻综合,https://migu.188766.xyz/?migutoken=96366a8e122ff9cb26d22f94948938c0&id=%E7%9B%90%E5%9F%8E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 宜兴新闻综合,https://migu.188766.xyz/?migutoken=6527f6b280761531363257d8ccd906b0&id=%E5%AE%9C%E5%85%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
-
-
-
 CATbox-香港频道,#genre#
 CH5,https://live.catvod.com/iptv.php?id=ch5001&token=09a943bbd3eae0b4c84b7aafd1d6bf2063639d107b9bcfa0e0f185967918c025%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 CH8,https://live.catvod.com/iptv.php?id=ch8001&token=b2e8065526056c2a3ccec8467abeccb1538707f60fe1385ff706483a534ff41d%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
@@ -283,7 +272,6 @@ viutv6,https://live.catvod.com/live.php?id=viusix_twn&token=a27e248d4a8f5555822c
 星河台,https://live.catvod.com/live.php?id=Xinhe&token=b88ce6a41532a958db4be91124664f6f09b6457aa5c3c88a98ff8da9e9b922b0%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 亚洲武侠,https://live.catvod.com/iptv.php?id=yzwx01&token=af7f5f620e092e86c3a6aa36c024447b6663fa6deadbed5ab3d3a65fbbae6253%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 重温经典,https://live.catvod.com/iptv.php?id=cwjd01&token=eada9e2c285db95ff2ff8b3d6999e5102b979ea7ffb3668a259e625e928598c6%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
-
 CATbox-央视频道,#genre#
 CCTV1,https://live.catvod.com/live.php?id=cctv1&token=7abf74f7702a0ab4af4729d726e3c338a517c24e1e55ffea635a79e0ddf79747%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 CCTV10,https://live.catvod.com/live.php?id=cctv10hd&token=574b512ff5b7af211041554f1afabbcebed08163838c36788b29f1bb46558e04%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
@@ -301,7 +289,6 @@ CCTV6,https://live.catvod.com/live.php?id=cctv6&token=2201c91c30caa80c3b843a6b68
 CCTV7,https://live.catvod.com/live.php?id=cctv7&token=6a453c6a3c30d5d8ed721df54aeb195051b4c393a465ff6b9045e81eda348b16%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 CCTV8,https://live.catvod.com/live.php?id=cctv8hd&token=91bc0f84593b57339b7c029e7fc82e7a190e7e3a0a4f417614024a04108e9209%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 CCTV9,https://live.catvod.com/live.php?id=cctv9hd&token=effe4b625c02397ea8094fda565815e34ebe40cf2a728c3b6cf4c89998a63177%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
-
 CATbox-卫视频道,#genre#
 CCTV13,https://live.catvod.com/iptv.php?id=cctv13&token=f7e410bcfd25327b74164215549c25cb3c5a668ac7b8f891395844498072ec86%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 CGTN,https://live.catvod.com/live.php?id=CGTN&token=17c9aa2cb5051290342bd8c280cd5ae1944ea3027047b468d5c6a0de79f2916f%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
@@ -324,7 +311,6 @@ CGTN,https://live.catvod.com/live.php?id=CGTN&token=17c9aa2cb5051290342bd8c280cd
 五星体育,https://live.catvod.com/iptv.php?id=wxty01&token=3fd12a99023d72c0beaa6773183d90218dafa837768f4137abb559fea8f6e1ea%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 浙江卫视,https://live.catvod.com/live.php?id=zhejiang_twn&token=d32776fff58b2198c4f23a1157321a8f6e3ccd9d1dc226ee4acbd38f632e7a15%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 珠江,https://live.catvod.com/live.php?id=zhujiang&token=1578f8f8452cb12ec779309f3abee2355e1b232d898bd039c27eabfde31d5307%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
-
 CATbox-台湾频道,#genre#
 ARIRANG,https://live.catvod.com/live.php?id=arirang_twn&token=bcce7b0253e901e7e7e733732b0646ebf924c64774ae7635b824206f3a948aaf%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 AXN台湾,https://live.catvod.com/live.php?id=axn_twn&token=404059b15a9c63d1e9faf281bb61abb8c9916a70885090e7a30162b0d296f22f%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
@@ -412,7 +398,6 @@ TVBS新闻台,https://live.catvod.com/live.php?id=tvbs_n&token=6f83ae29aa5a1cc25
 中天亚洲,https://live.catvod.com/live.php?id=ctiasia_twn&token=1ca6f052f027731aea75e90f89dc8909ead32b5bb55d5bc68122a600292c2b94%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 中天娱乐,https://live.catvod.com/live.php?id=ctient&token=2b617551a33b09ff014c2abdc2d52b062bf3d892af8d68b30c4fb7764e890a05%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 中天综合,https://live.catvod.com/live.php?id=ctizhonghe&token=db4e77f3e46f735aa0eb4785a88b4e5470cb87f71401c5f2f3fe1bb78f56eff8%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
-
 CATbox-电影频道,#genre#
 AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn&token=65b19458ae7d854eb8d1fe8dbf99c640bc803cfddb70611cf933c5d2e99d9fdd%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 ANIMAX,https://live.catvod.com/live.php?id=Animax&token=15b5011b5ab18b3fc23852a289671af2530a6e3f0ce1a540878dbc3d890e087a%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
@@ -437,9 +422,6 @@ TVNMOVIES,https://live.catvod.com/live.php?id=moviesnow_raj&token=4a83e8795f876f
 TVNMOVIES,https://live.catvod.com/live.php?id=Tvnmovie&token=e76b3c490abdcfe1c4dfad9705223ccf0a2fae4525616c04a470eaffc07c0823%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 WarnerTV,https://live.catvod.com/live.php?id=WarnerTV&token=daf25a74eb819e807026697b5390c9c43f808f2271db93b885474c528c745689%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
 天映经典,https://live.catvod.com/live.php?id=Celestial2&token=372e881db82ccc6afdbb3470a24a403a692131a129434fb539dca83cd611c9eb%3A1765648714%3AMTE5LjEzMS4xODIuMzU%3D
-
-
-
 HKTV-港台频道,#genre#
 1905环球,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=cMyyiV&tk=jcmngPC64ClK
 1905电影,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=WynvwU&tk=jcmngPC64ClK
@@ -519,7 +501,6 @@ Y+剧场,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=wLTQad&tk=jcmngPC64ClK
 香蕉台HD,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=awfqxx&tk=jcmngPC64ClK
 黄金华剧台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=PUxNe2&tk=jcmngPC64ClK
 黄金翡翠台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Zjtxbi&tk=jcmngPC64ClK
-
 HKTV-央视频道,#genre#
 CCTV1,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=XVLCsw&tk=jcmngPC64ClK
 CCTV1-综合,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=L7RUdM&tk=jcmngPC64ClK
@@ -648,7 +629,6 @@ CCTV17.,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=ReAPkP&tk=jcmngPC64ClK
 CETV,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=gbqEHc&tk=jcmngPC64ClK
 CCTN,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=MFZa3k&tk=jcmngPC64ClK
 CETV-2,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=RGjwR8&tk=jcmngPC64ClK
-
 HKTV-卫视频道,#genre#
 BTV北京卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=usFqwW&tk=jcmngPC64ClK
 上海卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=0HrMEz&tk=jcmngPC64ClK
@@ -904,7 +884,6 @@ BTV北京卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=usFqwW&tk=jcmngPC6
 陕西卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=RN8Njw&tk=jcmngPC64ClK
 陕西卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=T2r2X2&tk=jcmngPC64ClK
 黑龙江卫视-高清,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Cplij6&tk=jcmngPC64ClK
-
 HKTV-广东频道,#genre#
 优漫卡通,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=yq9Whd&tk=jcmngPC64ClK
 优漫卡通,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=3wsCdy&tk=jcmngPC64ClK
@@ -964,10 +943,6 @@ HKTV-广东频道,#genre#
 惠州综合,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=lekBA2&tk=jcmngPC64ClK
 惠州都市生活,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=MjyVvk&tk=jcmngPC64ClK
 惠州都市生活,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=hQQbx5&tk=jcmngPC64ClK
-揭阳生活,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=ZzIKiO&tk=jcmngPC64ClK
-揭阳综合,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=nVuWvL&tk=jcmngPC64ClK
-汕头经济,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=H6Btek&tk=jcmngPC64ClK
-汕头综合,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=yB8NrB&tk=jcmngPC64ClK
 深圳国际,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=MMcCfs&tk=jcmngPC64ClK
 深圳宜和购物,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Nuyy37&tk=jcmngPC64ClK
 深圳电视剧,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=eCTljl&tk=jcmngPC64ClK
@@ -976,14 +951,6 @@ HKTV-广东频道,#genre#
 深圳都市,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=boe436&tk=jcmngPC64ClK
 深圳都市,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=nTWWTD&tk=jcmngPC64ClK
 炫动卡通,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=tcAd6K&tk=jcmngPC64ClK
-辽宁卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=zejcmw&tk=jcmngPC64ClK
-辽宁卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=jI1kTd&tk=jcmngPC64ClK
-辽宁卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=mDrcA6&tk=jcmngPC64ClK
-辽宁卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=STFzKg&tk=jcmngPC64ClK
-辽宁卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=IWKx5k&tk=jcmngPC64ClK
-辽宁卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=PsxvT5&tk=jcmngPC64ClK
-辽宁卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=HXqyR3&tk=jcmngPC64ClK
-辽宁卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=MonI39&tk=jcmngPC64ClK
 金鹰卡通,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=c1J50I&tk=jcmngPC64ClK
 金鹰卡通,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=jNhukC&tk=jcmngPC64ClK
 金鹰卡通,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=s0cYBM&tk=jcmngPC64ClK
@@ -994,7 +961,6 @@ HKTV-广东频道,#genre#
 青海卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=iMOOd0&tk=jcmngPC64ClK
 青海卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=74o53a&tk=jcmngPC64ClK
 青海卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=9jytSi&tk=jcmngPC64ClK
-
 HKTV-广西频道,#genre#
 4K超清,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=w7UOij&tk=jcmngPC64ClK
 BTV,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=bKcD7K&tk=jcmngPC64ClK
@@ -1031,9 +997,6 @@ IPTV足球,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Zhlsqp&tk=jcmngPC64ClK
 黑龙江文体,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=DuHPZE&tk=jcmngPC64ClK
 黑龙江新闻法治,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=NekZpG&tk=jcmngPC64ClK
 黑龙江都市,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=P44lYz&tk=jcmngPC64ClK
-
-
-
 风云-港澳台频道,#genre#
 CCTV1综合,http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV2财经,http://iptv.4666888.xyz/iptv2A.php?id=8
@@ -1069,7 +1032,6 @@ RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 邵氏电影,http://iptv.4666888.xyz/iptv2A.php?id=39
 邵氏武侠,http://iptv.4666888.xyz/iptv2A.php?id=40
 東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
-東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 龍華电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
@@ -1089,13 +1051,7 @@ SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
 TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
 astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
 wwwe,http://iptv.4666888.xyz/iptv2A.php?id=5
-
-
-
 EPG直播-汕头频道,#genre#
-汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-8.m3u8
-汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
-
 EPG直播-央视频道,#genre#
 CCTV1,https://stream1.freetv.fun/cctv1-28.m3u8
 CCTV1,https://stream1.freetv.fun/cctv1-42.m3u8
@@ -1271,15 +1227,11 @@ CGTN阿语,https://stream1.freetv.fun/cgtna-yu-5.m3u8
 CGTN纪录,https://stream1.freetv.fun/cgtnji-lu-2.m3u8
 CGTN纪录,https://stream1.freetv.fun/cgtnji-lu-6.m3u8
 CCTV第一剧场,https://stream1.freetv.fun/cctvdi-yi-ju-chang-9.m3u8
-
 EPG直播-广东频道,#genre#
 东莞综合,https://stream1.freetv.fun/dong-wan-zong-he-1.m3u8
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-1.m3u8
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-2.m3u8
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-5.ctv
-汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-5.m3u8
-揭阳综合,https://stream1.freetv.fun/jie-yang-zong-he-4.m3u8
-揭阳综合,https://stream1.freetv.fun/jie-yang-zong-he-3.m3u8
 广州南国都市,https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-1.m3u8
 广州南国都市,https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-2.m3u8
 广州南国都市,https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-3.m3u8
@@ -1392,7 +1344,6 @@ EPG直播-广东频道,#genre#
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-7.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-25.ctv
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-2.m3u8
-
 EPG直播-港澳频道,#genre#
 TVBPLUS,https://stream1.freetv.fun/tvb-plus-1.m3u8
 TVBPLUS,https://stream1.freetv.fun/tvb-plus-8.m3u8
@@ -1495,7 +1446,6 @@ CGTN,https://stream1.freetv.fun/cgtn-32.ctv
 HOYTV,https://stream1.freetv.fun/hoy-tv-2.ctv
 HOYTV,https://stream1.freetv.fun/hoy-tv--sm-1.ctv
 SNAP,https://stream1.freetv.fun/snap-1.m3u8
-
 EPG直播-卫视频道,#genre#
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-50.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-51.m3u8
@@ -1844,7 +1794,6 @@ EPG直播-卫视频道,#genre#
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-7.m3u8
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-6.m3u8
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-9.m3u8
-
 EPG直播-数字频道,#genre#
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-13.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-22.ctv
@@ -1859,7 +1808,6 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-5.ctv
 洪金宝,https://stream1.freetv.fun/hong-jin-bao-2.ctv
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-27.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-18.m3u8
-
 EPG直播-台湾频道,#genre#
 三立戏剧,https://stream1.freetv.fun/san-li-xi-ju-3.ctv
 三立戏剧,https://stream1.freetv.fun/san-li-xi-ju---sm-1.ctv
@@ -2069,22 +2017,18 @@ EPG直播-台湾频道,#genre#
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-5.m3u8
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-2.m3u8
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-7.m3u8
-
 EPG直播-北京/南京频道,#genre#
 南京少儿,https://stream1.freetv.fun/nan-jing-shao-er-1.m3u8
 南京新闻综合,https://stream1.freetv.fun/nan-jing-xin-wen-zong-he-6.ctv
-
 EPG直播-重庆频道,#genre#
 重庆科教高清,https://stream1.freetv.fun/zhong-qing-ke-jiao-gao-qing-1.ctv
 江津新闻综合,https://stream1.freetv.fun/jiang-jin-xin-wen-zong-he-4.m3u8
 江津新闻综合,https://stream1.freetv.fun/jiang-jin-xin-wen-zong-he-1.m3u8
-
 EPG直播-内蒙古频道,#genre#
 内蒙古文体娱乐,https://stream1.freetv.fun/nei-meng-gu-wen-ti-yu-le-1.m3u8
 内蒙古经济生活,https://stream1.freetv.fun/nei-meng-gu-jing-ji-sheng-huo-1.m3u8
 内蒙古蒙语文化,https://stream1.freetv.fun/nei-meng-gu-meng-yu-wen-hua-1.m3u8
 内蒙古农牧,https://stream1.freetv.fun/nei-meng-gu-nong-mu-2.m3u8
-
 EPG直播-上海频道,#genre#
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-10.m3u8
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-9.ctv
@@ -2097,7 +2041,6 @@ EPG直播-上海频道,#genre#
 上海第一财经,https://stream1.freetv.fun/shang-hai-di-yi-cai-jing-3.m3u8
 上海第一财经,https://stream1.freetv.fun/shang-hai-di-yi-cai-jing-2.ctv
 上海第一财经,https://stream1.freetv.fun/shang-hai-di-yi-cai-jing-9.ctv
-
 EPG直播-浙江频道,#genre#
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-6.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-1.m3u8
@@ -2176,7 +2119,6 @@ EPG直播-浙江频道,#genre#
 绍兴新闻综合,https://stream1.freetv.fun/shao-xing-xin-wen-zong-he-7.m3u8
 绍兴新闻,https://stream1.freetv.fun/shao-xing-xin-wen-1.m3u8
 绍兴新闻,https://stream1.freetv.fun/shao-xing-xin-wen-2.m3u8
-
 EPG直播-云南频道,#genre#
 云南娱乐,https://stream1.freetv.fun/yun-nan-yu-le-3.m3u8
 云南影视,https://stream1.freetv.fun/yun-nan-ying-shi-1.m3u8
@@ -2184,9 +2126,7 @@ EPG直播-云南频道,#genre#
 丽江新闻综合,https://stream1.freetv.fun/li-jiang-xin-wen-zong-he-1.m3u8
 大理新闻综合,https://stream1.freetv.fun/da-li-xin-wen-zong-he-1.m3u8
 文山新闻综合,https://stream1.freetv.fun/wen-shan-xin-wen-zong-he-1.m3u8
-
 EPG直播-福建频道,#genre#
-
 EPG直播-江苏频道,#genre#
 江苏城市,https://stream1.freetv.fun/jiang-su-cheng-shi-7.m3u8
 江苏影视,https://stream1.freetv.fun/jiang-su-ying-shi-2.m3u8
@@ -2202,7 +2142,6 @@ EPG直播-江苏频道,#genre#
 苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-2.m3u8
 苏州社会经济,https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-2.m3u8
 苏州电影娱乐信息,https://stream1.freetv.fun/su-zhou-dian-ying-yu-le-xin-xi-2.ctv
-
 四川频道,#genre#
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-4.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-2.m3u8
@@ -2215,7 +2154,6 @@ EPG直播-江苏频道,#genre#
 南充综合,https://stream1.freetv.fun/nan-chong-zong-he-3.ctv
 眉山丹棱综合,https://stream1.freetv.fun/mei-shan-dan-leng-zong-he-1.m3u8
 眉山丹棱综合,https://stream1.freetv.fun/mei-shan-dan-leng-zong-he-2.ctv
-
 EPG直播-河南频道,#genre#
 河南民生,https://stream1.freetv.fun/he-nan-min-sheng-5.ctv
 河南民生,https://stream1.freetv.fun/he-nan-min-sheng-1.ctv
@@ -2241,15 +2179,12 @@ EPG直播-河南频道,#genre#
 巩义新闻综合,https://stream1.freetv.fun/gong-yi-xin-wen-zong-he-4.m3u8
 义马新闻综合,https://stream1.freetv.fun/yi-ma-xin-wen-zong-he-1.m3u8
 获嘉新闻综合频道,https://stream1.freetv.fun/huo-jia-xin-wen-zong-he-1.m3u8
-
 EPG直播-湖南频道,#genre#
 湖南娱乐,https://stream1.freetv.fun/hu-nan-yu-le-24.ctv
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-13.ctv
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-15.ctv
-
 EPG直播-湖北频道,#genre#
 十堰经济旅游,https://stream1.freetv.fun/shi-yan-jing-ji-lu-you-2.m3u8
-
 EPG直播-黑龙江频道,#genre#
 黑龙江影视,https://stream1.freetv.fun/hei-long-jiang-ying-shi-12.m3u8
 黑龙江新闻法治,https://stream1.freetv.fun/hei-long-jiang-xin-wen-fa-zhi-10.m3u8
