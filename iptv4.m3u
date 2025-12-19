@@ -9,6 +9,105 @@ https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
 http://124.222.114.206/sxtv.php?id=st2
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="汕头频道",汕头综合
 http://124.222.114.206/sxtv.php?id=st1
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="今日新闻4Gtv" tvg-logo="https://logo.catvod.com/今日新闻4Gtv.png" group-title="台湾4Gtv",今日新闻4Gtv
+http://220.135.64.124:5050/nnews-zh/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中天新闻4Gtv" tvg-logo="https://logo.catvod.com/中天新闻4Gtv.png" group-title="台湾4Gtv",中天新闻4Gtv
+http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="寰宇新闻4Gtv" tvg-logo="https://logo.catvod.com/寰宇新闻4Gtv.png" group-title="台湾4Gtv",寰宇新闻4Gtv
+http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="东森新闻4Gtv" tvg-logo="https://logo.catvod.com/东森新闻4Gtv.png" group-title="台湾4Gtv",东森新闻4Gtv
+http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="tvbs新闻4Gtv" tvg-logo="https://logo.catvod.com/tvbs新闻4Gtv.png" group-title="台湾4Gtv",tvbs新闻4Gtv
+http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="三立新闻4Gtv" tvg-logo="https://logo.catvod.com/三立新闻4Gtv.png" group-title="台湾4Gtv",三立新闻4Gtv
+http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="三立新闻4Gtv" tvg-logo="https://logo.catvod.com/三立新闻4Gtv.png" group-title="台湾4Gtv",三立新闻4Gtv
+http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="非凡新闻4Gtv" tvg-logo="https://logo.catvod.com/非凡新闻4Gtv.png" group-title="台湾4Gtv",非凡新闻4Gtv
+http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="闽镜新闻4Gtv" tvg-logo="https://logo.catvod.com/闽镜新闻4Gtv.png" group-title="台湾4Gtv",闽镜新闻4Gtv
+http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视新闻4Gtv" tvg-logo="https://logo.catvod.com/民视新闻4Gtv.png" group-title="台湾4Gtv",民视新闻4Gtv
+http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中视新闻4Gtv" tvg-logo="https://logo.catvod.com/中视新闻4Gtv.png" group-title="台湾4Gtv",中视新闻4Gtv
+http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="华视新闻4Gtv" tvg-logo="https://logo.catvod.com/华视新闻4Gtv.png" group-title="台湾4Gtv",华视新闻4Gtv
+http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="台视新闻4Gtv" tvg-logo="https://logo.catvod.com/台视新闻4Gtv.png" group-title="台湾4Gtv",台视新闻4Gtv
+http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视闽南4Gtv" tvg-logo="https://logo.catvod.com/民视闽南4Gtv.png" group-title="台湾4Gtv",民视闽南4Gtv
+http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视闽南4Gtv" tvg-logo="https://logo.catvod.com/民视闽南4Gtv.png" group-title="台湾4Gtv",民视闽南4Gtv
+http://220.135.64.124:5050/4gtv-4gtv155/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视闽南4Gtv" tvg-logo="https://logo.catvod.com/民视闽南4Gtv.png" group-title="台湾4Gtv",民视闽南4Gtv
+http://220.135.64.124:5050/4gtv-live050/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中视闽南4Gtv" tvg-logo="https://logo.catvod.com/中视闽南4Gtv.png" group-title="台湾4Gtv",中视闽南4Gtv
+http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="华视闽南4Gtv" tvg-logo="https://logo.catvod.com/华视闽南4Gtv.png" group-title="台湾4Gtv",华视闽南4Gtv
+http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="台视闽南4Gtv" tvg-logo="https://logo.catvod.com/台视闽南4Gtv.png" group-title="台湾4Gtv",台视闽南4Gtv
+http://220.135.64.124:5050/4gtv-4gtv066/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="寰宇闽南4Gtv" tvg-logo="https://logo.catvod.com/寰宇闽南4Gtv.png" group-title="台湾4Gtv",寰宇闽南4Gtv
+http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="tvbs闽南4Gtv" tvg-logo="https://logo.catvod.com/tvbs闽南4Gtv.png" group-title="台湾4Gtv",tvbs闽南4Gtv
+http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视台湾4Gtv" tvg-logo="https://logo.catvod.com/民视台湾4Gtv.png" group-title="台湾4Gtv",民视台湾4Gtv
+http://220.135.64.124:5050/4gtv-4gtv001/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视第一4Gtv" tvg-logo="https://logo.catvod.com/民视第一4Gtv.png" group-title="台湾4Gtv",民视第一4Gtv
+http://220.135.64.124:5050/4gtv-4gtv003/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视旅游4Gtv" tvg-logo="https://logo.catvod.com/民视旅游4Gtv.png" group-title="台湾4Gtv",民视旅游4Gtv
+http://220.135.64.124:5050/litv-ftv07/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视影剧4Gtv" tvg-logo="https://logo.catvod.com/民视影剧4Gtv.png" group-title="台湾4Gtv",民视影剧4Gtv
+http://220.135.64.124:5050/litv-ftv09/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="民视综艺4Gtv" tvg-logo="https://logo.catvod.com/民视综艺4Gtv.png" group-title="台湾4Gtv",民视综艺4Gtv
+http://220.135.64.124:5050/4gtv-4gtv004/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中视菁采4Gtv" tvg-logo="https://logo.catvod.com/中视菁采4Gtv.png" group-title="台湾4Gtv",中视菁采4Gtv
+http://220.135.64.124:5050/4gtv-4gtv064/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中视经典4Gtv" tvg-logo="https://logo.catvod.com/中视经典4Gtv.png" group-title="台湾4Gtv",中视经典4Gtv
+http://220.135.64.124:5050/4gtv-4gtv080/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="台视财经4Gtv" tvg-logo="https://logo.catvod.com/台视财经4Gtv.png" group-title="台湾4Gtv",台视财经4Gtv
+http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="公视戏剧4Gtv" tvg-logo="https://logo.catvod.com/公视戏剧4Gtv.png" group-title="台湾4Gtv",公视戏剧4Gtv
+http://220.135.64.124:5050/4gtv-4gtv042/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="闽南戏剧4Gtv" tvg-logo="https://logo.catvod.com/闽南戏剧4Gtv.png" group-title="台湾4Gtv",闽南戏剧4Gtv
+http://220.135.64.124:5050/litv-longturn22/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="国际财经4Gtv" tvg-logo="https://logo.catvod.com/国际财经4Gtv.png" group-title="台湾4Gtv",国际财经4Gtv
+http://220.135.64.124:5050/4gtv-4gtv104/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="全球财经4Gtv" tvg-logo="https://logo.catvod.com/全球财经4Gtv.png" group-title="台湾4Gtv",全球财经4Gtv
+http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="东森财经4Gtv" tvg-logo="https://logo.catvod.com/东森财经4Gtv.png" group-title="台湾4Gtv",东森财经4Gtv
+http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="寰宇财经4Gtv" tvg-logo="https://logo.catvod.com/寰宇财经4Gtv.png" group-title="台湾4Gtv",寰宇财经4Gtv
+http://220.135.64.124:5050/4gtv-4gtv158/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="cnbc财经4Gtv" tvg-logo="https://logo.catvod.com/cnbc财经4Gtv.png" group-title="台湾4Gtv",cnbc财经4Gtv
+http://220.135.64.124:5050/4gtv-live130/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="tvbs精采4Gtv" tvg-logo="https://logo.catvod.com/tvbs精采4Gtv.png" group-title="台湾4Gtv",tvbs精采4Gtv
+http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="tvbs欢乐4Gtv" tvg-logo="https://logo.catvod.com/tvbs欢乐4Gtv.png" group-title="台湾4Gtv",tvbs欢乐4Gtv
+http://220.135.64.124:5050/4gtv-4gtv068/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="tvbs综艺4Gtv" tvg-logo="https://logo.catvod.com/tvbs综艺4Gtv.png" group-title="台湾4Gtv",tvbs综艺4Gtv
+http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="tvbs台剧4Gtv" tvg-logo="https://logo.catvod.com/tvbs台剧4Gtv.png" group-title="台湾4Gtv",tvbs台剧4Gtv
+http://220.135.64.124:5050/4gtv-live088/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="八大精彩4Gtv" tvg-logo="https://logo.catvod.com/八大精彩4Gtv.png" group-title="台湾4Gtv",八大精彩4Gtv
+http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="八大综艺4Gtv" tvg-logo="https://logo.catvod.com/八大综艺4Gtv.png" group-title="台湾4Gtv",八大综艺4Gtv
+http://220.135.64.124:5050/4gtv-4gtv039/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="三立综合4Gtv" tvg-logo="https://logo.catvod.com/三立综合4Gtv.png" group-title="台湾4Gtv",三立综合4Gtv
+http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="爱达娱乐4Gtv" tvg-logo="https://logo.catvod.com/爱达娱乐4Gtv.png" group-title="台湾4Gtv",爱达娱乐4Gtv
+http://220.135.64.124:5050/4gtv-4gtv070/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖洋戏剧4Gtv" tvg-logo="https://logo.catvod.com/靖洋戏剧4Gtv.png" group-title="台湾4Gtv",靖洋戏剧4Gtv
+http://220.135.64.124:5050/4gtv-4gtv045/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖洋卡通4Gtv" tvg-logo="https://logo.catvod.com/靖洋卡通4Gtv.png" group-title="台湾4Gtv",靖洋卡通4Gtv
+http://220.135.64.124:5050/4gtv-4gtv057/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天卡通4Gtv" tvg-logo="https://logo.catvod.com/靖天卡通4Gtv.png" group-title="台湾4Gtv",靖天卡通4Gtv
+http://220.135.64.124:5050/4gtv-4gtv044/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天综合4Gtv" tvg-logo="https://logo.catvod.com/靖天综合4Gtv.png" group-title="台湾4Gtv",靖天综合4Gtv
+http://220.135.64.124:5050/4gtv-4gtv046/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="靖天日本4Gtv" tvg-logo="https://logo.catvod.com/靖天日本4Gtv.png" group-title="台湾4Gtv",靖天日本4Gtv
+http://220.135.64.124:5050/4gtv-4gtv047/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="iptv-央视频道",CCTV-1
 http://116.7.10.64:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="iptv-央视频道",CCTV-1
@@ -4009,3 +4108,4 @@ https://live.catvod.com/live.php?id=Tvnmovie&token=6a8b812865e0d70e79b0a5825cc22
 https://live.catvod.com/live.php?id=WarnerTV&token=64a7f25180a022acdfcc595fb486d0849c413a26e51980ca92e0b5df798409f0%3A1766150550%3AMTE5LjEzMS4xNzkuMjQw
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="CATbox-电影频道",天映经典
 https://live.catvod.com/live.php?id=Celestial2&token=8ae0433fecdb9fae2f2a187794de6462d1e67e1463ba1d8695c3d3c66c57535f%3A1766150550%3AMTE5LjEzMS4xNzkuMjQw
+
