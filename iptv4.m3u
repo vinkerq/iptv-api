@@ -953,761 +953,761 @@ http://36.135.118.195:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://36.135.118.195:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://logo.catvod.com/风云剧场.png" group-title="iptv-其他频道",风云剧场
 http://36.135.118.195:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="重温经典Pdtv" tvg-logo="https://logo.catvod.com/重温经典Pdtv.png" group-title="TX-港澳频道",重温经典Pdtv
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://logo.catvod.com/重温经典.png" group-title="TX-港澳频道",重温经典
 http://rihou.cc:555/tv/[Pd]重温经典
-#EXTINF:-1 tvg-name="中旺电视Hktv" tvg-logo="https://logo.catvod.com/中旺电视Hktv.png" group-title="TX-港澳频道",中旺电视Hktv
+#EXTINF:-1 tvg-name="中旺电视" tvg-logo="https://logo.catvod.com/中旺电视.png" group-title="TX-港澳频道",中旺电视
 http://rihou.cc:555/tv/[Hk]中旺电视
-#EXTINF:-1 tvg-name="中天新闻Hktv" tvg-logo="https://logo.catvod.com/中天新闻Hktv.png" group-title="TX-港澳频道",中天新闻Hktv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="TX-港澳频道",中天新闻
 http://rihou.cc:555/tv/[Hk]中天新聞
-#EXTINF:-1 tvg-name="中天新闻Hktv" tvg-logo="https://logo.catvod.com/中天新闻Hktv.png" group-title="TX-港澳频道",中天新闻Hktv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="TX-港澳频道",中天新闻
 http://rihou.cc:555/tv/[Hk]中天新闻
-#EXTINF:-1 tvg-name="中天新闻Bxtv" tvg-logo="https://logo.catvod.com/中天新闻Bxtv.png" group-title="TX-港澳频道",中天新闻Bxtv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="TX-港澳频道",中天新闻
 http://rihou.cc:555/tv/[Bx]中天新闻
-#EXTINF:-1 tvg-name="中视新闻Hktv" tvg-logo="https://logo.catvod.com/中视新闻Hktv.png" group-title="TX-港澳频道",中视新闻Hktv
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="TX-港澳频道",中视新闻
 http://rihou.cc:555/tv/[Hk]中视新闻
-#EXTINF:-1 tvg-name="有线综合粤Pl" tvg-logo="https://logo.catvod.com/有线综合粤Pl.png" group-title="TX-港澳频道",有线综合粤Pl
+#EXTINF:-1 tvg-name="有线综合粤" tvg-logo="https://logo.catvod.com/有线综合粤.png" group-title="TX-港澳频道",有线综合粤
 http://rihou.cc:555/tv/[PL]有线综合
-#EXTINF:-1 tvg-name="有线综合国Pl" tvg-logo="https://logo.catvod.com/有线综合国Pl.png" group-title="TX-港澳频道",有线综合国Pl
+#EXTINF:-1 tvg-name="有线综合国" tvg-logo="https://logo.catvod.com/有线综合国.png" group-title="TX-港澳频道",有线综合国
 http://rihou.cc:555/tv/[PL]有线综国
-#EXTINF:-1 tvg-name="有线综合Pdtv" tvg-logo="https://logo.catvod.com/有线综合Pdtv.png" group-title="TX-港澳频道",有线综合Pdtv
+#EXTINF:-1 tvg-name="有线综合" tvg-logo="https://logo.catvod.com/有线综合.png" group-title="TX-港澳频道",有线综合
 http://rihou.cc:555/tv/[Pd]有线综合
-#EXTINF:-1 tvg-name="有线综合Mttv" tvg-logo="https://logo.catvod.com/有线综合Mttv.png" group-title="TX-港澳频道",有线综合Mttv
+#EXTINF:-1 tvg-name="有线综合" tvg-logo="https://logo.catvod.com/有线综合.png" group-title="TX-港澳频道",有线综合
 http://rihou.cc:555/tv/[Mt]有线综合
-#EXTINF:-1 tvg-name="有线亚剧Pdtv" tvg-logo="https://logo.catvod.com/有线亚剧Pdtv.png" group-title="TX-港澳频道",有线亚剧Pdtv
+#EXTINF:-1 tvg-name="有线亚剧" tvg-logo="https://logo.catvod.com/有线亚剧.png" group-title="TX-港澳频道",有线亚剧
 http://rihou.cc:555/tv/[Pd]有线亚剧
-#EXTINF:-1 tvg-name="有线新闻Mttv" tvg-logo="https://logo.catvod.com/有线新闻Mttv.png" group-title="TX-港澳频道",有线新闻Mttv
+#EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://logo.catvod.com/有线新闻.png" group-title="TX-港澳频道",有线新闻
 http://rihou.cc:555/tv/[Mt]有线新闻
-#EXTINF:-1 tvg-name="有线赛讯Mttv" tvg-logo="https://logo.catvod.com/有线赛讯Mttv.png" group-title="TX-港澳频道",有线赛讯Mttv
+#EXTINF:-1 tvg-name="有线赛讯" tvg-logo="https://logo.catvod.com/有线赛讯.png" group-title="TX-港澳频道",有线赛讯
 http://rihou.cc:555/tv/[Mt]有线赛讯
-#EXTINF:-1 tvg-name="央视综合Pdtv" tvg-logo="https://logo.catvod.com/央视综合Pdtv.png" group-title="TX-港澳频道",央视综合Pdtv
+#EXTINF:-1 tvg-name="央视综合" tvg-logo="https://logo.catvod.com/央视综合.png" group-title="TX-港澳频道",央视综合
 http://rihou.cc:555/tv/[Pd]央视综合
-#EXTINF:-1 tvg-name="无线娱乐PLtv" tvg-logo="https://logo.catvod.com/无线娱乐PLtv.png" group-title="TX-港澳频道",无线娱乐PLtv
+#EXTINF:-1 tvg-name="无线娱乐" tvg-logo="https://logo.catvod.com/无线娱乐.png" group-title="TX-港澳频道",无线娱乐
 http://rihou.cc:555/tv/[PL]无线娱乐
-#EXTINF:-1 tvg-name="无线星河国Sx" tvg-logo="https://logo.catvod.com/无线星河国Sx.png" group-title="TX-港澳频道",无线星河国Sx
+#EXTINF:-1 tvg-name="无线星河国" tvg-logo="https://logo.catvod.com/无线星河国.png" group-title="TX-港澳频道",无线星河国
 http://rihou.cc:555/tv/[SX]无线星河
 #EXTINF:-1 tvg-name="无线星河国hk" tvg-logo="https://logo.catvod.com/无线星河国hk.png" group-title="TX-港澳频道",无线星河国hk
 http://rihou.cc:555/tv/[Hk]无线星河
-#EXTINF:-1 tvg-name="无线星河PLtv" tvg-logo="https://logo.catvod.com/无线星河PLtv.png" group-title="TX-港澳频道",无线星河PLtv
+#EXTINF:-1 tvg-name="无线星河" tvg-logo="https://logo.catvod.com/无线星河.png" group-title="TX-港澳频道",无线星河
 http://rihou.cc:555/tv/[PL]无线星河
-#EXTINF:-1 tvg-name="无线星河PLtv" tvg-logo="https://logo.catvod.com/无线星河PLtv.png" group-title="TX-港澳频道",无线星河PLtv
+#EXTINF:-1 tvg-name="无线星河" tvg-logo="https://logo.catvod.com/无线星河.png" group-title="TX-港澳频道",无线星河
 http://rihou.cc:555/tv/[PL]无线星贰
-#EXTINF:-1 tvg-name="无线星河Pdtv" tvg-logo="https://logo.catvod.com/无线星河Pdtv.png" group-title="TX-港澳频道",无线星河Pdtv
+#EXTINF:-1 tvg-name="无线星河" tvg-logo="https://logo.catvod.com/无线星河.png" group-title="TX-港澳频道",无线星河
 http://rihou.cc:555/tv/[Pd]无线星河
-#EXTINF:-1 tvg-name="无线新闻SXtv" tvg-logo="https://logo.catvod.com/无线新闻SXtv.png" group-title="TX-港澳频道",无线新闻SXtv
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="TX-港澳频道",无线新闻
 http://rihou.cc:555/tv/[SX]无线新闻
-#EXTINF:-1 tvg-name="无线新闻PLtv" tvg-logo="https://logo.catvod.com/无线新闻PLtv.png" group-title="TX-港澳频道",无线新闻PLtv
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="TX-港澳频道",无线新闻
 http://rihou.cc:555/tv/[PL]无线新闻
-#EXTINF:-1 tvg-name="无线新闻Pdtv" tvg-logo="https://logo.catvod.com/无线新闻Pdtv.png" group-title="TX-港澳频道",无线新闻Pdtv
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="TX-港澳频道",无线新闻
 http://rihou.cc:555/tv/[Pd]无线新闻
-#EXTINF:-1 tvg-name="无线新闻Mttv" tvg-logo="https://logo.catvod.com/无线新闻Mttv.png" group-title="TX-港澳频道",无线新闻Mttv
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="TX-港澳频道",无线新闻
 http://rihou.cc:555/tv/[Mt]无线新闻
-#EXTINF:-1 tvg-name="无线新闻Bxtv" tvg-logo="https://logo.catvod.com/无线新闻Bxtv.png" group-title="TX-港澳频道",无线新闻Bxtv
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="TX-港澳频道",无线新闻
 http://rihou.cc:555/tv/[Bx]无线新闻
-#EXTINF:-1 tvg-name="无线生活Hktv" tvg-logo="https://logo.catvod.com/无线生活Hktv.png" group-title="TX-港澳频道",无线生活Hktv
+#EXTINF:-1 tvg-name="无线生活" tvg-logo="https://logo.catvod.com/无线生活.png" group-title="TX-港澳频道",无线生活
 http://rihou.cc:555/tv/[Hk]无线生活
-#EXTINF:-1 tvg-name="无线赛马Bxtv" tvg-logo="https://logo.catvod.com/无线赛马Bxtv.png" group-title="TX-港澳频道",无线赛马Bxtv
+#EXTINF:-1 tvg-name="无线赛马" tvg-logo="https://logo.catvod.com/无线赛马.png" group-title="TX-港澳频道",无线赛马
 http://rihou.cc:555/tv/[Bx]无线赛马
-#EXTINF:-1 tvg-name="无线千禧SXtv" tvg-logo="https://logo.catvod.com/无线千禧SXtv.png" group-title="TX-港澳频道",无线千禧SXtv
+#EXTINF:-1 tvg-name="无线千禧" tvg-logo="https://logo.catvod.com/无线千禧.png" group-title="TX-港澳频道",无线千禧
 http://rihou.cc:555/tv/[SX]无线千禧
-#EXTINF:-1 tvg-name="无线千禧PLtv" tvg-logo="https://logo.catvod.com/无线千禧PLtv.png" group-title="TX-港澳频道",无线千禧PLtv
+#EXTINF:-1 tvg-name="无线千禧" tvg-logo="https://logo.catvod.com/无线千禧.png" group-title="TX-港澳频道",无线千禧
 http://rihou.cc:555/tv/[PL]无线千禧
-#EXTINF:-1 tvg-name="无线千禧Bxtv" tvg-logo="https://logo.catvod.com/无线千禧Bxtv.png" group-title="TX-港澳频道",无线千禧Bxtv
+#EXTINF:-1 tvg-name="无线千禧" tvg-logo="https://logo.catvod.com/无线千禧.png" group-title="TX-港澳频道",无线千禧
 http://rihou.cc:555/tv/[Bx]无线千禧
-#EXTINF:-1 tvg-name="无线明珠粤Pl" tvg-logo="https://logo.catvod.com/无线明珠粤Pl.png" group-title="TX-港澳频道",无线明珠粤Pl
+#EXTINF:-1 tvg-name="无线明珠粤" tvg-logo="https://logo.catvod.com/无线明珠粤.png" group-title="TX-港澳频道",无线明珠粤
 http://rihou.cc:555/tv/[PL]无线明珠
-#EXTINF:-1 tvg-name="无线明珠标Pl" tvg-logo="https://logo.catvod.com/无线明珠标Pl.png" group-title="TX-港澳频道",无线明珠标Pl
+#EXTINF:-1 tvg-name="无线明珠标" tvg-logo="https://logo.catvod.com/无线明珠标.png" group-title="TX-港澳频道",无线明珠标
 http://rihou.cc:555/tv/[PL]无线明标
-#EXTINF:-1 tvg-name="无线明珠SXtv" tvg-logo="https://logo.catvod.com/无线明珠SXtv.png" group-title="TX-港澳频道",无线明珠SXtv
+#EXTINF:-1 tvg-name="无线明珠" tvg-logo="https://logo.catvod.com/无线明珠.png" group-title="TX-港澳频道",无线明珠
 http://rihou.cc:555/tv/[SX]无线明珠
-#EXTINF:-1 tvg-name="无线明珠Pdtv" tvg-logo="https://logo.catvod.com/无线明珠Pdtv.png" group-title="TX-港澳频道",无线明珠Pdtv
+#EXTINF:-1 tvg-name="无线明珠" tvg-logo="https://logo.catvod.com/无线明珠.png" group-title="TX-港澳频道",无线明珠
 http://rihou.cc:555/tv/[Pd]无线明珠
-#EXTINF:-1 tvg-name="无线明珠Mttv" tvg-logo="https://logo.catvod.com/无线明珠Mttv.png" group-title="TX-港澳频道",无线明珠Mttv
+#EXTINF:-1 tvg-name="无线明珠" tvg-logo="https://logo.catvod.com/无线明珠.png" group-title="TX-港澳频道",无线明珠
 http://rihou.cc:555/tv/[Mt]无线明珠
-#EXTINF:-1 tvg-name="无线明珠Bxtv" tvg-logo="https://logo.catvod.com/无线明珠Bxtv.png" group-title="TX-港澳频道",无线明珠Bxtv
+#EXTINF:-1 tvg-name="无线明珠" tvg-logo="https://logo.catvod.com/无线明珠.png" group-title="TX-港澳频道",无线明珠
 http://rihou.cc:555/tv/[Bx]无线明珠
-#EXTINF:-1 tvg-name="无线明剧Hktv" tvg-logo="https://logo.catvod.com/无线明剧Hktv.png" group-title="TX-港澳频道",无线明剧Hktv
+#EXTINF:-1 tvg-name="无线明剧" tvg-logo="https://logo.catvod.com/无线明剧.png" group-title="TX-港澳频道",无线明剧
 http://rihou.cc:555/tv/[Hk]无线明剧
-#EXTINF:-1 tvg-name="无线金曲Hktv" tvg-logo="https://logo.catvod.com/无线金曲Hktv.png" group-title="TX-港澳频道",无线金曲Hktv
+#EXTINF:-1 tvg-name="无线金曲" tvg-logo="https://logo.catvod.com/无线金曲.png" group-title="TX-港澳频道",无线金曲
 http://rihou.cc:555/tv/[Hk]无线金曲
-#EXTINF:-1 tvg-name="无线奖门Hktv" tvg-logo="https://logo.catvod.com/无线奖门Hktv.png" group-title="TX-港澳频道",无线奖门Hktv
+#EXTINF:-1 tvg-name="无线奖门" tvg-logo="https://logo.catvod.com/无线奖门.png" group-title="TX-港澳频道",无线奖门
 http://rihou.cc:555/tv/[Hk]无线奖门
-#EXTINF:-1 tvg-name="无线华丽国Sx" tvg-logo="https://logo.catvod.com/无线华丽国Sx.png" group-title="TX-港澳频道",无线华丽国Sx
+#EXTINF:-1 tvg-name="无线华丽国" tvg-logo="https://logo.catvod.com/无线华丽国.png" group-title="TX-港澳频道",无线华丽国
 http://rihou.cc:555/tv/[SX]无线丽华
-#EXTINF:-1 tvg-name="无线华丽国Sx" tvg-logo="https://logo.catvod.com/无线华丽国Sx.png" group-title="TX-港澳频道",无线华丽国Sx
+#EXTINF:-1 tvg-name="无线华丽国" tvg-logo="https://logo.catvod.com/无线华丽国.png" group-title="TX-港澳频道",无线华丽国
 http://rihou.cc:555/tv/[SX]无线华丽
-#EXTINF:-1 tvg-name="无线华丽国Pl" tvg-logo="https://logo.catvod.com/无线华丽国Pl.png" group-title="TX-港澳频道",无线华丽国Pl
+#EXTINF:-1 tvg-name="无线华丽国" tvg-logo="https://logo.catvod.com/无线华丽国.png" group-title="TX-港澳频道",无线华丽国
 http://rihou.cc:555/tv/[PL]无线华丽
-#EXTINF:-1 tvg-name="无线华丽Pdtv" tvg-logo="https://logo.catvod.com/无线华丽Pdtv.png" group-title="TX-港澳频道",无线华丽Pdtv
+#EXTINF:-1 tvg-name="无线华丽" tvg-logo="https://logo.catvod.com/无线华丽.png" group-title="TX-港澳频道",无线华丽
 http://rihou.cc:555/tv/[Pd]无线华丽
-#EXTINF:-1 tvg-name="无线功夫国hk" tvg-logo="https://logo.catvod.com/无线功夫国hk.png" group-title="TX-港澳频道",无线功夫国hk
+#EXTINF:-1 tvg-name="无线功夫国" tvg-logo="https://logo.catvod.com/无线功夫国.png" group-title="TX-港澳频道",无线功夫国
 http://rihou.cc:555/tv/[Hk]无线功夫
-#EXTINF:-1 tvg-name="无线功夫PLtv" tvg-logo="https://logo.catvod.com/无线功夫PLtv.png" group-title="TX-港澳频道",无线功夫PLtv
+#EXTINF:-1 tvg-name="无线功夫" tvg-logo="https://logo.catvod.com/无线功夫.png" group-title="TX-港澳频道",无线功夫
 http://rihou.cc:555/tv/[PL]无线功夫
-#EXTINF:-1 tvg-name="无线功夫Pdtv" tvg-logo="https://logo.catvod.com/无线功夫Pdtv.png" group-title="TX-港澳频道",无线功夫Pdtv
+#EXTINF:-1 tvg-name="无线功夫" tvg-logo="https://logo.catvod.com/无线功夫.png" group-title="TX-港澳频道",无线功夫
 http://rihou.cc:555/tv/[Pd]无线功夫
-#EXTINF:-1 tvg-name="无线翡剧Hktv" tvg-logo="https://logo.catvod.com/无线翡剧Hktv.png" group-title="TX-港澳频道",无线翡剧Hktv
+#EXTINF:-1 tvg-name="无线翡剧" tvg-logo="https://logo.catvod.com/无线翡剧.png" group-title="TX-港澳频道",无线翡剧
 http://rihou.cc:555/tv/[Hk]无线翡剧
-#EXTINF:-1 tvg-name="无线翡翠高Pl" tvg-logo="https://logo.catvod.com/无线翡翠高Pl.png" group-title="TX-港澳频道",无线翡翠高Pl
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://logo.catvod.com/无线翡翠.png" group-title="TX-港澳频道",无线翡翠
 http://rihou.cc:555/tv/[PL]无线翡高
-#EXTINF:-1 tvg-name="无线翡翠高Pl" tvg-logo="https://logo.catvod.com/无线翡翠高Pl.png" group-title="TX-港澳频道",无线翡翠高Pl
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://logo.catvod.com/无线翡翠.png" group-title="TX-港澳频道",无线翡翠
 http://rihou.cc:555/tv/[PL]无线翡翠
-#EXTINF:-1 tvg-name="无线翡翠标Pl" tvg-logo="https://logo.catvod.com/无线翡翠标Pl.png" group-title="TX-港澳频道",无线翡翠标Pl
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://logo.catvod.com/无线翡翠.png" group-title="TX-港澳频道",无线翡翠
 http://rihou.cc:555/tv/[PL]无线翡标
-#EXTINF:-1 tvg-name="无线翡翠SXtv" tvg-logo="https://logo.catvod.com/无线翡翠SXtv.png" group-title="TX-港澳频道",无线翡翠SXtv
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://logo.catvod.com/无线翡翠.png" group-title="TX-港澳频道",无线翡翠
 http://rihou.cc:555/tv/[SX]无线翡翠
-#EXTINF:-1 tvg-name="无线翡翠Pdtv" tvg-logo="https://logo.catvod.com/无线翡翠Pdtv.png" group-title="TX-港澳频道",无线翡翠Pdtv
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://logo.catvod.com/无线翡翠.png" group-title="TX-港澳频道",无线翡翠
 http://rihou.cc:555/tv/[Pd]无线翡翠
-#EXTINF:-1 tvg-name="无线翡翠Mttv" tvg-logo="https://logo.catvod.com/无线翡翠Mttv.png" group-title="TX-港澳频道",无线翡翠Mttv
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://logo.catvod.com/无线翡翠.png" group-title="TX-港澳频道",无线翡翠
 http://rihou.cc:555/tv/[Mt]无线翡翠
-#EXTINF:-1 tvg-name="无线翡翠Bxtv" tvg-logo="https://logo.catvod.com/无线翡翠Bxtv.png" group-title="TX-港澳频道",无线翡翠Bxtv
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://logo.catvod.com/无线翡翠.png" group-title="TX-港澳频道",无线翡翠
 http://rihou.cc:555/tv/[Bx]无线翡翠
-#EXTINF:-1 tvg-name="无线翡翠4Ktv" tvg-logo="https://logo.catvod.com/无线翡翠4Ktv.png" group-title="TX-港澳频道",无线翡翠4Ktv
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://logo.catvod.com/无线翡翠.png" group-title="TX-港澳频道",无线翡翠
 http://rihou.cc:555/tv/[Pd]无线翡4K
-#EXTINF:-1 tvg-name="无线翡翠4kPl" tvg-logo="https://logo.catvod.com/无线翡翠4kPl.png" group-title="TX-港澳频道",无线翡翠4kPl
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://logo.catvod.com/无线翡翠.png" group-title="TX-港澳频道",无线翡翠
 http://rihou.cc:555/tv/[PL]无线翡4k
-#EXTINF:-1 tvg-name="无线北美PLtv" tvg-logo="https://logo.catvod.com/无线北美PLtv.png" group-title="TX-港澳频道",无线北美PLtv
+#EXTINF:-1 tvg-name="无线北美" tvg-logo="https://logo.catvod.com/无线北美.png" group-title="TX-港澳频道",无线北美
 http://rihou.cc:555/tv/[PL]无线北美
-#EXTINF:-1 tvg-name="无线北美PLtv" tvg-logo="https://logo.catvod.com/无线北美PLtv.png" group-title="TX-港澳频道",无线北美PLtv
+#EXTINF:-1 tvg-name="无线北美" tvg-logo="https://logo.catvod.com/无线北美.png" group-title="TX-港澳频道",无线北美
 http://rihou.cc:555/tv/[PL]无线北贰
-#EXTINF:-1 tvg-name="天映频道国Sx" tvg-logo="https://logo.catvod.com/天映频道国Sx.png" group-title="TX-港澳频道",天映频道国Sx
+#EXTINF:-1 tvg-name="天映频道国" tvg-logo="https://logo.catvod.com/天映频道国.png" group-title="TX-港澳频道",天映频道国
 http://rihou.cc:555/tv/[SX]天映频道
-#EXTINF:-1 tvg-name="天映经典粤Sx" tvg-logo="https://logo.catvod.com/天映经典粤Sx.png" group-title="TX-港澳频道",天映经典粤Sx
+#EXTINF:-1 tvg-name="天映经典粤" tvg-logo="https://logo.catvod.com/天映经典粤.png" group-title="TX-港澳频道",天映经典粤
 http://rihou.cc:555/tv/[SX]天映经典
-#EXTINF:-1 tvg-name="美亚电影粤bx" tvg-logo="https://logo.catvod.com/美亚电影粤bx.png" group-title="TX-港澳频道",美亚电影粤bx
+#EXTINF:-1 tvg-name="美亚电影粤" tvg-logo="https://logo.catvod.com/美亚电影粤.png" group-title="TX-港澳频道",美亚电影粤
 http://rihou.cc:555/tv/[Bx]美亚电影
-#EXTINF:-1 tvg-name="美亚电影国Sx" tvg-logo="https://logo.catvod.com/美亚电影国Sx.png" group-title="TX-港澳频道",美亚电影国Sx
+#EXTINF:-1 tvg-name="美亚电影国" tvg-logo="https://logo.catvod.com/美亚电影国.png" group-title="TX-港澳频道",美亚电影国
 http://rihou.cc:555/tv/[SX]美亚电影
-#EXTINF:-1 tvg-name="美亚电影PLtv" tvg-logo="https://logo.catvod.com/美亚电影PLtv.png" group-title="TX-港澳频道",美亚电影PLtv
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影.png" group-title="TX-港澳频道",美亚电影
 http://rihou.cc:555/tv/[PL]美亚电影
-#EXTINF:-1 tvg-name="美亚电影Hktv" tvg-logo="https://logo.catvod.com/美亚电影Hktv.png" group-title="TX-港澳频道",美亚电影Hktv
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影.png" group-title="TX-港澳频道",美亚电影
 http://rihou.cc:555/tv/[Hk]美亚电影
-#EXTINF:-1 tvg-name="龙华洋片Pdtv" tvg-logo="https://logo.catvod.com/龙华洋片Pdtv.png" group-title="TX-港澳频道",龙华洋片Pdtv
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://logo.catvod.com/龙华洋片.png" group-title="TX-港澳频道",龙华洋片
 http://rihou.cc:555/tv/[Pd]龙华洋片
-#EXTINF:-1 tvg-name="龙华戏剧Pdtv" tvg-logo="https://logo.catvod.com/龙华戏剧Pdtv.png" group-title="TX-港澳频道",龙华戏剧Pdtv
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://logo.catvod.com/龙华戏剧.png" group-title="TX-港澳频道",龙华戏剧
 http://rihou.cc:555/tv/[Pd]龙华戏剧
-#EXTINF:-1 tvg-name="龙华日韩Pdtv" tvg-logo="https://logo.catvod.com/龙华日韩Pdtv.png" group-title="TX-港澳频道",龙华日韩Pdtv
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://logo.catvod.com/龙华日韩.png" group-title="TX-港澳频道",龙华日韩
 http://rihou.cc:555/tv/[Pd]龙华日韩
-#EXTINF:-1 tvg-name="龙华偶像Pdtv" tvg-logo="https://logo.catvod.com/龙华偶像Pdtv.png" group-title="TX-港澳频道",龙华偶像Pdtv
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://logo.catvod.com/龙华偶像.png" group-title="TX-港澳频道",龙华偶像
 http://rihou.cc:555/tv/[Pd]龙华偶像
-#EXTINF:-1 tvg-name="龙华卡通Pdtv" tvg-logo="https://logo.catvod.com/龙华卡通Pdtv.png" group-title="TX-港澳频道",龙华卡通Pdtv
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="TX-港澳频道",龙华卡通
 http://rihou.cc:555/tv/[Pd]龙华卡通
-#EXTINF:-1 tvg-name="龙华经典Pdtv" tvg-logo="https://logo.catvod.com/龙华经典Pdtv.png" group-title="TX-港澳频道",龙华经典Pdtv
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://logo.catvod.com/龙华经典.png" group-title="TX-港澳频道",龙华经典
 http://rihou.cc:555/tv/[Pd]龙华经典
-#EXTINF:-1 tvg-name="龙华电影Pdtv" tvg-logo="https://logo.catvod.com/龙华电影Pdtv.png" group-title="TX-港澳频道",龙华电影Pdtv
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://logo.catvod.com/龙华电影.png" group-title="TX-港澳频道",龙华电影
 http://rihou.cc:555/tv/[Pd]龙华电影
-#EXTINF:-1 tvg-name="黄金华剧Hktv" tvg-logo="https://logo.catvod.com/黄金华剧Hktv.png" group-title="TX-港澳频道",黄金华剧Hktv
+#EXTINF:-1 tvg-name="黄金华剧" tvg-logo="https://logo.catvod.com/黄金华剧.png" group-title="TX-港澳频道",黄金华剧
 http://rihou.cc:555/tv/[Hk]黄金华剧
-#EXTINF:-1 tvg-name="黄金翡翠Hktv" tvg-logo="https://logo.catvod.com/黄金翡翠Hktv.png" group-title="TX-港澳频道",黄金翡翠Hktv
+#EXTINF:-1 tvg-name="黄金翡翠" tvg-logo="https://logo.catvod.com/黄金翡翠.png" group-title="TX-港澳频道",黄金翡翠
 http://rihou.cc:555/tv/[Hk]黄金翡翠
-#EXTINF:-1 tvg-name="寰宇新闻Hktv" tvg-logo="https://logo.catvod.com/寰宇新闻Hktv.png" group-title="TX-港澳频道",寰宇新闻Hktv
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="TX-港澳频道",寰宇新闻
 http://rihou.cc:555/tv/[Hk]寰宇新闻
-#EXTINF:-1 tvg-name="凤凰资讯SXtv" tvg-logo="https://logo.catvod.com/凤凰资讯SXtv.png" group-title="TX-港澳频道",凤凰资讯SXtv
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="TX-港澳频道",凤凰资讯
 http://rihou.cc:555/tv/[SX]凤凰资讯
-#EXTINF:-1 tvg-name="凤凰资讯PLtv" tvg-logo="https://logo.catvod.com/凤凰资讯PLtv.png" group-title="TX-港澳频道",凤凰资讯PLtv
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="TX-港澳频道",凤凰资讯
 http://rihou.cc:555/tv/[PL]凤凰资讯
-#EXTINF:-1 tvg-name="凤凰资讯Pdtv" tvg-logo="https://logo.catvod.com/凤凰资讯Pdtv.png" group-title="TX-港澳频道",凤凰资讯Pdtv
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="TX-港澳频道",凤凰资讯
 http://rihou.cc:555/tv/[Pd]凤凰资讯
-#EXTINF:-1 tvg-name="凤凰资讯Bxtv" tvg-logo="https://logo.catvod.com/凤凰资讯Bxtv.png" group-title="TX-港澳频道",凤凰资讯Bxtv
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="TX-港澳频道",凤凰资讯
 http://rihou.cc:555/tv/[Bx]凤凰资讯
-#EXTINF:-1 tvg-name="凤凰中文SXtv" tvg-logo="https://logo.catvod.com/凤凰中文SXtv.png" group-title="TX-港澳频道",凤凰中文SXtv
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="TX-港澳频道",凤凰中文
 http://rihou.cc:555/tv/[SX]凤凰中文
-#EXTINF:-1 tvg-name="凤凰中文PLtv" tvg-logo="https://logo.catvod.com/凤凰中文PLtv.png" group-title="TX-港澳频道",凤凰中文PLtv
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="TX-港澳频道",凤凰中文
 http://rihou.cc:555/tv/[PL]凤凰中文
-#EXTINF:-1 tvg-name="凤凰中文Pdtv" tvg-logo="https://logo.catvod.com/凤凰中文Pdtv.png" group-title="TX-港澳频道",凤凰中文Pdtv
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="TX-港澳频道",凤凰中文
 http://rihou.cc:555/tv/[Pd]凤凰中文
-#EXTINF:-1 tvg-name="凤凰中文Bxtv" tvg-logo="https://logo.catvod.com/凤凰中文Bxtv.png" group-title="TX-港澳频道",凤凰中文Bxtv
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="TX-港澳频道",凤凰中文
 http://rihou.cc:555/tv/[Bx]凤凰中文
-#EXTINF:-1 tvg-name="凤凰香港SXtv" tvg-logo="https://logo.catvod.com/凤凰香港SXtv.png" group-title="TX-港澳频道",凤凰香港SXtv
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="TX-港澳频道",凤凰香港
 http://rihou.cc:555/tv/[SX]凤凰香港
-#EXTINF:-1 tvg-name="凤凰香港PLtv" tvg-logo="https://logo.catvod.com/凤凰香港PLtv.png" group-title="TX-港澳频道",凤凰香港PLtv
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="TX-港澳频道",凤凰香港
 http://rihou.cc:555/tv/[PL]凤凰香港
-#EXTINF:-1 tvg-name="凤凰香港Pdtv" tvg-logo="https://logo.catvod.com/凤凰香港Pdtv.png" group-title="TX-港澳频道",凤凰香港Pdtv
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="TX-港澳频道",凤凰香港
 http://rihou.cc:555/tv/[Pd]凤凰香港
-#EXTINF:-1 tvg-name="凤凰香港Bxtv" tvg-logo="https://logo.catvod.com/凤凰香港Bxtv.png" group-title="TX-港澳频道",凤凰香港Bxtv
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="TX-港澳频道",凤凰香港
 http://rihou.cc:555/tv/[Bx]凤凰香港
 #EXTINF:-1 tvg-name="东森电影粤hk" tvg-logo="https://logo.catvod.com/东森电影粤hk.png" group-title="TX-港澳频道",东森电影粤hk
 http://rihou.cc:555/tv/[Hk]东森电影
-#EXTINF:-1 tvg-name="八度空间SXtv" tvg-logo="https://logo.catvod.com/八度空间SXtv.png" group-title="TX-港澳频道",八度空间SXtv
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://logo.catvod.com/八度空间.png" group-title="TX-港澳频道",八度空间
 http://rihou.cc:555/tv/[SX]八度空间
-#EXTINF:-1 tvg-name="八度空间Pdtv" tvg-logo="https://logo.catvod.com/八度空间Pdtv.png" group-title="TX-港澳频道",八度空间Pdtv
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://logo.catvod.com/八度空间.png" group-title="TX-港澳频道",八度空间
 http://rihou.cc:555/tv/[Pd]八度空间
-#EXTINF:-1 tvg-name="澳视卫星Pdtv" tvg-logo="https://logo.catvod.com/澳视卫星Pdtv.png" group-title="TX-港澳频道",澳视卫星Pdtv
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://logo.catvod.com/澳视卫星.png" group-title="TX-港澳频道",澳视卫星
 http://rihou.cc:555/tv/[Pd]澳视卫星
-#EXTINF:-1 tvg-name="澳视澳门PLtv" tvg-logo="https://logo.catvod.com/澳视澳门PLtv.png" group-title="TX-港澳频道",澳视澳门PLtv
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="TX-港澳频道",澳视澳门
 http://rihou.cc:555/tv/[PL]澳视澳门
-#EXTINF:-1 tvg-name="澳视澳门Pdtv" tvg-logo="https://logo.catvod.com/澳视澳门Pdtv.png" group-title="TX-港澳频道",澳视澳门Pdtv
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="TX-港澳频道",澳视澳门
 http://rihou.cc:555/tv/[Pd]澳视澳门
-#EXTINF:-1 tvg-name="澳门综艺Pdtv" tvg-logo="https://logo.catvod.com/澳门综艺Pdtv.png" group-title="TX-港澳频道",澳门综艺Pdtv
+#EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://logo.catvod.com/澳门综艺.png" group-title="TX-港澳频道",澳门综艺
 http://rihou.cc:555/tv/[Pd]澳门综艺
-#EXTINF:-1 tvg-name="澳门体育Pdtv" tvg-logo="https://logo.catvod.com/澳门体育Pdtv.png" group-title="TX-港澳频道",澳门体育Pdtv
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://logo.catvod.com/澳门体育.png" group-title="TX-港澳频道",澳门体育
 http://rihou.cc:555/tv/[Pd]澳门体育
-#EXTINF:-1 tvg-name="澳门莲花Pdtv" tvg-logo="https://logo.catvod.com/澳门莲花Pdtv.png" group-title="TX-港澳频道",澳门莲花Pdtv
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://logo.catvod.com/澳门莲花.png" group-title="TX-港澳频道",澳门莲花
 http://rihou.cc:555/tv/[Pd]澳门莲花
-#EXTINF:-1 tvg-name="澳门MaCPLtv" tvg-logo="https://logo.catvod.com/澳门MaCPLtv.png" group-title="TX-港澳频道",澳门MaCPLtv
+#EXTINF:-1 tvg-name="澳门MaC" tvg-logo="https://logo.catvod.com/澳门MaC.png" group-title="TX-港澳频道",澳门MaC
 http://rihou.cc:555/tv/[PL]澳门MaC
-#EXTINF:-1 tvg-name="VIUTV'粤SXtv" tvg-logo="https://logo.catvod.com/VIUTV'粤SXtv.png" group-title="TX-港澳频道",VIUTV'粤SXtv
+#EXTINF:-1 tvg-name="VIUTV'粤" tvg-logo="https://logo.catvod.com/VIUTV'粤.png" group-title="TX-港澳频道",VIUTV'粤
 http://rihou.cc:555/tv/[SX]VIUTV粤
-#EXTINF:-1 tvg-name="VIUTV'粤PLtv" tvg-logo="https://logo.catvod.com/VIUTV'粤PLtv.png" group-title="TX-港澳频道",VIUTV'粤PLtv
+#EXTINF:-1 tvg-name="VIUTV'粤" tvg-logo="https://logo.catvod.com/VIUTV'粤.png" group-title="TX-港澳频道",VIUTV'粤
 http://rihou.cc:555/tv/[PL]VIUTV粤
-#EXTINF:-1 tvg-name="VIUTV'粤Mttv" tvg-logo="https://logo.catvod.com/VIUTV'粤Mttv.png" group-title="TX-港澳频道",VIUTV'粤Mttv
+#EXTINF:-1 tvg-name="VIUTV'粤" tvg-logo="https://logo.catvod.com/VIUTV'粤.png" group-title="TX-港澳频道",VIUTV'粤
 http://rihou.cc:555/tv/[Mt]VIUTV粤
-#EXTINF:-1 tvg-name="VIUTV'英SXtv" tvg-logo="https://logo.catvod.com/VIUTV'英SXtv.png" group-title="TX-港澳频道",VIUTV'英SXtv
+#EXTINF:-1 tvg-name="VIUTV'英" tvg-logo="https://logo.catvod.com/VIUTV'英.png" group-title="TX-港澳频道",VIUTV'英
 http://rihou.cc:555/tv/[SX]VIUTV英
-#EXTINF:-1 tvg-name="VIUTV'英Mttv" tvg-logo="https://logo.catvod.com/VIUTV'英Mttv.png" group-title="TX-港澳频道",VIUTV'英Mttv
+#EXTINF:-1 tvg-name="VIUTV'英" tvg-logo="https://logo.catvod.com/VIUTV'英.png" group-title="TX-港澳频道",VIUTV'英
 http://rihou.cc:555/tv/[Mt]VIUTV英
-#EXTINF:-1 tvg-name="VIUTV'壹Mttv" tvg-logo="https://logo.catvod.com/VIUTV'壹Mttv.png" group-title="TX-港澳频道",VIUTV'壹Mttv
+#EXTINF:-1 tvg-name="VIUTV'壹" tvg-logo="https://logo.catvod.com/VIUTV'壹.png" group-title="TX-港澳频道",VIUTV'壹
 http://rihou.cc:555/tv/[Mt]VIUTV壹
-#EXTINF:-1 tvg-name="VIUTV'贰Mttv" tvg-logo="https://logo.catvod.com/VIUTV'贰Mttv.png" group-title="TX-港澳频道",VIUTV'贰Mttv
+#EXTINF:-1 tvg-name="VIUTV'贰" tvg-logo="https://logo.catvod.com/VIUTV'贰.png" group-title="TX-港澳频道",VIUTV'贰
 http://rihou.cc:555/tv/[Mt]VIUTV贰
-#EXTINF:-1 tvg-name="tvbS新闻SXtv" tvg-logo="https://logo.catvod.com/tvbS新闻SXtv.png" group-title="TX-港澳频道",tvbS新闻SXtv
+#EXTINF:-1 tvg-name="tvbS新闻" tvg-logo="https://logo.catvod.com/tvbS新闻.png" group-title="TX-港澳频道",tvbS新闻
 http://rihou.cc:555/tv/[SX]tvbS新闻
-#EXTINF:-1 tvg-name="tvbS闽南Hktv" tvg-logo="https://logo.catvod.com/tvbS闽南Hktv.png" group-title="TX-港澳频道",tvbS闽南Hktv
+#EXTINF:-1 tvg-name="tvbS闽南" tvg-logo="https://logo.catvod.com/tvbS闽南.png" group-title="TX-港澳频道",tvbS闽南
 http://rihou.cc:555/tv/[Hk]tvbS南闽
-#EXTINF:-1 tvg-name="tvbS闽南Hktv" tvg-logo="https://logo.catvod.com/tvbS闽南Hktv.png" group-title="TX-港澳频道",tvbS闽南Hktv
+#EXTINF:-1 tvg-name="tvbS闽南" tvg-logo="https://logo.catvod.com/tvbS闽南.png" group-title="TX-港澳频道",tvbS闽南
 http://rihou.cc:555/tv/[Hk]tvbS闽南
-#EXTINF:-1 tvg-name="RTHK-32SXtv" tvg-logo="https://logo.catvod.com/RTHK-32SXtv.png" group-title="TX-港澳频道",RTHK-32SXtv
+#EXTINF:-1 tvg-name="RTHK-32" tvg-logo="https://logo.catvod.com/RTHK-32.png" group-title="TX-港澳频道",RTHK-32
 http://rihou.cc:555/tv/[SX]RTHK-32
-#EXTINF:-1 tvg-name="RTHK-32PLtv" tvg-logo="https://logo.catvod.com/RTHK-32PLtv.png" group-title="TX-港澳频道",RTHK-32PLtv
+#EXTINF:-1 tvg-name="RTHK-32" tvg-logo="https://logo.catvod.com/RTHK-32.png" group-title="TX-港澳频道",RTHK-32
 http://rihou.cc:555/tv/[PL]RTHK-32
-#EXTINF:-1 tvg-name="RTHK-31SXtv" tvg-logo="https://logo.catvod.com/RTHK-31SXtv.png" group-title="TX-港澳频道",RTHK-31SXtv
+#EXTINF:-1 tvg-name="RTHK-31" tvg-logo="https://logo.catvod.com/RTHK-31.png" group-title="TX-港澳频道",RTHK-31
 http://rihou.cc:555/tv/[SX]RTHK-31
-#EXTINF:-1 tvg-name="RTHK-31PLtv" tvg-logo="https://logo.catvod.com/RTHK-31PLtv.png" group-title="TX-港澳频道",RTHK-31PLtv
+#EXTINF:-1 tvg-name="RTHK-31" tvg-logo="https://logo.catvod.com/RTHK-31.png" group-title="TX-港澳频道",RTHK-31
 http://rihou.cc:555/tv/[PL]RTHK-31
-#EXTINF:-1 tvg-name="RTHK-31Mttv" tvg-logo="https://logo.catvod.com/RTHK-31Mttv.png" group-title="TX-港澳频道",RTHK-31Mttv
+#EXTINF:-1 tvg-name="RTHK-31" tvg-logo="https://logo.catvod.com/RTHK-31.png" group-title="TX-港澳频道",RTHK-31
 http://rihou.cc:555/tv/[Mt]RTHK-31
-#EXTINF:-1 tvg-name="pₒₚc电影Hktv" tvg-logo="https://logo.catvod.com/pₒₚc电影Hktv.png" group-title="TX-港澳频道",pₒₚc电影Hktv
+#EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://logo.catvod.com/pₒₚc电影.png" group-title="TX-港澳频道",pₒₚc电影
 http://rihou.cc:555/tv/[Hk]pₒₚc电影
-#EXTINF:-1 tvg-name="pₒₚc电影Bxtv" tvg-logo="https://logo.catvod.com/pₒₚc电影Bxtv.png" group-title="TX-港澳频道",pₒₚc电影Bxtv
+#EXTINF:-1 tvg-name="pₒₚc电影" tvg-logo="https://logo.catvod.com/pₒₚc电影.png" group-title="TX-港澳频道",pₒₚc电影
 http://rihou.cc:555/tv/[Bx]pₒₚc电影
-#EXTINF:-1 tvg-name="Plus综合SXtv" tvg-logo="https://logo.catvod.com/Plus综合SXtv.png" group-title="TX-港澳频道",Plus综合SXtv
+#EXTINF:-1 tvg-name="Plus综合" tvg-logo="https://logo.catvod.com/Plus综合.png" group-title="TX-港澳频道",Plus综合
 http://rihou.cc:555/tv/[SX]Plus综合
-#EXTINF:-1 tvg-name="Plus综合PLtv" tvg-logo="https://logo.catvod.com/Plus综合PLtv.png" group-title="TX-港澳频道",Plus综合PLtv
+#EXTINF:-1 tvg-name="Plus综合" tvg-logo="https://logo.catvod.com/Plus综合.png" group-title="TX-港澳频道",Plus综合
 http://rihou.cc:555/tv/[PL]Plus综合
-#EXTINF:-1 tvg-name="Plus综合PLtv" tvg-logo="https://logo.catvod.com/Plus综合PLtv.png" group-title="TX-港澳频道",Plus综合PLtv
+#EXTINF:-1 tvg-name="Plus综合" tvg-logo="https://logo.catvod.com/Plus综合.png" group-title="TX-港澳频道",Plus综合
 http://rihou.cc:555/tv/[PL]Plus综贰
-#EXTINF:-1 tvg-name="Plus综合Pdtv" tvg-logo="https://logo.catvod.com/Plus综合Pdtv.png" group-title="TX-港澳频道",Plus综合Pdtv
+#EXTINF:-1 tvg-name="Plus综合" tvg-logo="https://logo.catvod.com/Plus综合.png" group-title="TX-港澳频道",Plus综合
 http://rihou.cc:555/tv/[Pd]Plus综合
-#EXTINF:-1 tvg-name="Plus综合Mttv" tvg-logo="https://logo.catvod.com/Plus综合Mttv.png" group-title="TX-港澳频道",Plus综合Mttv
+#EXTINF:-1 tvg-name="Plus综合" tvg-logo="https://logo.catvod.com/Plus综合.png" group-title="TX-港澳频道",Plus综合
 http://rihou.cc:555/tv/[Mt]Plus综合
-#EXTINF:-1 tvg-name="Plus综合Bxtv" tvg-logo="https://logo.catvod.com/Plus综合Bxtv.png" group-title="TX-港澳频道",Plus综合Bxtv
+#EXTINF:-1 tvg-name="Plus综合" tvg-logo="https://logo.catvod.com/Plus综合.png" group-title="TX-港澳频道",Plus综合
 http://rihou.cc:555/tv/[Bx]Plus综合
-#EXTINF:-1 tvg-name="Now紫金Hktv" tvg-logo="https://logo.catvod.com/Now紫金Hktv.png" group-title="TX-港澳频道",Now紫金Hktv
+#EXTINF:-1 tvg-name="Now紫金" tvg-logo="https://logo.catvod.com/Now紫金.png" group-title="TX-港澳频道",Now紫金
 http://rihou.cc:555/tv/[Hk]Now紫金
-#EXTINF:-1 tvg-name="Now直播Mttv" tvg-logo="https://logo.catvod.com/Now直播Mttv.png" group-title="TX-港澳频道",Now直播Mttv
+#EXTINF:-1 tvg-name="Now直播" tvg-logo="https://logo.catvod.com/Now直播.png" group-title="TX-港澳频道",Now直播
 http://rihou.cc:555/tv/[Mt]Now直播
 #EXTINF:-1 tvg-name="Now星影粤bx" tvg-logo="https://logo.catvod.com/Now星影粤bx.png" group-title="TX-港澳频道",Now星影粤bx
 http://rihou.cc:555/tv/[Bx]Now星影
 #EXTINF:-1 tvg-name="Now星影国hk" tvg-logo="https://logo.catvod.com/Now星影国hk.png" group-title="TX-港澳频道",Now星影国hk
 http://rihou.cc:555/tv/[Hk]Now星影
-#EXTINF:-1 tvg-name="Now新闻Mttv" tvg-logo="https://logo.catvod.com/Now新闻Mttv.png" group-title="TX-港澳频道",Now新闻Mttv
+#EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://logo.catvod.com/Now新闻.png" group-title="TX-港澳频道",Now新闻
 http://rihou.cc:555/tv/[Mt]Now新闻
-#EXTINF:-1 tvg-name="Now体育Mttv" tvg-logo="https://logo.catvod.com/Now体育Mttv.png" group-title="TX-港澳频道",Now体育Mttv
+#EXTINF:-1 tvg-name="Now体育" tvg-logo="https://logo.catvod.com/Now体育.png" group-title="TX-港澳频道",Now体育
 http://rihou.cc:555/tv/[Mt]Now体育
-#EXTINF:-1 tvg-name="Now剧集Hktv" tvg-logo="https://logo.catvod.com/Now剧集Hktv.png" group-title="TX-港澳频道",Now剧集Hktv
+#EXTINF:-1 tvg-name="Now剧集" tvg-logo="https://logo.catvod.com/Now剧集.png" group-title="TX-港澳频道",Now剧集
 http://rihou.cc:555/tv/[Hk]Now剧集
-#EXTINF:-1 tvg-name="Now华剧Hktv" tvg-logo="https://logo.catvod.com/Now华剧Hktv.png" group-title="TX-港澳频道",Now华剧Hktv
+#EXTINF:-1 tvg-name="Now华剧" tvg-logo="https://logo.catvod.com/Now华剧.png" group-title="TX-港澳频道",Now华剧
 http://rihou.cc:555/tv/[Hk]Now华剧
-#EXTINF:-1 tvg-name="Now财经Mttv" tvg-logo="https://logo.catvod.com/Now财经Mttv.png" group-title="TX-港澳频道",Now财经Mttv
+#EXTINF:-1 tvg-name="Now财经" tvg-logo="https://logo.catvod.com/Now财经.png" group-title="TX-港澳频道",Now财经
 http://rihou.cc:555/tv/[Mt]Now财经
 #EXTINF:-1 tvg-name="Now爆谷粤bx" tvg-logo="https://logo.catvod.com/Now爆谷粤bx.png" group-title="TX-港澳频道",Now爆谷粤bx
 http://rihou.cc:555/tv/[Bx]Now爆谷
 #EXTINF:-1 tvg-name="Now爆谷国hk" tvg-logo="https://logo.catvod.com/Now爆谷国hk.png" group-title="TX-港澳频道",Now爆谷国hk
 http://rihou.cc:555/tv/[Hk]Now爆谷
-#EXTINF:-1 tvg-name="HUB娱家Hktv" tvg-logo="https://logo.catvod.com/HUB娱家Hktv.png" group-title="TX-港澳频道",HUB娱家Hktv
+#EXTINF:-1 tvg-name="HUB娱家" tvg-logo="https://logo.catvod.com/HUB娱家.png" group-title="TX-港澳频道",HUB娱家
 http://rihou.cc:555/tv/[Hk]HUB娱家
-#EXTINF:-1 tvg-name="HUB都会Hktv" tvg-logo="https://logo.catvod.com/HUB都会Hktv.png" group-title="TX-港澳频道",HUB都会Hktv
+#EXTINF:-1 tvg-name="HUB都会" tvg-logo="https://logo.catvod.com/HUB都会.png" group-title="TX-港澳频道",HUB都会
 http://rihou.cc:555/tv/[Hk]HUB都会
-#EXTINF:-1 tvg-name="CHU综合Pdtv" tvg-logo="https://logo.catvod.com/CHU综合Pdtv.png" group-title="TX-港澳频道",CHU综合Pdtv
+#EXTINF:-1 tvg-name="CHU综合" tvg-logo="https://logo.catvod.com/CHU综合.png" group-title="TX-港澳频道",CHU综合
 http://rihou.cc:555/tv/[Pd]CHU综合
-#EXTINF:-1 tvg-name="CH8综合Pdtv" tvg-logo="https://logo.catvod.com/CH8综合Pdtv.png" group-title="TX-港澳频道",CH8综合Pdtv
+#EXTINF:-1 tvg-name="CH8综合" tvg-logo="https://logo.catvod.com/CH8综合.png" group-title="TX-港澳频道",CH8综合
 http://rihou.cc:555/tv/[Pd]CH8综合
-#EXTINF:-1 tvg-name="CH5综合Pdtv" tvg-logo="https://logo.catvod.com/CH5综合Pdtv.png" group-title="TX-港澳频道",CH5综合Pdtv
+#EXTINF:-1 tvg-name="CH5综合" tvg-logo="https://logo.catvod.com/CH5综合.png" group-title="TX-港澳频道",CH5综合
 http://rihou.cc:555/tv/[Pd]CH5综合
-#EXTINF:-1 tvg-name="Astro欢喜sxtv" tvg-logo="https://logo.catvod.com/Astro欢喜sxtv.png" group-title="TX-港澳频道",Astro欢喜sxtv
+#EXTINF:-1 tvg-name="Astro欢喜" tvg-logo="https://logo.catvod.com/Astro欢喜.png" group-title="TX-港澳频道",Astro欢喜
 http://rihou.cc:555/tv/[SX]Astro欢喜
-#EXTINF:-1 tvg-name="Astro爱奇sxtv" tvg-logo="https://logo.catvod.com/Astro爱奇sxtv.png" group-title="TX-港澳频道",Astro爱奇sxtv
+#EXTINF:-1 tvg-name="Astro爱奇" tvg-logo="https://logo.catvod.com/Astro爱奇.png" group-title="TX-港澳频道",Astro爱奇
 http://rihou.cc:555/tv/[SX]Astro爱奇
-#EXTINF:-1 tvg-name="AstroQJSXtv" tvg-logo="https://logo.catvod.com/AstroQJSXtv.png" group-title="TX-港澳频道",AstroQJSXtv
+#EXTINF:-1 tvg-name="AstroQJ" tvg-logo="https://logo.catvod.com/AstroQJ.png" group-title="TX-港澳频道",AstroQJ
 http://rihou.cc:555/tv/[SX]AstroQJ
-#EXTINF:-1 tvg-name="AstroaodSXtv" tvg-logo="https://logo.catvod.com/AstroaodSXtv.png" group-title="TX-港澳频道",AstroaodSXtv
+#EXTINF:-1 tvg-name="Astroaod" tvg-logo="https://logo.catvod.com/Astroaod.png" group-title="TX-港澳频道",Astroaod
 http://rihou.cc:555/tv/[SX]Astroaod
-#EXTINF:-1 tvg-name="AstroaodPLtv" tvg-logo="https://logo.catvod.com/AstroaodPLtv.png" group-title="TX-港澳频道",AstroaodPLtv
+#EXTINF:-1 tvg-name="Astroaod" tvg-logo="https://logo.catvod.com/Astroaod.png" group-title="TX-港澳频道",Astroaod
 http://rihou.cc:555/tv/[PL]Astroaod
-#EXTINF:-1 tvg-name="AstroAecSXtv" tvg-logo="https://logo.catvod.com/AstroAecSXtv.png" group-title="TX-港澳频道",AstroAecSXtv
+#EXTINF:-1 tvg-name="AstroAec" tvg-logo="https://logo.catvod.com/AstroAec.png" group-title="TX-港澳频道",AstroAec
 http://rihou.cc:555/tv/[SX]AstroAec
-#EXTINF:-1 tvg-name="Amc电影4Gtv" tvg-logo="https://logo.catvod.com/Amc电影4Gtv.png" group-title="4GTV-台湾频道",Amc电影4Gtv
+#EXTINF:-1 tvg-name="Amc电影" tvg-logo="https://logo.catvod.com/Amc电影.png" group-title="4GTV-台湾频道",Amc电影
 http://220.135.64.124:5050/4gtv-4gtv017/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Amc电影4Gtv" tvg-logo="https://logo.catvod.com/Amc电影4Gtv.png" group-title="4GTV-台湾频道",Amc电影4Gtv
+#EXTINF:-1 tvg-name="Amc电影" tvg-logo="https://logo.catvod.com/Amc电影.png" group-title="4GTV-台湾频道",Amc电影
 http://220.135.64.124:5050/li-4gtv-4gtv017/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="BLoomb4Gtv" tvg-logo="https://logo.catvod.com/BLoomb4Gtv.png" group-title="4GTV-台湾频道",BLoomb4Gtv
+#EXTINF:-1 tvg-name="BLoomb" tvg-logo="https://logo.catvod.com/BLoomb.png" group-title="4GTV-台湾频道",BLoomb
 http://220.135.64.124:5050/4gtv-live059/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="CINEMA-4Gtv" tvg-logo="https://logo.catvod.com/CINEMA-4Gtv.png" group-title="4GTV-台湾频道",CINEMA-4Gtv
+#EXTINF:-1 tvg-name="CINEMA-" tvg-logo="https://logo.catvod.com/CINEMA-.png" group-title="4GTV-台湾频道",CINEMA-
 http://220.135.64.124:5050/4gtv-live069/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="cnbc财经4Gtv" tvg-logo="https://logo.catvod.com/cnbc财经4Gtv.png" group-title="4GTV-台湾频道",cnbc财经4Gtv
+#EXTINF:-1 tvg-name="cnbc财经" tvg-logo="https://logo.catvod.com/cnbc财经.png" group-title="4GTV-台湾频道",cnbc财经
 http://220.135.64.124:5050/4gtv-live130/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="DreamW4Gtv" tvg-logo="https://logo.catvod.com/DreamW4Gtv.png" group-title="4GTV-台湾频道",DreamW4Gtv
+#EXTINF:-1 tvg-name="DreamW" tvg-logo="https://logo.catvod.com/DreamW.png" group-title="4GTV-台湾频道",DreamW
 http://220.135.64.124:5050/4gtv-live017/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="DW-之声4Gtv" tvg-logo="https://logo.catvod.com/DW-之声4Gtv.png" group-title="4GTV-台湾频道",DW-之声4Gtv
+#EXTINF:-1 tvg-name="DW-之声" tvg-logo="https://logo.catvod.com/DW-之声.png" group-title="4GTV-台湾频道",DW-之声
 http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="ELta旅游4Gtv" tvg-logo="https://logo.catvod.com/ELta旅游4Gtv.png" group-title="4GTV-台湾频道",ELta旅游4Gtv
+#EXTINF:-1 tvg-name="ELta旅游" tvg-logo="https://logo.catvod.com/ELta旅游.png" group-title="4GTV-台湾频道",ELta旅游
 http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="FRANCE4Gtv" tvg-logo="https://logo.catvod.com/FRANCE4Gtv.png" group-title="4GTV-台湾频道",FRANCE4Gtv
+#EXTINF:-1 tvg-name="FRANCE" tvg-logo="https://logo.catvod.com/FRANCE.png" group-title="4GTV-台湾频道",FRANCE
 http://220.135.64.124:5050/4gtv-live146/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="FUN娱乐4Gtv" tvg-logo="https://logo.catvod.com/FUN娱乐4Gtv.png" group-title="4GTV-台湾频道",FUN娱乐4Gtv
+#EXTINF:-1 tvg-name="FUN娱乐" tvg-logo="https://logo.catvod.com/FUN娱乐.png" group-title="4GTV-台湾频道",FUN娱乐
 http://220.135.64.124:5050/4gtv-live011/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="GINXTV4Gtv" tvg-logo="https://logo.catvod.com/GINXTV4Gtv.png" group-title="4GTV-台湾频道",GINXTV4Gtv
+#EXTINF:-1 tvg-name="GINXTV" tvg-logo="https://logo.catvod.com/GINXTV.png" group-title="4GTV-台湾频道",GINXTV
 http://220.135.64.124:5050/4gtv-4gtv053/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="GINXTV4Gtv" tvg-logo="https://logo.catvod.com/GINXTV4Gtv.png" group-title="4GTV-台湾频道",GINXTV4Gtv
+#EXTINF:-1 tvg-name="GINXTV" tvg-logo="https://logo.catvod.com/GINXTV.png" group-title="4GTV-台湾频道",GINXTV
 http://220.135.64.124:5050/li-4gtv-4gtv053/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="GLOBAL4Gtv" tvg-logo="https://logo.catvod.com/GLOBAL4Gtv.png" group-title="4GTV-台湾频道",GLOBAL4Gtv
+#EXTINF:-1 tvg-name="GLOBAL" tvg-logo="https://logo.catvod.com/GLOBAL.png" group-title="4GTV-台湾频道",GLOBAL
 http://220.135.64.124:5050/4gtv-live112/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="HItS电影4Gtv" tvg-logo="https://logo.catvod.com/HItS电影4Gtv.png" group-title="4GTV-台湾频道",HItS电影4Gtv
+#EXTINF:-1 tvg-name="HItS电影" tvg-logo="https://logo.catvod.com/HItS电影.png" group-title="4GTV-台湾频道",HItS电影
 http://220.135.64.124:5050/4gtv-live620/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="INULTRa4Gtv" tvg-logo="https://logo.catvod.com/INULTRa4Gtv.png" group-title="4GTV-台湾频道",INULTRa4Gtv
+#EXTINF:-1 tvg-name="INULTRa" tvg-logo="https://logo.catvod.com/INULTRa.png" group-title="4GTV-台湾频道",INULTRa
 http://220.135.64.124:5050/4gtv-live096/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="LifeTime4Gtv" tvg-logo="https://logo.catvod.com/LifeTime4Gtv.png" group-title="4GTV-台湾频道",LifeTime4Gtv
+#EXTINF:-1 tvg-name="LifeTime" tvg-logo="https://logo.catvod.com/LifeTime.png" group-title="4GTV-台湾频道",LifeTime
 http://220.135.64.124:5050/4gtv-live029/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="LUXE-TV4Gtv" tvg-logo="https://logo.catvod.com/LUXE-TV4Gtv.png" group-title="4GTV-台湾频道",LUXE-TV4Gtv
+#EXTINF:-1 tvg-name="LUXE-TV" tvg-logo="https://logo.catvod.com/LUXE-TV.png" group-title="4GTV-台湾频道",LUXE-TV
 http://220.135.64.124:5050/4gtv-live121/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="magellan4Gtv" tvg-logo="https://logo.catvod.com/magellan4Gtv.png" group-title="4GTV-台湾频道",magellan4Gtv
+#EXTINF:-1 tvg-name="magellan" tvg-logo="https://logo.catvod.com/magellan.png" group-title="4GTV-台湾频道",magellan
 http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="MEZZOl4Gtv" tvg-logo="https://logo.catvod.com/MEZZOl4Gtv.png" group-title="4GTV-台湾频道",MEZZOl4Gtv
+#EXTINF:-1 tvg-name="MEZZOl" tvg-logo="https://logo.catvod.com/MEZZOl.png" group-title="4GTV-台湾频道",MEZZOl
 http://220.135.64.124:5050/4gtv-4gtv083/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="MEZZOl4Gtv" tvg-logo="https://logo.catvod.com/MEZZOl4Gtv.png" group-title="4GTV-台湾频道",MEZZOl4Gtv
+#EXTINF:-1 tvg-name="MEZZOl" tvg-logo="https://logo.catvod.com/MEZZOl.png" group-title="4GTV-台湾频道",MEZZOl
 http://220.135.64.124:5050/li-4gtv-4gtv083/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="MO-亲子4Gtv" tvg-logo="https://logo.catvod.com/MO-亲子4Gtv.png" group-title="4GTV-台湾频道",MO-亲子4Gtv
+#EXTINF:-1 tvg-name="MO-亲子" tvg-logo="https://logo.catvod.com/MO-亲子.png" group-title="4GTV-台湾频道",MO-亲子
 http://220.135.64.124:5050/4gtv-live107/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="MTVLive4Gtv" tvg-logo="https://logo.catvod.com/MTVLive4Gtv.png" group-title="4GTV-台湾频道",MTVLive4Gtv
+#EXTINF:-1 tvg-name="MTVLive" tvg-logo="https://logo.catvod.com/MTVLive.png" group-title="4GTV-台湾频道",MTVLive
 http://220.135.64.124:5050/4gtv-live025/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="nick动漫4Gtv" tvg-logo="https://logo.catvod.com/nick动漫4Gtv.png" group-title="4GTV-台湾频道",nick动漫4Gtv
+#EXTINF:-1 tvg-name="nick动漫" tvg-logo="https://logo.catvod.com/nick动漫.png" group-title="4GTV-台湾频道",nick动漫
 http://220.135.64.124:5050/4gtv-live032/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="nick少儿4Gtv" tvg-logo="https://logo.catvod.com/nick少儿4Gtv.png" group-title="4GTV-台湾频道",nick少儿4Gtv
+#EXTINF:-1 tvg-name="nick少儿" tvg-logo="https://logo.catvod.com/nick少儿.png" group-title="4GTV-台湾频道",nick少儿
 http://220.135.64.124:5050/4gtv-live105/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="PETClUB4Gtv" tvg-logo="https://logo.catvod.com/PETClUB4Gtv.png" group-title="4GTV-台湾频道",PETClUB4Gtv
+#EXTINF:-1 tvg-name="PETClUB" tvg-logo="https://logo.catvod.com/PETClUB.png" group-title="4GTV-台湾频道",PETClUB
 http://220.135.64.124:5050/4gtv-live110/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="rock电影4Gtv" tvg-logo="https://logo.catvod.com/rock电影4Gtv.png" group-title="4GTV-台湾频道",rock电影4Gtv
+#EXTINF:-1 tvg-name="rock电影" tvg-logo="https://logo.catvod.com/rock电影.png" group-title="4GTV-台湾频道",rock电影
 http://220.135.64.124:5050/4gtv-live138/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="rock娱乐4Gtv" tvg-logo="https://logo.catvod.com/rock娱乐4Gtv.png" group-title="4GTV-台湾频道",rock娱乐4Gtv
+#EXTINF:-1 tvg-name="rock娱乐" tvg-logo="https://logo.catvod.com/rock娱乐.png" group-title="4GTV-台湾频道",rock娱乐
 http://220.135.64.124:5050/4gtv-live080/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="SMArt台4Gtv" tvg-logo="https://logo.catvod.com/SMArt台4Gtv.png" group-title="4GTV-台湾频道",SMArt台4Gtv
+#EXTINF:-1 tvg-name="SMArt台" tvg-logo="https://logo.catvod.com/SMArt台.png" group-title="4GTV-台湾频道",SMArt台
 http://220.135.64.124:5050/li-litv-longturn19/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="SMArt台4Gtv" tvg-logo="https://logo.catvod.com/SMArt台4Gtv.png" group-title="4GTV-台湾频道",SMArt台4Gtv
+#EXTINF:-1 tvg-name="SMArt台" tvg-logo="https://logo.catvod.com/SMArt台.png" group-title="4GTV-台湾频道",SMArt台
 http://220.135.64.124:5050/litv-longturn19/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TRACEU4Gtv" tvg-logo="https://logo.catvod.com/TRACEU4Gtv.png" group-title="4GTV-台湾频道",TRACEU4Gtv
+#EXTINF:-1 tvg-name="TRACEU" tvg-logo="https://logo.catvod.com/TRACEU.png" group-title="4GTV-台湾频道",TRACEU
 http://220.135.64.124:5050/4gtv-4gtv082/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TRACEU4Gtv" tvg-logo="https://logo.catvod.com/TRACEU4Gtv.png" group-title="4GTV-台湾频道",TRACEU4Gtv
+#EXTINF:-1 tvg-name="TRACEU" tvg-logo="https://logo.catvod.com/TRACEU.png" group-title="4GTV-台湾频道",TRACEU
 http://220.135.64.124:5050/li-4gtv-4gtv082/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TRA体育4Gtv" tvg-logo="https://logo.catvod.com/TRA体育4Gtv.png" group-title="4GTV-台湾频道",TRA体育4Gtv
+#EXTINF:-1 tvg-name="TRA体育" tvg-logo="https://logo.catvod.com/TRA体育.png" group-title="4GTV-台湾频道",TRA体育
 http://220.135.64.124:5050/4gtv-4gtv077/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TRA体育4Gtv" tvg-logo="https://logo.catvod.com/TRA体育4Gtv.png" group-title="4GTV-台湾频道",TRA体育4Gtv
+#EXTINF:-1 tvg-name="TRA体育" tvg-logo="https://logo.catvod.com/TRA体育.png" group-title="4GTV-台湾频道",TRA体育
 http://220.135.64.124:5050/li-4gtv-4gtv077/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TV5mon4Gtv" tvg-logo="https://logo.catvod.com/TV5mon4Gtv.png" group-title="4GTV-台湾频道",TV5mon4Gtv
+#EXTINF:-1 tvg-name="TV5mon" tvg-logo="https://logo.catvod.com/TV5mon.png" group-title="4GTV-台湾频道",TV5mon
 http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="tvbs欢乐4Gtv" tvg-logo="https://logo.catvod.com/tvbs欢乐4Gtv.png" group-title="4GTV-台湾频道",tvbs欢乐4Gtv
+#EXTINF:-1 tvg-name="tvbs欢乐" tvg-logo="https://logo.catvod.com/tvbs欢乐.png" group-title="4GTV-台湾频道",tvbs欢乐
 http://220.135.64.124:5050/4gtv-4gtv068/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="tvbs欢乐4Gtv" tvg-logo="https://logo.catvod.com/tvbs欢乐4Gtv.png" group-title="4GTV-台湾频道",tvbs欢乐4Gtv
+#EXTINF:-1 tvg-name="tvbs欢乐" tvg-logo="https://logo.catvod.com/tvbs欢乐.png" group-title="4GTV-台湾频道",tvbs欢乐
 http://220.135.64.124:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="tvbs精采4Gtv" tvg-logo="https://logo.catvod.com/tvbs精采4Gtv.png" group-title="4GTV-台湾频道",tvbs精采4Gtv
+#EXTINF:-1 tvg-name="tvbs精采" tvg-logo="https://logo.catvod.com/tvbs精采.png" group-title="4GTV-台湾频道",tvbs精采
 http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="tvbs精采4Gtv" tvg-logo="https://logo.catvod.com/tvbs精采4Gtv.png" group-title="4GTV-台湾频道",tvbs精采4Gtv
+#EXTINF:-1 tvg-name="tvbs精采" tvg-logo="https://logo.catvod.com/tvbs精采.png" group-title="4GTV-台湾频道",tvbs精采
 http://220.135.64.124:5050/li-4gtv-4gtv067/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="tvbs闽南4Gtv" tvg-logo="https://logo.catvod.com/tvbs闽南4Gtv.png" group-title="4GTV-台湾频道",tvbs闽南4Gtv
+#EXTINF:-1 tvg-name="tvbs闽南" tvg-logo="https://logo.catvod.com/tvbs闽南.png" group-title="4GTV-台湾频道",tvbs闽南
 http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="tvbs闽南4Gtv" tvg-logo="https://logo.catvod.com/tvbs闽南4Gtv.png" group-title="4GTV-台湾频道",tvbs闽南4Gtv
+#EXTINF:-1 tvg-name="tvbs闽南" tvg-logo="https://logo.catvod.com/tvbs闽南.png" group-title="4GTV-台湾频道",tvbs闽南
 http://220.135.64.124:5050/li-4gtv-4gtv073/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="tvbs台剧4Gtv" tvg-logo="https://logo.catvod.com/tvbs台剧4Gtv.png" group-title="4GTV-台湾频道",tvbs台剧4Gtv
+#EXTINF:-1 tvg-name="tvbs台剧" tvg-logo="https://logo.catvod.com/tvbs台剧.png" group-title="4GTV-台湾频道",tvbs台剧
 http://220.135.64.124:5050/4gtv-live088/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="tvbs新闻4Gtv" tvg-logo="https://logo.catvod.com/tvbs新闻4Gtv.png" group-title="4GTV-台湾频道",tvbs新闻4Gtv
+#EXTINF:-1 tvg-name="tvbs新闻" tvg-logo="https://logo.catvod.com/tvbs新闻.png" group-title="4GTV-台湾频道",tvbs新闻
 http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="tvbs新闻4Gtv" tvg-logo="https://logo.catvod.com/tvbs新闻4Gtv.png" group-title="4GTV-台湾频道",tvbs新闻4Gtv
+#EXTINF:-1 tvg-name="tvbs新闻" tvg-logo="https://logo.catvod.com/tvbs新闻.png" group-title="4GTV-台湾频道",tvbs新闻
 http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="tvbs综艺4Gtv" tvg-logo="https://logo.catvod.com/tvbs综艺4Gtv.png" group-title="4GTV-台湾频道",tvbs综艺4Gtv
+#EXTINF:-1 tvg-name="tvbs综艺" tvg-logo="https://logo.catvod.com/tvbs综艺.png" group-title="4GTV-台湾频道",tvbs综艺
 http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="阿里郎台4Gtv" tvg-logo="https://logo.catvod.com/阿里郎台4Gtv.png" group-title="4GTV-台湾频道",阿里郎台4Gtv
+#EXTINF:-1 tvg-name="阿里郎台" tvg-logo="https://logo.catvod.com/阿里郎台.png" group-title="4GTV-台湾频道",阿里郎台
 http://220.135.64.124:5050/4gtv-4gtv079/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="阿里郎台4Gtv" tvg-logo="https://logo.catvod.com/阿里郎台4Gtv.png" group-title="4GTV-台湾频道",阿里郎台4Gtv
+#EXTINF:-1 tvg-name="阿里郎台" tvg-logo="https://logo.catvod.com/阿里郎台.png" group-title="4GTV-台湾频道",阿里郎台
 http://220.135.64.124:5050/li-4gtv-4gtv079/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="爱达娱乐4Gtv" tvg-logo="https://logo.catvod.com/爱达娱乐4Gtv.png" group-title="4GTV-台湾频道",爱达娱乐4Gtv
+#EXTINF:-1 tvg-name="爱达娱乐" tvg-logo="https://logo.catvod.com/爱达娱乐.png" group-title="4GTV-台湾频道",爱达娱乐
 http://220.135.64.124:5050/4gtv-4gtv070/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="爱达娱乐4Gtv" tvg-logo="https://logo.catvod.com/爱达娱乐4Gtv.png" group-title="4GTV-台湾频道",爱达娱乐4Gtv
+#EXTINF:-1 tvg-name="爱达娱乐" tvg-logo="https://logo.catvod.com/爱达娱乐.png" group-title="4GTV-台湾频道",爱达娱乐
 http://220.135.64.124:5050/li-4gtv-4gtv070/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="八大精彩4Gtv" tvg-logo="https://logo.catvod.com/八大精彩4Gtv.png" group-title="4GTV-台湾频道",八大精彩4Gtv
+#EXTINF:-1 tvg-name="八大精彩" tvg-logo="https://logo.catvod.com/八大精彩.png" group-title="4GTV-台湾频道",八大精彩
 http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="八大精彩4Gtv" tvg-logo="https://logo.catvod.com/八大精彩4Gtv.png" group-title="4GTV-台湾频道",八大精彩4Gtv
+#EXTINF:-1 tvg-name="八大精彩" tvg-logo="https://logo.catvod.com/八大精彩.png" group-title="4GTV-台湾频道",八大精彩
 http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="八大综艺4Gtv" tvg-logo="https://logo.catvod.com/八大综艺4Gtv.png" group-title="4GTV-台湾频道",八大综艺4Gtv
+#EXTINF:-1 tvg-name="八大综艺" tvg-logo="https://logo.catvod.com/八大综艺.png" group-title="4GTV-台湾频道",八大综艺
 http://220.135.64.124:5050/4gtv-4gtv039/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="八大综艺4Gtv" tvg-logo="https://logo.catvod.com/八大综艺4Gtv.png" group-title="4GTV-台湾频道",八大综艺4Gtv
+#EXTINF:-1 tvg-name="八大综艺" tvg-logo="https://logo.catvod.com/八大综艺.png" group-title="4GTV-台湾频道",八大综艺
 http://220.135.64.124:5050/li-4gtv-4gtv039/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="半岛新闻4Gtv" tvg-logo="https://logo.catvod.com/半岛新闻4Gtv.png" group-title="4GTV-台湾频道",半岛新闻4Gtv
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://logo.catvod.com/半岛新闻.png" group-title="4GTV-台湾频道",半岛新闻
 http://220.135.64.124:5050/li-litv-ftv10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="半岛新闻4Gtv" tvg-logo="https://logo.catvod.com/半岛新闻4Gtv.png" group-title="4GTV-台湾频道",半岛新闻4Gtv
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://logo.catvod.com/半岛新闻.png" group-title="4GTV-台湾频道",半岛新闻
 http://220.135.64.124:5050/litv-ftv10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博高球贰4Gtv" tvg-logo="https://logo.catvod.com/博高球贰4Gtv.png" group-title="4GTV-台湾频道",博高球贰4Gtv
+#EXTINF:-1 tvg-name="博高球贰" tvg-logo="https://logo.catvod.com/博高球贰.png" group-title="4GTV-台湾频道",博高球贰
 http://220.135.64.124:5050/litv-longturn06/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博高球壹4Gtv" tvg-logo="https://logo.catvod.com/博高球壹4Gtv.png" group-title="4GTV-台湾频道",博高球壹4Gtv
+#EXTINF:-1 tvg-name="博高球壹" tvg-logo="https://logo.catvod.com/博高球壹.png" group-title="4GTV-台湾频道",博高球壹
 http://220.135.64.124:5050/litv-longturn05/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博斯魅力4Gtv" tvg-logo="https://logo.catvod.com/博斯魅力4Gtv.png" group-title="4GTV-台湾频道",博斯魅力4Gtv
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://logo.catvod.com/博斯魅力.png" group-title="4GTV-台湾频道",博斯魅力
 http://220.135.64.124:5050/litv-longturn04/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博斯网球4Gtv" tvg-logo="https://logo.catvod.com/博斯网球4Gtv.png" group-title="4GTV-台湾频道",博斯网球4Gtv
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://logo.catvod.com/博斯网球.png" group-title="4GTV-台湾频道",博斯网球
 http://220.135.64.124:5050/litv-longturn09/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博无限贰4Gtv" tvg-logo="https://logo.catvod.com/博无限贰4Gtv.png" group-title="4GTV-台湾频道",博无限贰4Gtv
+#EXTINF:-1 tvg-name="博无限贰" tvg-logo="https://logo.catvod.com/博无限贰.png" group-title="4GTV-台湾频道",博无限贰
 http://220.135.64.124:5050/litv-longturn13/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博无限壹4Gtv" tvg-logo="https://logo.catvod.com/博无限壹4Gtv.png" group-title="4GTV-台湾频道",博无限壹4Gtv
+#EXTINF:-1 tvg-name="博无限壹" tvg-logo="https://logo.catvod.com/博无限壹.png" group-title="4GTV-台湾频道",博无限壹
 http://220.135.64.124:5050/litv-longturn10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博运动贰4Gtv" tvg-logo="https://logo.catvod.com/博运动贰4Gtv.png" group-title="4GTV-台湾频道",博运动贰4Gtv
+#EXTINF:-1 tvg-name="博运动贰" tvg-logo="https://logo.catvod.com/博运动贰.png" group-title="4GTV-台湾频道",博运动贰
 http://220.135.64.124:5050/litv-longturn08/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博运动壹4Gtv" tvg-logo="https://logo.catvod.com/博运动壹4Gtv.png" group-title="4GTV-台湾频道",博运动壹4Gtv
+#EXTINF:-1 tvg-name="博运动壹" tvg-logo="https://logo.catvod.com/博运动壹.png" group-title="4GTV-台湾频道",博运动壹
 http://220.135.64.124:5050/litv-longturn07/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="采昌影剧4Gtv" tvg-logo="https://logo.catvod.com/采昌影剧4Gtv.png" group-title="4GTV-台湾频道",采昌影剧4Gtv
+#EXTINF:-1 tvg-name="采昌影剧" tvg-logo="https://logo.catvod.com/采昌影剧.png" group-title="4GTV-台湾频道",采昌影剧
 http://220.135.64.124:5050/4gtv-4gtv049/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="采昌影剧4Gtv" tvg-logo="https://logo.catvod.com/采昌影剧4Gtv.png" group-title="4GTV-台湾频道",采昌影剧4Gtv
+#EXTINF:-1 tvg-name="采昌影剧" tvg-logo="https://logo.catvod.com/采昌影剧.png" group-title="4GTV-台湾频道",采昌影剧
 http://220.135.64.124:5050/li-4gtv-4gtv049/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="车迷体育4Gtv" tvg-logo="https://logo.catvod.com/车迷体育4Gtv.png" group-title="4GTV-台湾频道",车迷体育4Gtv
+#EXTINF:-1 tvg-name="车迷体育" tvg-logo="https://logo.catvod.com/车迷体育.png" group-title="4GTV-台湾频道",车迷体育
 http://220.135.64.124:5050/4gtv-live201/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="达文西台4Gtv" tvg-logo="https://logo.catvod.com/达文西台4Gtv.png" group-title="4GTV-台湾频道",达文西台4Gtv
+#EXTINF:-1 tvg-name="达文西台" tvg-logo="https://logo.catvod.com/达文西台.png" group-title="4GTV-台湾频道",达文西台
 http://220.135.64.124:5050/4gtv-4gtv018/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="达文西台4Gtv" tvg-logo="https://logo.catvod.com/达文西台4Gtv.png" group-title="4GTV-台湾频道",达文西台4Gtv
+#EXTINF:-1 tvg-name="达文西台" tvg-logo="https://logo.catvod.com/达文西台.png" group-title="4GTV-台湾频道",达文西台
 http://220.135.64.124:5050/li-4gtv-4gtv018/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="大爱贰高4Gtv" tvg-logo="https://logo.catvod.com/大爱贰高4Gtv.png" group-title="4GTV-台湾频道",大爱贰高4Gtv
+#EXTINF:-1 tvg-name="大爱贰高" tvg-logo="https://logo.catvod.com/大爱贰高.png" group-title="4GTV-台湾频道",大爱贰高
 http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="大爱壹高4Gtv" tvg-logo="https://logo.catvod.com/大爱壹高4Gtv.png" group-title="4GTV-台湾频道",大爱壹高4Gtv
+#EXTINF:-1 tvg-name="大爱壹高" tvg-logo="https://logo.catvod.com/大爱壹高.png" group-title="4GTV-台湾频道",大爱壹高
 http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="第壹商业4Gtv" tvg-logo="https://logo.catvod.com/第壹商业4Gtv.png" group-title="4GTV-台湾频道",第壹商业4Gtv
+#EXTINF:-1 tvg-name="第壹商业" tvg-logo="https://logo.catvod.com/第壹商业.png" group-title="4GTV-台湾频道",第壹商业
 http://220.135.64.124:5050/4gtv-4gtv109/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="电影原声4Gtv" tvg-logo="https://logo.catvod.com/电影原声4Gtv.png" group-title="4GTV-台湾频道",电影原声4Gtv
+#EXTINF:-1 tvg-name="电影原声" tvg-logo="https://logo.catvod.com/电影原声.png" group-title="4GTV-台湾频道",电影原声
 http://220.135.64.124:5050/4gtv-live031/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森财经4Gtv" tvg-logo="https://logo.catvod.com/东森财经4Gtv.png" group-title="4GTV-台湾频道",东森财经4Gtv
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://logo.catvod.com/东森财经.png" group-title="4GTV-台湾频道",东森财经
 http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森财经4Gtv" tvg-logo="https://logo.catvod.com/东森财经4Gtv.png" group-title="4GTV-台湾频道",东森财经4Gtv
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://logo.catvod.com/东森财经.png" group-title="4GTV-台湾频道",东森财经
 http://220.135.64.124:5050/li-4gtv-4gtv153/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森购贰4Gtv" tvg-logo="https://logo.catvod.com/东森购贰4Gtv.png" group-title="4GTV-台湾频道",东森购贰4Gtv
+#EXTINF:-1 tvg-name="东森购贰" tvg-logo="https://logo.catvod.com/东森购贰.png" group-title="4GTV-台湾频道",东森购贰
 http://220.135.64.124:5050/4gtv-4gtv103/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森购贰4Gtv" tvg-logo="https://logo.catvod.com/东森购贰4Gtv.png" group-title="4GTV-台湾频道",东森购贰4Gtv
+#EXTINF:-1 tvg-name="东森购贰" tvg-logo="https://logo.catvod.com/东森购贰.png" group-title="4GTV-台湾频道",东森购贰
 http://220.135.64.124:5050/4gtv-live046/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森购贰4Gtv" tvg-logo="https://logo.catvod.com/东森购贰4Gtv.png" group-title="4GTV-台湾频道",东森购贰4Gtv
+#EXTINF:-1 tvg-name="东森购贰" tvg-logo="https://logo.catvod.com/东森购贰.png" group-title="4GTV-台湾频道",东森购贰
 http://220.135.64.124:5050/of-4gtv-4gtv103/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森购叁4Gtv" tvg-logo="https://logo.catvod.com/东森购叁4Gtv.png" group-title="4GTV-台湾频道",东森购叁4Gtv
+#EXTINF:-1 tvg-name="东森购叁" tvg-logo="https://logo.catvod.com/东森购叁.png" group-title="4GTV-台湾频道",东森购叁
 http://220.135.64.124:5050/4gtv-live048/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森购五4Gtv" tvg-logo="https://logo.catvod.com/东森购五4Gtv.png" group-title="4GTV-台湾频道",东森购五4Gtv
+#EXTINF:-1 tvg-name="东森购五" tvg-logo="https://logo.catvod.com/东森购五.png" group-title="4GTV-台湾频道",东森购五
 http://220.135.64.124:5050/4gtv-live049/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森购壹4Gtv" tvg-logo="https://logo.catvod.com/东森购壹4Gtv.png" group-title="4GTV-台湾频道",东森购壹4Gtv
+#EXTINF:-1 tvg-name="东森购壹" tvg-logo="https://logo.catvod.com/东森购壹.png" group-title="4GTV-台湾频道",东森购壹
 http://220.135.64.124:5050/4gtv-4gtv102/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森购壹4Gtv" tvg-logo="https://logo.catvod.com/东森购壹4Gtv.png" group-title="4GTV-台湾频道",东森购壹4Gtv
+#EXTINF:-1 tvg-name="东森购壹" tvg-logo="https://logo.catvod.com/东森购壹.png" group-title="4GTV-台湾频道",东森购壹
 http://220.135.64.124:5050/4gtv-live047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森购壹4Gtv" tvg-logo="https://logo.catvod.com/东森购壹4Gtv.png" group-title="4GTV-台湾频道",东森购壹4Gtv
+#EXTINF:-1 tvg-name="东森购壹" tvg-logo="https://logo.catvod.com/东森购壹.png" group-title="4GTV-台湾频道",东森购壹
 http://220.135.64.124:5050/of-4gtv-4gtv102/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森新闻4Gtv" tvg-logo="https://logo.catvod.com/东森新闻4Gtv.png" group-title="4GTV-台湾频道",东森新闻4Gtv
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="4GTV-台湾频道",东森新闻
 http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="东森新闻4Gtv" tvg-logo="https://logo.catvod.com/东森新闻4Gtv.png" group-title="4GTV-台湾频道",东森新闻4Gtv
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="4GTV-台湾频道",东森新闻
 http://220.135.64.124:5050/li-4gtv-4gtv152/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="非凡商业4Gtv" tvg-logo="https://logo.catvod.com/非凡商业4Gtv.png" group-title="4GTV-台湾频道",非凡商业4Gtv
+#EXTINF:-1 tvg-name="非凡商业" tvg-logo="https://logo.catvod.com/非凡商业.png" group-title="4GTV-台湾频道",非凡商业
 http://220.135.64.124:5050/4gtv-4gtv048/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="非凡新闻4Gtv" tvg-logo="https://logo.catvod.com/非凡新闻4Gtv.png" group-title="4GTV-台湾频道",非凡新闻4Gtv
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://logo.catvod.com/非凡新闻.png" group-title="4GTV-台湾频道",非凡新闻
 http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="公视戏剧4Gtv" tvg-logo="https://logo.catvod.com/公视戏剧4Gtv.png" group-title="4GTV-台湾频道",公视戏剧4Gtv
+#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://logo.catvod.com/公视戏剧.png" group-title="4GTV-台湾频道",公视戏剧
 http://220.135.64.124:5050/4gtv-4gtv042/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="公视戏剧4Gtv" tvg-logo="https://logo.catvod.com/公视戏剧4Gtv.png" group-title="4GTV-台湾频道",公视戏剧4Gtv
+#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://logo.catvod.com/公视戏剧.png" group-title="4GTV-台湾频道",公视戏剧
 http://220.135.64.124:5050/li-4gtv-4gtv042/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="古典音乐4Gtv" tvg-logo="https://logo.catvod.com/古典音乐4Gtv.png" group-title="4GTV-台湾频道",古典音乐4Gtv
+#EXTINF:-1 tvg-name="古典音乐" tvg-logo="https://logo.catvod.com/古典音乐.png" group-title="4GTV-台湾频道",古典音乐
 http://220.135.64.124:5050/4gtv-4gtv059/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="古典音乐4Gtv" tvg-logo="https://logo.catvod.com/古典音乐4Gtv.png" group-title="4GTV-台湾频道",古典音乐4Gtv
+#EXTINF:-1 tvg-name="古典音乐" tvg-logo="https://logo.catvod.com/古典音乐.png" group-title="4GTV-台湾频道",古典音乐
 http://220.135.64.124:5050/li-4gtv-4gtv059/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="滚动人生4Gtv" tvg-logo="https://logo.catvod.com/滚动人生4Gtv.png" group-title="4GTV-台湾频道",滚动人生4Gtv
+#EXTINF:-1 tvg-name="滚动人生" tvg-logo="https://logo.catvod.com/滚动人生.png" group-title="4GTV-台湾频道",滚动人生
 http://220.135.64.124:5050/4gtv-live012/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="国会频贰4Gtv" tvg-logo="https://logo.catvod.com/国会频贰4Gtv.png" group-title="4GTV-台湾频道",国会频贰4Gtv
+#EXTINF:-1 tvg-name="国会频贰" tvg-logo="https://logo.catvod.com/国会频贰.png" group-title="4GTV-台湾频道",国会频贰
 http://220.135.64.124:5050/4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="国会频贰4Gtv" tvg-logo="https://logo.catvod.com/国会频贰4Gtv.png" group-title="4GTV-台湾频道",国会频贰4Gtv
+#EXTINF:-1 tvg-name="国会频贰" tvg-logo="https://logo.catvod.com/国会频贰.png" group-title="4GTV-台湾频道",国会频贰
 http://220.135.64.124:5050/li-4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="国会频贰4Gtv" tvg-logo="https://logo.catvod.com/国会频贰4Gtv.png" group-title="4GTV-台湾频道",国会频贰4Gtv
+#EXTINF:-1 tvg-name="国会频贰" tvg-logo="https://logo.catvod.com/国会频贰.png" group-title="4GTV-台湾频道",国会频贰
 http://220.135.64.124:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="国会频壹4Gtv" tvg-logo="https://logo.catvod.com/国会频壹4Gtv.png" group-title="4GTV-台湾频道",国会频壹4Gtv
+#EXTINF:-1 tvg-name="国会频壹" tvg-logo="https://logo.catvod.com/国会频壹.png" group-title="4GTV-台湾频道",国会频壹
 http://220.135.64.124:5050/4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="国会频壹4Gtv" tvg-logo="https://logo.catvod.com/国会频壹4Gtv.png" group-title="4GTV-台湾频道",国会频壹4Gtv
+#EXTINF:-1 tvg-name="国会频壹" tvg-logo="https://logo.catvod.com/国会频壹.png" group-title="4GTV-台湾频道",国会频壹
 http://220.135.64.124:5050/li-4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="国会频壹4Gtv" tvg-logo="https://logo.catvod.com/国会频壹4Gtv.png" group-title="4GTV-台湾频道",国会频壹4Gtv
+#EXTINF:-1 tvg-name="国会频壹" tvg-logo="https://logo.catvod.com/国会频壹.png" group-title="4GTV-台湾频道",国会频壹
 http://220.135.64.124:5050/of-4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="国际财经4Gtv" tvg-logo="https://logo.catvod.com/国际财经4Gtv.png" group-title="4GTV-台湾频道",国际财经4Gtv
+#EXTINF:-1 tvg-name="国际财经" tvg-logo="https://logo.catvod.com/国际财经.png" group-title="4GTV-台湾频道",国际财经
 http://220.135.64.124:5050/4gtv-4gtv104/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="国际财经4Gtv" tvg-logo="https://logo.catvod.com/国际财经4Gtv.png" group-title="4GTV-台湾频道",国际财经4Gtv
+#EXTINF:-1 tvg-name="国际财经" tvg-logo="https://logo.catvod.com/国际财经.png" group-title="4GTV-台湾频道",国际财经
 http://220.135.64.124:5050/li-4gtv-4gtv104/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="国家地理4Gtv" tvg-logo="https://logo.catvod.com/国家地理4Gtv.png" group-title="4GTV-台湾频道",国家地理4Gtv
+#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://logo.catvod.com/国家地理.png" group-title="4GTV-台湾频道",国家地理
 http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="韩国娱乐4Gtv" tvg-logo="https://logo.catvod.com/韩国娱乐4Gtv.png" group-title="4GTV-台湾频道",韩国娱乐4Gtv
+#EXTINF:-1 tvg-name="韩国娱乐" tvg-logo="https://logo.catvod.com/韩国娱乐.png" group-title="4GTV-台湾频道",韩国娱乐
 http://220.135.64.124:5050/4gtv-4gtv016/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="韩国娱乐4Gtv" tvg-logo="https://logo.catvod.com/韩国娱乐4Gtv.png" group-title="4GTV-台湾频道",韩国娱乐4Gtv
+#EXTINF:-1 tvg-name="韩国娱乐" tvg-logo="https://logo.catvod.com/韩国娱乐.png" group-title="4GTV-台湾频道",韩国娱乐
 http://220.135.64.124:5050/li-4gtv-4gtv016/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="好消息贰4Gtv" tvg-logo="https://logo.catvod.com/好消息贰4Gtv.png" group-title="4GTV-台湾频道",好消息贰4Gtv
+#EXTINF:-1 tvg-name="好消息贰" tvg-logo="https://logo.catvod.com/好消息贰.png" group-title="4GTV-台湾频道",好消息贰
 http://220.135.64.124:5050/li-litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="好消息贰4Gtv" tvg-logo="https://logo.catvod.com/好消息贰4Gtv.png" group-title="4GTV-台湾频道",好消息贰4Gtv
+#EXTINF:-1 tvg-name="好消息贰" tvg-logo="https://logo.catvod.com/好消息贰.png" group-title="4GTV-台湾频道",好消息贰
 http://220.135.64.124:5050/litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="好消息贰4Gtv" tvg-logo="https://logo.catvod.com/好消息贰4Gtv.png" group-title="4GTV-台湾频道",好消息贰4Gtv
+#EXTINF:-1 tvg-name="好消息贰" tvg-logo="https://logo.catvod.com/好消息贰.png" group-title="4GTV-台湾频道",好消息贰
 http://220.135.64.124:5050/of-litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="好消息壹4Gtv" tvg-logo="https://logo.catvod.com/好消息壹4Gtv.png" group-title="4GTV-台湾频道",好消息壹4Gtv
+#EXTINF:-1 tvg-name="好消息壹" tvg-logo="https://logo.catvod.com/好消息壹.png" group-title="4GTV-台湾频道",好消息壹
 http://220.135.64.124:5050/li-litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="好消息壹4Gtv" tvg-logo="https://logo.catvod.com/好消息壹4Gtv.png" group-title="4GTV-台湾频道",好消息壹4Gtv
+#EXTINF:-1 tvg-name="好消息壹" tvg-logo="https://logo.catvod.com/好消息壹.png" group-title="4GTV-台湾频道",好消息壹
 http://220.135.64.124:5050/litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="好消息壹4Gtv" tvg-logo="https://logo.catvod.com/好消息壹4Gtv.png" group-title="4GTV-台湾频道",好消息壹4Gtv
+#EXTINF:-1 tvg-name="好消息壹" tvg-logo="https://logo.catvod.com/好消息壹.png" group-title="4GTV-台湾频道",好消息壹
 http://220.135.64.124:5050/of-litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="互动英语4Gtv" tvg-logo="https://logo.catvod.com/互动英语4Gtv.png" group-title="4GTV-台湾频道",互动英语4Gtv
+#EXTINF:-1 tvg-name="互动英语" tvg-logo="https://logo.catvod.com/互动英语.png" group-title="4GTV-台湾频道",互动英语
 http://220.135.64.124:5050/4gtv-live030/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="华仁纪实4Gtv" tvg-logo="https://logo.catvod.com/华仁纪实4Gtv.png" group-title="4GTV-台湾频道",华仁纪实4Gtv
+#EXTINF:-1 tvg-name="华仁纪实" tvg-logo="https://logo.catvod.com/华仁纪实.png" group-title="4GTV-台湾频道",华仁纪实
 http://220.135.64.124:5050/4gtv-4gtv013/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="华仁纪实4Gtv" tvg-logo="https://logo.catvod.com/华仁纪实4Gtv.png" group-title="4GTV-台湾频道",华仁纪实4Gtv
+#EXTINF:-1 tvg-name="华仁纪实" tvg-logo="https://logo.catvod.com/华仁纪实.png" group-title="4GTV-台湾频道",华仁纪实
 http://220.135.64.124:5050/li-4gtv-4gtv013/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="华视闽南4Gtv" tvg-logo="https://logo.catvod.com/华视闽南4Gtv.png" group-title="4GTV-台湾频道",华视闽南4Gtv
+#EXTINF:-1 tvg-name="华视闽南" tvg-logo="https://logo.catvod.com/华视闽南.png" group-title="4GTV-台湾频道",华视闽南
 http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="华视闽南4Gtv" tvg-logo="https://logo.catvod.com/华视闽南4Gtv.png" group-title="4GTV-台湾频道",华视闽南4Gtv
+#EXTINF:-1 tvg-name="华视闽南" tvg-logo="https://logo.catvod.com/华视闽南.png" group-title="4GTV-台湾频道",华视闽南
 http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="华视闽南4Gtv" tvg-logo="https://logo.catvod.com/华视闽南4Gtv.png" group-title="4GTV-台湾频道",华视闽南4Gtv
+#EXTINF:-1 tvg-name="华视闽南" tvg-logo="https://logo.catvod.com/华视闽南.png" group-title="4GTV-台湾频道",华视闽南
 http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="华视新闻4Gtv" tvg-logo="https://logo.catvod.com/华视新闻4Gtv.png" group-title="4GTV-台湾频道",华视新闻4Gtv
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://logo.catvod.com/华视新闻.png" group-title="4GTV-台湾频道",华视新闻
 http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="华视新闻4Gtv" tvg-logo="https://logo.catvod.com/华视新闻4Gtv.png" group-title="4GTV-台湾频道",华视新闻4Gtv
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://logo.catvod.com/华视新闻.png" group-title="4GTV-台湾频道",华视新闻
 http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="华视新闻4Gtv" tvg-logo="https://logo.catvod.com/华视新闻4Gtv.png" group-title="4GTV-台湾频道",华视新闻4Gtv
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://logo.catvod.com/华视新闻.png" group-title="4GTV-台湾频道",华视新闻
 http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇财经4Gtv" tvg-logo="https://logo.catvod.com/寰宇财经4Gtv.png" group-title="4GTV-台湾频道",寰宇财经4Gtv
+#EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://logo.catvod.com/寰宇财经.png" group-title="4GTV-台湾频道",寰宇财经
 http://220.135.64.124:5050/4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇财经4Gtv" tvg-logo="https://logo.catvod.com/寰宇财经4Gtv.png" group-title="4GTV-台湾频道",寰宇财经4Gtv
+#EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://logo.catvod.com/寰宇财经.png" group-title="4GTV-台湾频道",寰宇财经
 http://220.135.64.124:5050/li-4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇财经4Gtv" tvg-logo="https://logo.catvod.com/寰宇财经4Gtv.png" group-title="4GTV-台湾频道",寰宇财经4Gtv
+#EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://logo.catvod.com/寰宇财经.png" group-title="4GTV-台湾频道",寰宇财经
 http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇闽南4Gtv" tvg-logo="https://logo.catvod.com/寰宇闽南4Gtv.png" group-title="4GTV-台湾频道",寰宇闽南4Gtv
+#EXTINF:-1 tvg-name="寰宇闽南" tvg-logo="https://logo.catvod.com/寰宇闽南.png" group-title="4GTV-台湾频道",寰宇闽南
 http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇闽南4Gtv" tvg-logo="https://logo.catvod.com/寰宇闽南4Gtv.png" group-title="4GTV-台湾频道",寰宇闽南4Gtv
+#EXTINF:-1 tvg-name="寰宇闽南" tvg-logo="https://logo.catvod.com/寰宇闽南.png" group-title="4GTV-台湾频道",寰宇闽南
 http://220.135.64.124:5050/li-4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇闽南4Gtv" tvg-logo="https://logo.catvod.com/寰宇闽南4Gtv.png" group-title="4GTV-台湾频道",寰宇闽南4Gtv
+#EXTINF:-1 tvg-name="寰宇闽南" tvg-logo="https://logo.catvod.com/寰宇闽南.png" group-title="4GTV-台湾频道",寰宇闽南
 http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇新闻4Gtv" tvg-logo="https://logo.catvod.com/寰宇新闻4Gtv.png" group-title="4GTV-台湾频道",寰宇新闻4Gtv
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="4GTV-台湾频道",寰宇新闻
 http://220.135.64.124:5050/li-litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇新闻4Gtv" tvg-logo="https://logo.catvod.com/寰宇新闻4Gtv.png" group-title="4GTV-台湾频道",寰宇新闻4Gtv
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="4GTV-台湾频道",寰宇新闻
 http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="寰宇新闻4Gtv" tvg-logo="https://logo.catvod.com/寰宇新闻4Gtv.png" group-title="4GTV-台湾频道",寰宇新闻4Gtv
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="4GTV-台湾频道",寰宇新闻
 http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="今日新闻4Gtv" tvg-logo="https://logo.catvod.com/今日新闻4Gtv.png" group-title="4GTV-台湾频道",今日新闻4Gtv
+#EXTINF:-1 tvg-name="今日新闻" tvg-logo="https://logo.catvod.com/今日新闻.png" group-title="4GTV-台湾频道",今日新闻
 http://220.135.64.124:5050/nnews-zh/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="金光布袋4Gtv" tvg-logo="https://logo.catvod.com/金光布袋4Gtv.png" group-title="4GTV-台湾频道",金光布袋4Gtv
+#EXTINF:-1 tvg-name="金光布袋" tvg-logo="https://logo.catvod.com/金光布袋.png" group-title="4GTV-台湾频道",金光布袋
 http://220.135.64.124:5050/4gtv-live144/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="经典电影4Gtv" tvg-logo="https://logo.catvod.com/经典电影4Gtv.png" group-title="4GTV-台湾频道",经典电影4Gtv
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://logo.catvod.com/经典电影.png" group-title="4GTV-台湾频道",经典电影
 http://220.135.64.124:5050/4gtv-live021/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="经典卡通4Gtv" tvg-logo="https://logo.catvod.com/经典卡通4Gtv.png" group-title="4GTV-台湾频道",经典卡通4Gtv
+#EXTINF:-1 tvg-name="经典卡通" tvg-logo="https://logo.catvod.com/经典卡通.png" group-title="4GTV-台湾频道",经典卡通
 http://220.135.64.124:5050/4gtv-live022/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="精选动漫4Gtv" tvg-logo="https://logo.catvod.com/精选动漫4Gtv.png" group-title="4GTV-台湾频道",精选动漫4Gtv
+#EXTINF:-1 tvg-name="精选动漫" tvg-logo="https://logo.catvod.com/精选动漫.png" group-title="4GTV-台湾频道",精选动漫
 http://220.135.64.124:5050/4gtv-live024/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天电影4Gtv" tvg-logo="https://logo.catvod.com/靖天电影4Gtv.png" group-title="4GTV-台湾频道",靖天电影4Gtv
+#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://logo.catvod.com/靖天电影.png" group-title="4GTV-台湾频道",靖天电影
 http://220.135.64.124:5050/4gtv-4gtv061/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天电影4Gtv" tvg-logo="https://logo.catvod.com/靖天电影4Gtv.png" group-title="4GTV-台湾频道",靖天电影4Gtv
+#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://logo.catvod.com/靖天电影.png" group-title="4GTV-台湾频道",靖天电影
 http://220.135.64.124:5050/li-4gtv-4gtv061/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天国际4Gtv" tvg-logo="https://logo.catvod.com/靖天国际4Gtv.png" group-title="4GTV-台湾频道",靖天国际4Gtv
+#EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://logo.catvod.com/靖天国际.png" group-title="4GTV-台湾频道",靖天国际
 http://220.135.64.124:5050/4gtv-4gtv063/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天国际4Gtv" tvg-logo="https://logo.catvod.com/靖天国际4Gtv.png" group-title="4GTV-台湾频道",靖天国际4Gtv
+#EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://logo.catvod.com/靖天国际.png" group-title="4GTV-台湾频道",靖天国际
 http://220.135.64.124:5050/li-4gtv-4gtv063/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天欢乐4Gtv" tvg-logo="https://logo.catvod.com/靖天欢乐4Gtv.png" group-title="4GTV-台湾频道",靖天欢乐4Gtv
+#EXTINF:-1 tvg-name="靖天欢乐" tvg-logo="https://logo.catvod.com/靖天欢乐.png" group-title="4GTV-台湾频道",靖天欢乐
 http://220.135.64.124:5050/4gtv-4gtv054/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天欢乐4Gtv" tvg-logo="https://logo.catvod.com/靖天欢乐4Gtv.png" group-title="4GTV-台湾频道",靖天欢乐4Gtv
+#EXTINF:-1 tvg-name="靖天欢乐" tvg-logo="https://logo.catvod.com/靖天欢乐.png" group-title="4GTV-台湾频道",靖天欢乐
 http://220.135.64.124:5050/li-4gtv-4gtv054/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天卡通4Gtv" tvg-logo="https://logo.catvod.com/靖天卡通4Gtv.png" group-title="4GTV-台湾频道",靖天卡通4Gtv
+#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://logo.catvod.com/靖天卡通.png" group-title="4GTV-台湾频道",靖天卡通
 http://220.135.64.124:5050/4gtv-4gtv044/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天卡通4Gtv" tvg-logo="https://logo.catvod.com/靖天卡通4Gtv.png" group-title="4GTV-台湾频道",靖天卡通4Gtv
+#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://logo.catvod.com/靖天卡通.png" group-title="4GTV-台湾频道",靖天卡通
 http://220.135.64.124:5050/li-4gtv-4gtv044/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天日本4Gtv" tvg-logo="https://logo.catvod.com/靖天日本4Gtv.png" group-title="4GTV-台湾频道",靖天日本4Gtv
+#EXTINF:-1 tvg-name="靖天日本" tvg-logo="https://logo.catvod.com/靖天日本.png" group-title="4GTV-台湾频道",靖天日本
 http://220.135.64.124:5050/4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天日本4Gtv" tvg-logo="https://logo.catvod.com/靖天日本4Gtv.png" group-title="4GTV-台湾频道",靖天日本4Gtv
+#EXTINF:-1 tvg-name="靖天日本" tvg-logo="https://logo.catvod.com/靖天日本.png" group-title="4GTV-台湾频道",靖天日本
 http://220.135.64.124:5050/li-4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天戏剧4Gtv" tvg-logo="https://logo.catvod.com/靖天戏剧4Gtv.png" group-title="4GTV-台湾频道",靖天戏剧4Gtv
+#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://logo.catvod.com/靖天戏剧.png" group-title="4GTV-台湾频道",靖天戏剧
 http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天戏剧4Gtv" tvg-logo="https://logo.catvod.com/靖天戏剧4Gtv.png" group-title="4GTV-台湾频道",靖天戏剧4Gtv
+#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://logo.catvod.com/靖天戏剧.png" group-title="4GTV-台湾频道",靖天戏剧
 http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天映画4Gtv" tvg-logo="https://logo.catvod.com/靖天映画4Gtv.png" group-title="4GTV-台湾频道",靖天映画4Gtv
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://logo.catvod.com/靖天映画.png" group-title="4GTV-台湾频道",靖天映画
 http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天映画4Gtv" tvg-logo="https://logo.catvod.com/靖天映画4Gtv.png" group-title="4GTV-台湾频道",靖天映画4Gtv
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://logo.catvod.com/靖天映画.png" group-title="4GTV-台湾频道",靖天映画
 http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天育乐4Gtv" tvg-logo="https://logo.catvod.com/靖天育乐4Gtv.png" group-title="4GTV-台湾频道",靖天育乐4Gtv
+#EXTINF:-1 tvg-name="靖天育乐" tvg-logo="https://logo.catvod.com/靖天育乐.png" group-title="4GTV-台湾频道",靖天育乐
 http://220.135.64.124:5050/4gtv-4gtv062/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天育乐4Gtv" tvg-logo="https://logo.catvod.com/靖天育乐4Gtv.png" group-title="4GTV-台湾频道",靖天育乐4Gtv
+#EXTINF:-1 tvg-name="靖天育乐" tvg-logo="https://logo.catvod.com/靖天育乐.png" group-title="4GTV-台湾频道",靖天育乐
 http://220.135.64.124:5050/li-4gtv-4gtv062/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天资讯4Gtv" tvg-logo="https://logo.catvod.com/靖天资讯4Gtv.png" group-title="4GTV-台湾频道",靖天资讯4Gtv
+#EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://logo.catvod.com/靖天资讯.png" group-title="4GTV-台湾频道",靖天资讯
 http://220.135.64.124:5050/4gtv-4gtv065/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天资讯4Gtv" tvg-logo="https://logo.catvod.com/靖天资讯4Gtv.png" group-title="4GTV-台湾频道",靖天资讯4Gtv
+#EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://logo.catvod.com/靖天资讯.png" group-title="4GTV-台湾频道",靖天资讯
 http://220.135.64.124:5050/li-4gtv-4gtv065/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天综合4Gtv" tvg-logo="https://logo.catvod.com/靖天综合4Gtv.png" group-title="4GTV-台湾频道",靖天综合4Gtv
+#EXTINF:-1 tvg-name="靖天综合" tvg-logo="https://logo.catvod.com/靖天综合.png" group-title="4GTV-台湾频道",靖天综合
 http://220.135.64.124:5050/4gtv-4gtv046/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天综合4Gtv" tvg-logo="https://logo.catvod.com/靖天综合4Gtv.png" group-title="4GTV-台湾频道",靖天综合4Gtv
+#EXTINF:-1 tvg-name="靖天综合" tvg-logo="https://logo.catvod.com/靖天综合.png" group-title="4GTV-台湾频道",靖天综合
 http://220.135.64.124:5050/li-4gtv-4gtv046/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖洋卡通4Gtv" tvg-logo="https://logo.catvod.com/靖洋卡通4Gtv.png" group-title="4GTV-台湾频道",靖洋卡通4Gtv
+#EXTINF:-1 tvg-name="靖洋卡通" tvg-logo="https://logo.catvod.com/靖洋卡通.png" group-title="4GTV-台湾频道",靖洋卡通
 http://220.135.64.124:5050/4gtv-4gtv057/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖洋卡通4Gtv" tvg-logo="https://logo.catvod.com/靖洋卡通4Gtv.png" group-title="4GTV-台湾频道",靖洋卡通4Gtv
+#EXTINF:-1 tvg-name="靖洋卡通" tvg-logo="https://logo.catvod.com/靖洋卡通.png" group-title="4GTV-台湾频道",靖洋卡通
 http://220.135.64.124:5050/li-4gtv-4gtv057/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖洋戏剧4Gtv" tvg-logo="https://logo.catvod.com/靖洋戏剧4Gtv.png" group-title="4GTV-台湾频道",靖洋戏剧4Gtv
+#EXTINF:-1 tvg-name="靖洋戏剧" tvg-logo="https://logo.catvod.com/靖洋戏剧.png" group-title="4GTV-台湾频道",靖洋戏剧
 http://220.135.64.124:5050/4gtv-4gtv045/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖洋戏剧4Gtv" tvg-logo="https://logo.catvod.com/靖洋戏剧4Gtv.png" group-title="4GTV-台湾频道",靖洋戏剧4Gtv
+#EXTINF:-1 tvg-name="靖洋戏剧" tvg-logo="https://logo.catvod.com/靖洋戏剧.png" group-title="4GTV-台湾频道",靖洋戏剧
 http://220.135.64.124:5050/li-4gtv-4gtv045/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="客家电视4Gtv" tvg-logo="https://logo.catvod.com/客家电视4Gtv.png" group-title="4GTV-台湾频道",客家电视4Gtv
+#EXTINF:-1 tvg-name="客家电视" tvg-logo="https://logo.catvod.com/客家电视.png" group-title="4GTV-台湾频道",客家电视
 http://220.135.64.124:5050/4gtv-4gtv043/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="客家电视4Gtv" tvg-logo="https://logo.catvod.com/客家电视4Gtv.png" group-title="4GTV-台湾频道",客家电视4Gtv
+#EXTINF:-1 tvg-name="客家电视" tvg-logo="https://logo.catvod.com/客家电视.png" group-title="4GTV-台湾频道",客家电视
 http://220.135.64.124:5050/li-4gtv-4gtv043/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="空间居家4Gtv" tvg-logo="https://logo.catvod.com/空间居家4Gtv.png" group-title="4GTV-台湾频道",空间居家4Gtv
+#EXTINF:-1 tvg-name="空间居家" tvg-logo="https://logo.catvod.com/空间居家.png" group-title="4GTV-台湾频道",空间居家
 http://220.135.64.124:5050/4gtv-live206/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="历史频道4Gtv" tvg-logo="https://logo.catvod.com/历史频道4Gtv.png" group-title="4GTV-台湾频道",历史频道4Gtv
+#EXTINF:-1 tvg-name="历史频道" tvg-logo="https://logo.catvod.com/历史频道.png" group-title="4GTV-台湾频道",历史频道
 http://220.135.64.124:5050/4gtv-live026/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华电影4Gtv" tvg-logo="https://logo.catvod.com/龙华电影4Gtv.png" group-title="4GTV-台湾频道",龙华电影4Gtv
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://logo.catvod.com/龙华电影.png" group-title="4GTV-台湾频道",龙华电影
 http://220.135.64.124:5050/li-litv-longturn03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华电影4Gtv" tvg-logo="https://logo.catvod.com/龙华电影4Gtv.png" group-title="4GTV-台湾频道",龙华电影4Gtv
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://logo.catvod.com/龙华电影.png" group-title="4GTV-台湾频道",龙华电影
 http://220.135.64.124:5050/litv-longturn03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华经典4Gtv" tvg-logo="https://logo.catvod.com/龙华经典4Gtv.png" group-title="4GTV-台湾频道",龙华经典4Gtv
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://logo.catvod.com/龙华经典.png" group-title="4GTV-台湾频道",龙华经典
 http://220.135.64.124:5050/li-litv-longturn21/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华经典4Gtv" tvg-logo="https://logo.catvod.com/龙华经典4Gtv.png" group-title="4GTV-台湾频道",龙华经典4Gtv
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://logo.catvod.com/龙华经典.png" group-title="4GTV-台湾频道",龙华经典
 http://220.135.64.124:5050/litv-longturn21/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华卡通4Gtv" tvg-logo="https://logo.catvod.com/龙华卡通4Gtv.png" group-title="4GTV-台湾频道",龙华卡通4Gtv
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="4GTV-台湾频道",龙华卡通
 http://220.135.64.124:5050/li-litv-longturn01/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华卡通4Gtv" tvg-logo="https://logo.catvod.com/龙华卡通4Gtv.png" group-title="4GTV-台湾频道",龙华卡通4Gtv
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="4GTV-台湾频道",龙华卡通
 http://220.135.64.124:5050/litv-longturn01/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华偶像4Gtv" tvg-logo="https://logo.catvod.com/龙华偶像4Gtv.png" group-title="4GTV-台湾频道",龙华偶像4Gtv
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://logo.catvod.com/龙华偶像.png" group-title="4GTV-台湾频道",龙华偶像
 http://220.135.64.124:5050/li-litv-longturn12/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华偶像4Gtv" tvg-logo="https://logo.catvod.com/龙华偶像4Gtv.png" group-title="4GTV-台湾频道",龙华偶像4Gtv
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://logo.catvod.com/龙华偶像.png" group-title="4GTV-台湾频道",龙华偶像
 http://220.135.64.124:5050/litv-longturn12/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华日韩4Gtv" tvg-logo="https://logo.catvod.com/龙华日韩4Gtv.png" group-title="4GTV-台湾频道",龙华日韩4Gtv
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://logo.catvod.com/龙华日韩.png" group-title="4GTV-台湾频道",龙华日韩
 http://220.135.64.124:5050/li-litv-longturn11/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华日韩4Gtv" tvg-logo="https://logo.catvod.com/龙华日韩4Gtv.png" group-title="4GTV-台湾频道",龙华日韩4Gtv
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://logo.catvod.com/龙华日韩.png" group-title="4GTV-台湾频道",龙华日韩
 http://220.135.64.124:5050/litv-longturn11/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华戏剧4Gtv" tvg-logo="https://logo.catvod.com/龙华戏剧4Gtv.png" group-title="4GTV-台湾频道",龙华戏剧4Gtv
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://logo.catvod.com/龙华戏剧.png" group-title="4GTV-台湾频道",龙华戏剧
 http://220.135.64.124:5050/li-litv-longturn18/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华戏剧4Gtv" tvg-logo="https://logo.catvod.com/龙华戏剧4Gtv.png" group-title="4GTV-台湾频道",龙华戏剧4Gtv
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://logo.catvod.com/龙华戏剧.png" group-title="4GTV-台湾频道",龙华戏剧
 http://220.135.64.124:5050/litv-longturn18/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华洋片4Gtv" tvg-logo="https://logo.catvod.com/龙华洋片4Gtv.png" group-title="4GTV-台湾频道",龙华洋片4Gtv
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://logo.catvod.com/龙华洋片.png" group-title="4GTV-台湾频道",龙华洋片
 http://220.135.64.124:5050/li-litv-longturn02/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华洋片4Gtv" tvg-logo="https://logo.catvod.com/龙华洋片4Gtv.png" group-title="4GTV-台湾频道",龙华洋片4Gtv
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://logo.catvod.com/龙华洋片.png" group-title="4GTV-台湾频道",龙华洋片
 http://220.135.64.124:5050/litv-longturn02/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="美国之音4Gtv" tvg-logo="https://logo.catvod.com/美国之音4Gtv.png" group-title="4GTV-台湾频道",美国之音4Gtv
+#EXTINF:-1 tvg-name="美国之音" tvg-logo="https://logo.catvod.com/美国之音.png" group-title="4GTV-台湾频道",美国之音
 http://220.135.64.124:5050/li-litv-ftv03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="美国之音4Gtv" tvg-logo="https://logo.catvod.com/美国之音4Gtv.png" group-title="4GTV-台湾频道",美国之音4Gtv
+#EXTINF:-1 tvg-name="美国之音" tvg-logo="https://logo.catvod.com/美国之音.png" group-title="4GTV-台湾频道",美国之音
 http://220.135.64.124:5050/litv-ftv03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视第一4Gtv" tvg-logo="https://logo.catvod.com/民视第一4Gtv.png" group-title="4GTV-台湾频道",民视第一4Gtv
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://logo.catvod.com/民视第一.png" group-title="4GTV-台湾频道",民视第一
 http://220.135.64.124:5050/4gtv-4gtv003/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视第一4Gtv" tvg-logo="https://logo.catvod.com/民视第一4Gtv.png" group-title="4GTV-台湾频道",民视第一4Gtv
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://logo.catvod.com/民视第一.png" group-title="4GTV-台湾频道",民视第一
 http://220.135.64.124:5050/li-4gtv-4gtv003/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视旅游4Gtv" tvg-logo="https://logo.catvod.com/民视旅游4Gtv.png" group-title="4GTV-台湾频道",民视旅游4Gtv
+#EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://logo.catvod.com/民视旅游.png" group-title="4GTV-台湾频道",民视旅游
 http://220.135.64.124:5050/li-litv-ftv07/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视旅游4Gtv" tvg-logo="https://logo.catvod.com/民视旅游4Gtv.png" group-title="4GTV-台湾频道",民视旅游4Gtv
+#EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://logo.catvod.com/民视旅游.png" group-title="4GTV-台湾频道",民视旅游
 http://220.135.64.124:5050/litv-ftv07/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视闽南4Gtv" tvg-logo="https://logo.catvod.com/民视闽南4Gtv.png" group-title="4GTV-台湾频道",民视闽南4Gtv
+#EXTINF:-1 tvg-name="民视闽南" tvg-logo="https://logo.catvod.com/民视闽南.png" group-title="4GTV-台湾频道",民视闽南
 http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视闽南4Gtv" tvg-logo="https://logo.catvod.com/民视闽南4Gtv.png" group-title="4GTV-台湾频道",民视闽南4Gtv
+#EXTINF:-1 tvg-name="民视闽南" tvg-logo="https://logo.catvod.com/民视闽南.png" group-title="4GTV-台湾频道",民视闽南
 http://220.135.64.124:5050/4gtv-4gtv155/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视闽南4Gtv" tvg-logo="https://logo.catvod.com/民视闽南4Gtv.png" group-title="4GTV-台湾频道",民视闽南4Gtv
+#EXTINF:-1 tvg-name="民视闽南" tvg-logo="https://logo.catvod.com/民视闽南.png" group-title="4GTV-台湾频道",民视闽南
 http://220.135.64.124:5050/4gtv-live050/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视台湾4Gtv" tvg-logo="https://logo.catvod.com/民视台湾4Gtv.png" group-title="4GTV-台湾频道",民视台湾4Gtv
+#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://logo.catvod.com/民视台湾.png" group-title="4GTV-台湾频道",民视台湾
 http://220.135.64.124:5050/4gtv-4gtv001/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视台湾4Gtv" tvg-logo="https://logo.catvod.com/民视台湾4Gtv.png" group-title="4GTV-台湾频道",民视台湾4Gtv
+#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://logo.catvod.com/民视台湾.png" group-title="4GTV-台湾频道",民视台湾
 http://220.135.64.124:5050/li-4gtv-4gtv001/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视新闻4Gtv" tvg-logo="https://logo.catvod.com/民视新闻4Gtv.png" group-title="4GTV-台湾频道",民视新闻4Gtv
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="4GTV-台湾频道",民视新闻
 http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视新闻4Gtv" tvg-logo="https://logo.catvod.com/民视新闻4Gtv.png" group-title="4GTV-台湾频道",民视新闻4Gtv
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="4GTV-台湾频道",民视新闻
 http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视影剧4Gtv" tvg-logo="https://logo.catvod.com/民视影剧4Gtv.png" group-title="4GTV-台湾频道",民视影剧4Gtv
+#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://logo.catvod.com/民视影剧.png" group-title="4GTV-台湾频道",民视影剧
 http://220.135.64.124:5050/li-litv-ftv09/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视影剧4Gtv" tvg-logo="https://logo.catvod.com/民视影剧4Gtv.png" group-title="4GTV-台湾频道",民视影剧4Gtv
+#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://logo.catvod.com/民视影剧.png" group-title="4GTV-台湾频道",民视影剧
 http://220.135.64.124:5050/litv-ftv09/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视综艺4Gtv" tvg-logo="https://logo.catvod.com/民视综艺4Gtv.png" group-title="4GTV-台湾频道",民视综艺4Gtv
+#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://logo.catvod.com/民视综艺.png" group-title="4GTV-台湾频道",民视综艺
 http://220.135.64.124:5050/4gtv-4gtv004/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视综艺4Gtv" tvg-logo="https://logo.catvod.com/民视综艺4Gtv.png" group-title="4GTV-台湾频道",民视综艺4Gtv
+#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://logo.catvod.com/民视综艺.png" group-title="4GTV-台湾频道",民视综艺
 http://220.135.64.124:5050/li-4gtv-4gtv004/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="闽镜新闻4Gtv" tvg-logo="https://logo.catvod.com/闽镜新闻4Gtv.png" group-title="4GTV-台湾频道",闽镜新闻4Gtv
+#EXTINF:-1 tvg-name="闽镜新闻" tvg-logo="https://logo.catvod.com/闽镜新闻.png" group-title="4GTV-台湾频道",闽镜新闻
 http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="闽镜新闻4Gtv" tvg-logo="https://logo.catvod.com/闽镜新闻4Gtv.png" group-title="4GTV-台湾频道",闽镜新闻4Gtv
+#EXTINF:-1 tvg-name="闽镜新闻" tvg-logo="https://logo.catvod.com/闽镜新闻.png" group-title="4GTV-台湾频道",闽镜新闻
 http://220.135.64.124:5050/li-4gtv-4gtv075/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="闽南戏剧4Gtv" tvg-logo="https://logo.catvod.com/闽南戏剧4Gtv.png" group-title="4GTV-台湾频道",闽南戏剧4Gtv
+#EXTINF:-1 tvg-name="闽南戏剧" tvg-logo="https://logo.catvod.com/闽南戏剧.png" group-title="4GTV-台湾频道",闽南戏剧
 http://220.135.64.124:5050/li-litv-longturn22/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="闽南戏剧4Gtv" tvg-logo="https://logo.catvod.com/闽南戏剧4Gtv.png" group-title="4GTV-台湾频道",闽南戏剧4Gtv
+#EXTINF:-1 tvg-name="闽南戏剧" tvg-logo="https://logo.catvod.com/闽南戏剧.png" group-title="4GTV-台湾频道",闽南戏剧
 http://220.135.64.124:5050/litv-longturn22/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="欧洲电影4Gtv" tvg-logo="https://logo.catvod.com/欧洲电影4Gtv.png" group-title="4GTV-台湾频道",欧洲电影4Gtv
+#EXTINF:-1 tvg-name="欧洲电影" tvg-logo="https://logo.catvod.com/欧洲电影.png" group-title="4GTV-台湾频道",欧洲电影
 http://220.135.64.124:5050/4gtv-live157/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="霹雳布袋4Gtv" tvg-logo="https://logo.catvod.com/霹雳布袋4Gtv.png" group-title="4GTV-台湾频道",霹雳布袋4Gtv
+#EXTINF:-1 tvg-name="霹雳布袋" tvg-logo="https://logo.catvod.com/霹雳布袋.png" group-title="4GTV-台湾频道",霹雳布袋
 http://220.135.64.124:5050/4gtv-live145/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="全球财经4Gtv" tvg-logo="https://logo.catvod.com/全球财经4Gtv.png" group-title="4GTV-台湾频道",全球财经4Gtv
+#EXTINF:-1 tvg-name="全球财经" tvg-logo="https://logo.catvod.com/全球财经.png" group-title="4GTV-台湾频道",全球财经
 http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="人间卫视4Gtv" tvg-logo="https://logo.catvod.com/人间卫视4Gtv.png" group-title="4GTV-台湾频道",人间卫视4Gtv
+#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://logo.catvod.com/人间卫视.png" group-title="4GTV-台湾频道",人间卫视
 http://220.135.64.124:5050/4gtv-live008/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="三立新闻4Gtv" tvg-logo="https://logo.catvod.com/三立新闻4Gtv.png" group-title="4GTV-台湾频道",三立新闻4Gtv
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.catvod.com/三立新闻.png" group-title="4GTV-台湾频道",三立新闻
 http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="三立新闻4Gtv" tvg-logo="https://logo.catvod.com/三立新闻4Gtv.png" group-title="4GTV-台湾频道",三立新闻4Gtv
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.catvod.com/三立新闻.png" group-title="4GTV-台湾频道",三立新闻
 http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="三立综合4Gtv" tvg-logo="https://logo.catvod.com/三立综合4Gtv.png" group-title="4GTV-台湾频道",三立综合4Gtv
+#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://logo.catvod.com/三立综合.png" group-title="4GTV-台湾频道",三立综合
 http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="生活英语4Gtv" tvg-logo="https://logo.catvod.com/生活英语4Gtv.png" group-title="4GTV-台湾频道",生活英语4Gtv
+#EXTINF:-1 tvg-name="生活英语" tvg-logo="https://logo.catvod.com/生活英语.png" group-title="4GTV-台湾频道",生活英语
 http://220.135.64.124:5050/li-litv-longturn20/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="生活英语4Gtv" tvg-logo="https://logo.catvod.com/生活英语4Gtv.png" group-title="4GTV-台湾频道",生活英语4Gtv
+#EXTINF:-1 tvg-name="生活英语" tvg-logo="https://logo.catvod.com/生活英语.png" group-title="4GTV-台湾频道",生活英语
 http://220.135.64.124:5050/litv-longturn20/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="生活英语4Gtv" tvg-logo="https://logo.catvod.com/生活英语4Gtv.png" group-title="4GTV-台湾频道",生活英语4Gtv
+#EXTINF:-1 tvg-name="生活英语" tvg-logo="https://logo.catvod.com/生活英语.png" group-title="4GTV-台湾频道",生活英语
 http://220.135.64.124:5050/of-litv-longturn20/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="时尚运动4Gtv" tvg-logo="https://logo.catvod.com/时尚运动4Gtv.png" group-title="4GTV-台湾频道",时尚运动4Gtv
+#EXTINF:-1 tvg-name="时尚运动" tvg-logo="https://logo.catvod.com/时尚运动.png" group-title="4GTV-台湾频道",时尚运动
 http://220.135.64.124:5050/4gtv-4gtv014/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="时尚运动4Gtv" tvg-logo="https://logo.catvod.com/时尚运动4Gtv.png" group-title="4GTV-台湾频道",时尚运动4Gtv
+#EXTINF:-1 tvg-name="时尚运动" tvg-logo="https://logo.catvod.com/时尚运动.png" group-title="4GTV-台湾频道",时尚运动
 http://220.135.64.124:5050/li-4gtv-4gtv014/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="数位电影4Gtv" tvg-logo="https://logo.catvod.com/数位电影4Gtv.png" group-title="4GTV-台湾频道",数位电影4Gtv
+#EXTINF:-1 tvg-name="数位电影" tvg-logo="https://logo.catvod.com/数位电影.png" group-title="4GTV-台湾频道",数位电影
 http://220.135.64.124:5050/4gtv-4gtv011/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="数位电影4Gtv" tvg-logo="https://logo.catvod.com/数位电影4Gtv.png" group-title="4GTV-台湾频道",数位电影4Gtv
+#EXTINF:-1 tvg-name="数位电影" tvg-logo="https://logo.catvod.com/数位电影.png" group-title="4GTV-台湾频道",数位电影
 http://220.135.64.124:5050/li-4gtv011/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台视财经4Gtv" tvg-logo="https://logo.catvod.com/台视财经4Gtv.png" group-title="4GTV-台湾频道",台视财经4Gtv
+#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://logo.catvod.com/台视财经.png" group-title="4GTV-台湾频道",台视财经
 http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台视闽南4Gtv" tvg-logo="https://logo.catvod.com/台视闽南4Gtv.png" group-title="4GTV-台湾频道",台视闽南4Gtv
+#EXTINF:-1 tvg-name="台视闽南" tvg-logo="https://logo.catvod.com/台视闽南.png" group-title="4GTV-台湾频道",台视闽南
 http://220.135.64.124:5050/4gtv-4gtv066/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台视闽南4Gtv" tvg-logo="https://logo.catvod.com/台视闽南4Gtv.png" group-title="4GTV-台湾频道",台视闽南4Gtv
+#EXTINF:-1 tvg-name="台视闽南" tvg-logo="https://logo.catvod.com/台视闽南.png" group-title="4GTV-台湾频道",台视闽南
 http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台视新闻4Gtv" tvg-logo="https://logo.catvod.com/台视新闻4Gtv.png" group-title="4GTV-台湾频道",台视新闻4Gtv
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="4GTV-台湾频道",台视新闻
 http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台视新闻4Gtv" tvg-logo="https://logo.catvod.com/台视新闻4Gtv.png" group-title="4GTV-台湾频道",台视新闻4Gtv
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="4GTV-台湾频道",台视新闻
 http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="戏剧壹台4Gtv" tvg-logo="https://logo.catvod.com/戏剧壹台4Gtv.png" group-title="4GTV-台湾频道",戏剧壹台4Gtv
+#EXTINF:-1 tvg-name="戏剧壹台" tvg-logo="https://logo.catvod.com/戏剧壹台.png" group-title="4GTV-台湾频道",戏剧壹台
 http://220.135.64.124:5050/4gtv-live010/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="亚洲旅游4Gtv" tvg-logo="https://logo.catvod.com/亚洲旅游4Gtv.png" group-title="4GTV-台湾频道",亚洲旅游4Gtv
+#EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://logo.catvod.com/亚洲旅游.png" group-title="4GTV-台湾频道",亚洲旅游
 http://220.135.64.124:5050/4gtv-4gtv076/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="亚洲旅游4Gtv" tvg-logo="https://logo.catvod.com/亚洲旅游4Gtv.png" group-title="4GTV-台湾频道",亚洲旅游4Gtv
+#EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://logo.catvod.com/亚洲旅游.png" group-title="4GTV-台湾频道",亚洲旅游
 http://220.135.64.124:5050/li-4gtv-4gtv076/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="亚洲旅游4Gtv" tvg-logo="https://logo.catvod.com/亚洲旅游4Gtv.png" group-title="4GTV-台湾频道",亚洲旅游4Gtv
+#EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://logo.catvod.com/亚洲旅游.png" group-title="4GTV-台湾频道",亚洲旅游
 http://220.135.64.124:5050/of-4gtv-4gtv076/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="影迷纪实4Gtv" tvg-logo="https://logo.catvod.com/影迷纪实4Gtv.png" group-title="4GTV-台湾频道",影迷纪实4Gtv
+#EXTINF:-1 tvg-name="影迷纪实" tvg-logo="https://logo.catvod.com/影迷纪实.png" group-title="4GTV-台湾频道",影迷纪实
 http://220.135.64.124:5050/li-litv-ftv15/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="影迷纪实4Gtv" tvg-logo="https://logo.catvod.com/影迷纪实4Gtv.png" group-title="4GTV-台湾频道",影迷纪实4Gtv
+#EXTINF:-1 tvg-name="影迷纪实" tvg-logo="https://logo.catvod.com/影迷纪实.png" group-title="4GTV-台湾频道",影迷纪实
 http://220.135.64.124:5050/litv-ftv15/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="原住民族4Gtv" tvg-logo="https://logo.catvod.com/原住民族4Gtv.png" group-title="4GTV-台湾频道",原住民族4Gtv
+#EXTINF:-1 tvg-name="原住民族" tvg-logo="https://logo.catvod.com/原住民族.png" group-title="4GTV-台湾频道",原住民族
 http://220.135.64.124:5050/4gtv-live014/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="智林体育4Gtv" tvg-logo="https://logo.catvod.com/智林体育4Gtv.png" group-title="4GTV-台湾频道",智林体育4Gtv
+#EXTINF:-1 tvg-name="智林体育" tvg-logo="https://logo.catvod.com/智林体育.png" group-title="4GTV-台湾频道",智林体育
 http://220.135.64.124:5050/4gtv-4gtv101/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="智林体育4Gtv" tvg-logo="https://logo.catvod.com/智林体育4Gtv.png" group-title="4GTV-台湾频道",智林体育4Gtv
+#EXTINF:-1 tvg-name="智林体育" tvg-logo="https://logo.catvod.com/智林体育.png" group-title="4GTV-台湾频道",智林体育
 http://220.135.64.124:5050/li-4gtv-4gtv101/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中视经典4Gtv" tvg-logo="https://logo.catvod.com/中视经典4Gtv.png" group-title="4GTV-台湾频道",中视经典4Gtv
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://logo.catvod.com/中视经典.png" group-title="4GTV-台湾频道",中视经典
 http://220.135.64.124:5050/4gtv-4gtv080/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中视经典4Gtv" tvg-logo="https://logo.catvod.com/中视经典4Gtv.png" group-title="4GTV-台湾频道",中视经典4Gtv
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://logo.catvod.com/中视经典.png" group-title="4GTV-台湾频道",中视经典
 http://220.135.64.124:5050/li-4gtv-4gtv080/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中视菁采4Gtv" tvg-logo="https://logo.catvod.com/中视菁采4Gtv.png" group-title="4GTV-台湾频道",中视菁采4Gtv
+#EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://logo.catvod.com/中视菁采.png" group-title="4GTV-台湾频道",中视菁采
 http://220.135.64.124:5050/4gtv-4gtv064/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中视菁采4Gtv" tvg-logo="https://logo.catvod.com/中视菁采4Gtv.png" group-title="4GTV-台湾频道",中视菁采4Gtv
+#EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://logo.catvod.com/中视菁采.png" group-title="4GTV-台湾频道",中视菁采
 http://220.135.64.124:5050/li-4gtv-4gtv064/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中视闽南4Gtv" tvg-logo="https://logo.catvod.com/中视闽南4Gtv.png" group-title="4GTV-台湾频道",中视闽南4Gtv
+#EXTINF:-1 tvg-name="中视闽南" tvg-logo="https://logo.catvod.com/中视闽南.png" group-title="4GTV-台湾频道",中视闽南
 http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中视闽南4Gtv" tvg-logo="https://logo.catvod.com/中视闽南4Gtv.png" group-title="4GTV-台湾频道",中视闽南4Gtv
+#EXTINF:-1 tvg-name="中视闽南" tvg-logo="https://logo.catvod.com/中视闽南.png" group-title="4GTV-台湾频道",中视闽南
 http://220.135.64.124:5050/li-4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中视闽南4Gtv" tvg-logo="https://logo.catvod.com/中视闽南4Gtv.png" group-title="4GTV-台湾频道",中视闽南4Gtv
+#EXTINF:-1 tvg-name="中视闽南" tvg-logo="https://logo.catvod.com/中视闽南.png" group-title="4GTV-台湾频道",中视闽南
 http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中视新闻4Gtv" tvg-logo="https://logo.catvod.com/中视新闻4Gtv.png" group-title="4GTV-台湾频道",中视新闻4Gtv
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="4GTV-台湾频道",中视新闻
 http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中视新闻4Gtv" tvg-logo="https://logo.catvod.com/中视新闻4Gtv.png" group-title="4GTV-台湾频道",中视新闻4Gtv
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="4GTV-台湾频道",中视新闻
 http://220.135.64.124:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中视新闻4Gtv" tvg-logo="https://logo.catvod.com/中视新闻4Gtv.png" group-title="4GTV-台湾频道",中视新闻4Gtv
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="4GTV-台湾频道",中视新闻
 http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中天新闻4Gtv" tvg-logo="https://logo.catvod.com/中天新闻4Gtv.png" group-title="4GTV-台湾频道",中天新闻4Gtv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="4GTV-台湾频道",中天新闻
 http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中天新闻4Gtv" tvg-logo="https://logo.catvod.com/中天新闻4Gtv.png" group-title="4GTV-台湾频道",中天新闻4Gtv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="4GTV-台湾频道",中天新闻
 http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中天新闻4Gtv" tvg-logo="https://logo.catvod.com/中天新闻4Gtv.png" group-title="4GTV-台湾频道",中天新闻4Gtv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="4GTV-台湾频道",中天新闻
 http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="猪哥亮厅4Gtv" tvg-logo="https://logo.catvod.com/猪哥亮厅4Gtv.png" group-title="4GTV-台湾频道",猪哥亮厅4Gtv
+#EXTINF:-1 tvg-name="猪哥亮厅" tvg-logo="https://logo.catvod.com/猪哥亮厅.png" group-title="4GTV-台湾频道",猪哥亮厅
 http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="猪哥亮厅4Gtv" tvg-logo="https://logo.catvod.com/猪哥亮厅4Gtv.png" group-title="4GTV-台湾频道",猪哥亮厅4Gtv
+#EXTINF:-1 tvg-name="猪哥亮厅" tvg-logo="https://logo.catvod.com/猪哥亮厅.png" group-title="4GTV-台湾频道",猪哥亮厅
 http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="罪案侦查4Gtv" tvg-logo="https://logo.catvod.com/罪案侦查4Gtv.png" group-title="4GTV-台湾频道",罪案侦查4Gtv
+#EXTINF:-1 tvg-name="罪案侦查" tvg-logo="https://logo.catvod.com/罪案侦查.png" group-title="4GTV-台湾频道",罪案侦查
 http://220.135.64.124:5050/4gtv-live027/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="咪咕--央视频道",CCTV-1 综合
 https://migu.188766.xyz/?migutoken=f4cb2067a7fa0ef87d9e8eb42d18c5d4&id=CCTV1&type=yy
