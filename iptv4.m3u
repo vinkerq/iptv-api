@@ -61,6 +61,14 @@ https://stream1.freetv.fun/shan-tou-zong-he-11.ctv
 http://124.222.114.206/sxtv.php?id=st2
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="汕头频道",汕头综合
 http://124.222.114.206/sxtv.php?id=st1
+#EXTINF:-1 tvg-name="邵氏电影" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="邵氏电影",邵氏电影
+http://rihou.cc:555/tv/[FY]邵氏电影
+#EXTINF:-1 tvg-name="邵氏武侠" tvg-logo="https://logo.catvod.com/邵氏武侠.png" group-title="邵氏电影",邵氏武侠
+http://rihou.cc:555/tv/[FY]邵氏武侠
+#EXTINF:-1 tvg-name="邵氏动作" tvg-logo="https://logo.catvod.com/邵氏动作.png" group-title="邵氏电影",邵氏动作
+http://rihou.cc:555/tv/[FY]邵氏动作
+#EXTINF:-1 tvg-name="邵氏喜剧" tvg-logo="https://logo.catvod.com/邵氏喜剧.png" group-title="邵氏电影",邵氏喜剧
+http://rihou.cc:555/tv/[FY]邵氏喜剧
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="IPTV-央视频道",CCTV-1
 http://183.11.239.36:808/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="IPTV-央视频道",CCTV-1
