@@ -18,6 +18,17 @@
 汕头综合,http://183.30.201.66:10002/udp/239.253.43.30:5146
 汕头经济生活,http://124.222.114.206/sxtv.php?id=st2
 汕头综合,http://124.222.114.206/sxtv.php?id=st1
+C6-澳视澳门,https://cdn6.101.qzz.io/163189/asam
+C6-功夫台,https://cdn6.101.qzz.io/163189/yzwx
+C6-Plus综合,https://cdn6.101.qzz.io/163189/tvbp
+C6-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+C6-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+C6-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+C6-无线新闻,https://cdn6.101.qzz.io/163189/wxxw
+C6-无线翡翠,https://cdn6.101.qzz.io/163189/fct
+C6-无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+C6-无线功夫,https://cdn6.101.qzz.io/163189/yzwx
+C6-澳视澳门,https://cdn6.101.qzz.io/163189/asam
 JD-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 JD-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 JD-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
@@ -4193,4 +4204,5 @@ tvbs综艺,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 猪哥亮厅,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 罪案侦查,http://220.135.64.124:5050/4gtv-live027/index.m3u8?proxy=true
+
 
