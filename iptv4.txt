@@ -628,12 +628,6 @@ CGTN,http://113.233.136.34:3151/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&au
 风尚购物,http://113.233.136.34:3151/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
 风尚购物,http://113.233.142.137:3150/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
 UDP-广电央视频道,#genre#
-CCTV-1,http://1.183.176.155:4022/udp/239.29.0.189:5000
-CCTV-1,http://1.183.176.155:4022/udp/239.29.0.176:5000
-CCTV-1,http://1.183.176.155:4022/udp/239.29.1.102:5000
-CCTV-1,http://1.183.176.155:4022/udp/239.29.1.104:5000
-CCTV-1,http://1.183.176.155:4022/udp/239.29.1.108:5000
-CCTV-1,http://1.183.176.155:4022/udp/239.29.1.128:5000
 CCTV-1,http://1.183.176.155:4022/udp/239.29.0.113:5000
 CCTV-1,http://114.221.3.64:4022/rtp/239.49.8.129:6000
 CCTV-1,http://114.221.3.64:4022/rtp/239.49.1.1:6000
@@ -4035,3 +4029,4 @@ tvbs综艺,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 猪哥亮厅,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 罪案侦查,http://220.135.64.124:5050/4gtv-live027/index.m3u8?proxy=true
+
