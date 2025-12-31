@@ -15,10 +15,50 @@ http://14.21.173.14:8888/udp/239.253.43.45:5146
 http://14.21.173.14:8888/udp/239.77.0.251:5146
 #EXTINF:-1 tvg-name="揭阳综合高清" tvg-logo="https://logo.catvod.com/揭阳综合高清.png" group-title="汕头频道",揭阳综合高清
 http://14.21.173.14:8888/udp/239.77.0.229:5146
-#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://logo.catvod.com/汕头经济生活.png" group-title="汕头频道",汕头经济生活
+#EXTINF:-1 tvg-name="速播-汕头经济生活" tvg-logo="https://logo.catvod.com/速播-汕头经济生活.png" group-title="汕头频道",速播-汕头经济生活
 http://124.222.114.206/sxtv.php?id=st2
-#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="汕头频道",汕头综合
+#EXTINF:-1 tvg-name="速播-汕头综合" tvg-logo="https://logo.catvod.com/速播-汕头综合.png" group-title="汕头频道",速播-汕头综合
 http://124.222.114.206/sxtv.php?id=st1
+#EXTINF:-1 tvg-name="抖音央视3" tvg-logo="https://logo.catvod.com/抖音央视3.png" group-title="汕头频道",抖音央视3
+https://live.iill.top/douyin/662843050230
+#EXTINF:-1 tvg-name="周星星电影" tvg-logo="https://logo.catvod.com/周星星电影.png" group-title="虎牙直播",周星星电影
+https://live.iill.top/huya/11342412
+#EXTINF:-1 tvg-name="星爷电影" tvg-logo="https://logo.catvod.com/星爷电影.png" group-title="虎牙直播",星爷电影
+https://live.iill.top/huya/30764430
+#EXTINF:-1 tvg-name="林正英电影" tvg-logo="https://logo.catvod.com/林正英电影.png" group-title="虎牙直播",林正英电影
+https://live.iill.top/huya/30663102
+#EXTINF:-1 tvg-name="林正英电影2" tvg-logo="https://logo.catvod.com/林正英电影2.png" group-title="虎牙直播",林正英电影2
+https://live.iill.top/huya/25132009
+#EXTINF:-1 tvg-name="李连杰电影" tvg-logo="https://logo.catvod.com/李连杰电影.png" group-title="虎牙直播",李连杰电影
+https://live.iill.top/huya/30650512
+#EXTINF:-1 tvg-name="王晶电影" tvg-logo="https://logo.catvod.com/王晶电影.png" group-title="虎牙直播",王晶电影
+https://live.iill.top/huya/11602058
+#EXTINF:-1 tvg-name="高评电影1" tvg-logo="https://logo.catvod.com/高评电影1.png" group-title="虎牙直播",高评电影1
+https://live.iill.top/huya/30509122
+#EXTINF:-1 tvg-name="高评电影2" tvg-logo="https://logo.catvod.com/高评电影2.png" group-title="虎牙直播",高评电影2
+https://live.iill.top/huya/30985606
+#EXTINF:-1 tvg-name="金庸武侠电影" tvg-logo="https://logo.catvod.com/金庸武侠电影.png" group-title="虎牙直播",金庸武侠电影
+https://live.iill.top/huya/30650192
+#EXTINF:-1 tvg-name="橙子港剧" tvg-logo="https://logo.catvod.com/橙子港剧.png" group-title="虎牙直播",橙子港剧
+https://live.iill.top/huya/30590779
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://logo.catvod.com/爱情公寓.png" group-title="虎牙直播",爱情公寓
+https://live.iill.top/huya/11336726
+#EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://logo.catvod.com/地下交通站.png" group-title="虎牙直播",地下交通站
+https://live.iill.top/huya/11342433
+#EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://logo.catvod.com/家有儿女.png" group-title="虎牙直播",家有儿女
+https://live.iill.top/huya/30526426
+#EXTINF:-1 tvg-name="家有儿女2" tvg-logo="https://logo.catvod.com/家有儿女2.png" group-title="虎牙直播",家有儿女2
+https://live.iill.top/huya/30523326
+#EXTINF:-1 tvg-name="西游记" tvg-logo="https://logo.catvod.com/西游记.png" group-title="虎牙直播",西游记
+https://live.iill.top/huya/20985836
+#EXTINF:-1 tvg-name="蜡笔小新动画" tvg-logo="https://logo.catvod.com/蜡笔小新动画.png" group-title="虎牙直播",蜡笔小新动画
+https://live.iill.top/huya/30362138
+#EXTINF:-1 tvg-name="蜡笔小新动画2" tvg-logo="https://logo.catvod.com/蜡笔小新动画2.png" group-title="虎牙直播",蜡笔小新动画2
+https://live.iill.top/huya/30065341
+#EXTINF:-1 tvg-name="蜡笔小新动画3" tvg-logo="https://logo.catvod.com/蜡笔小新动画3.png" group-title="虎牙直播",蜡笔小新动画3
+https://live.iill.top/huya/29862625
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://logo.catvod.com/海绵宝宝.png" group-title="虎牙直播",海绵宝宝
+https://live.iill.top/huya/11352919
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="IPTV-央视频道",CCTV-1
 http://123.149.236.96:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="IPTV-央视频道",CCTV-1
