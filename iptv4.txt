@@ -30,6 +30,9 @@
 
 抖音央视,#genre#
 央视新闻,https://pull-flv-f11.douyincdn.com/media/stream-695068581185454764.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768673359&major_anchor_level=common&sign=0f375e96b840d439ff3c00f524b0efe2&t_id=037-20260111020918E224CBFD256B174C1641-mcnDEc&unique_id=stream-695068581185454764_684_flv&_session_id=037-20260111020918E224CBFD256B174C1641-mcnDEc.1768068559390.08926&rsi=1&abr_pts=-800
+央视新闻,https://pull-flv-f11.douyinliving.com/media/stream-406882884905861970_sd.flv?arch_hrchy=s2&expire=1768678778&major_anchor_level=vip&s_anchor=1&sign=907285c88be5c13822e5e3d5640b0884&t_id=037-202601110339382C87C617A9F8F717C299-aji3uC&unique_id=stream-406882884905861970_850_flv_sd&_session_id=037-202601110339382C87C617A9F8F717C299-aji3uC.1768073978820.03081&rsi=1&abr_pts=-800
+央视财经,https://pull-flv-f1.douyincdn.com/media/stream-695106910011261612_sd.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601110337488B3AF34B80DB2E4618C0-8zhKcz&unique_id=stream-695106910011261612_684_flv_sd&wsSecret=36f49899ee65472ae60c84ee0936624e&wsTime=6962aa8d&_session_id=037-202601110337488B3AF34B80DB2E4618C0-8zhKcz.1768073869573.97551&rsi=1&abr_pts=-800
+央视电影,https://pull-flv-f26.douyincdn.com/media/stream-695105846739731116_sd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=696be546&major_anchor_level=common&sign=db26586bfcb33c5886a06fa90c0e511c&t_id=037-20260111033846B2452493F866235358A3-RPEg3W&unique_id=stream-695105846739731116_684_flv_sd&_session_id=037-20260111033846B2452493F866235358A3-RPEg3W.1768073926720.68214&rsi=1&abr_pts=-800
 # 更新时间: 2026-01-10 15:41:18
 央视频道,#genre#
 CCTV1,http://113.218.204.144:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -4819,4 +4822,5 @@ tvbs综艺,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 猪哥亮厅,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 罪案侦查,http://220.135.64.124:5050/4gtv-live027/index.m3u8?proxy=true
+
 
