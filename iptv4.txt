@@ -28,6 +28,8 @@
 速播-汕头经济生活,http://124.222.114.206/sxtv.php?id=st2
 速播-汕头综合,http://124.222.114.206/sxtv.php?id=st1
 
+抖音央视,#genre#
+央视新闻,https://pull-flv-f11.douyincdn.com/media/stream-695068581185454764.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768673359&major_anchor_level=common&sign=0f375e96b840d439ff3c00f524b0efe2&t_id=037-20260111020918E224CBFD256B174C1641-mcnDEc&unique_id=stream-695068581185454764_684_flv&_session_id=037-20260111020918E224CBFD256B174C1641-mcnDEc.1768068559390.08926&rsi=1&abr_pts=-800
 # 更新时间: 2026-01-10 15:41:18
 央视频道,#genre#
 CCTV1,http://113.218.204.144:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -4817,3 +4819,4 @@ tvbs综艺,http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
 猪哥亮厅,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 罪案侦查,http://220.135.64.124:5050/4gtv-live027/index.m3u8?proxy=true
+
