@@ -1,8 +1,8 @@
 汕头频道,#genre#
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-2.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he.m3u8
-速播-汕头经济生活,http://124.222.114.206/sxtv.php?id=st2
-速播-汕头综合,http://124.222.114.206/sxtv.php?id=st1
+速-汕头综合,http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146
+速-汕头经济生活,http://pr.19760929.xyz:9688/rtp/239.253.43.46:5146
 
 # 更新时间: 2026-01-12 19:13:44
 央视频道,#genre#
