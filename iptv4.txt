@@ -1,4 +1,4 @@
-汕头频道,#genre#
+汕头频道更新-2026-1-21,#genre#
 汕头,http://183.10.180.107:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
 汕头,http://183.10.180.48:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
 汕头,http://183.10.180.111:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
