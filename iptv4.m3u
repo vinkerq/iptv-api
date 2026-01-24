@@ -1,83 +1,83 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道",汕头
+#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道-2026-1-25",汕头
 http://183.10.180.55:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道",汕头
+#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道-2026-1-25",汕头
 http://183.10.180.52:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道",汕头
+#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道-2026-1-25",汕头
 http://183.10.180.51:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道",汕头
+#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道-2026-1-25",汕头
 http://183.10.180.50:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道",汕头
+#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道-2026-1-25",汕头
 http://183.10.180.49:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道",汕头
+#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道-2026-1-25",汕头
 http://183.10.180.3:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道",汕头
+#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道-2026-1-25",汕头
 http://183.10.180.245:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道",汕头
+#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道-2026-1-25",汕头
 http://183.10.180.238:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道",汕头
+#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道-2026-1-25",汕头
 http://183.10.180.235:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道",汕头
+#EXTINF:-1 tvg-name="汕头" tvg-logo="https://logo.catvod.com/汕头.png" group-title="汕头频道-2026-1-25",汕头
 http://183.10.180.231:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道-2026-1-25",汕头经济
 http://183.10.180.55:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道-2026-1-25",汕头经济
 http://183.10.180.52:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道-2026-1-25",汕头经济
 http://183.10.180.51:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道-2026-1-25",汕头经济
 http://183.10.180.50:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道-2026-1-25",汕头经济
 http://183.10.180.49:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道-2026-1-25",汕头经济
 http://183.10.180.3:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道-2026-1-25",汕头经济
 http://183.10.180.245:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道-2026-1-25",汕头经济
 http://183.10.180.238:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道-2026-1-25",汕头经济
 http://183.10.180.235:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道",汕头经济
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://logo.catvod.com/汕头经济.png" group-title="汕头频道-2026-1-25",汕头经济
 http://183.10.180.231:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道",揭阳
+#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道-2026-1-25",揭阳
 http://183.10.180.55:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道",揭阳
+#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道-2026-1-25",揭阳
 http://183.10.180.52:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道",揭阳
+#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道-2026-1-25",揭阳
 http://183.10.180.51:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道",揭阳
+#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道-2026-1-25",揭阳
 http://183.10.180.50:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道",揭阳
+#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道-2026-1-25",揭阳
 http://183.10.180.49:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道",揭阳
+#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道-2026-1-25",揭阳
 http://183.10.180.3:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道",揭阳
+#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道-2026-1-25",揭阳
 http://183.10.180.245:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道",揭阳
+#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道-2026-1-25",揭阳
 http://183.10.180.238:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道",揭阳
+#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道-2026-1-25",揭阳
 http://183.10.180.235:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道",揭阳
+#EXTINF:-1 tvg-name="揭阳" tvg-logo="https://logo.catvod.com/揭阳.png" group-title="汕头频道-2026-1-25",揭阳
 http://183.10.180.231:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道",揭阳公共
+#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道-2026-1-25",揭阳公共
 http://183.10.180.55:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道",揭阳公共
+#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道-2026-1-25",揭阳公共
 http://183.10.180.52:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道",揭阳公共
+#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道-2026-1-25",揭阳公共
 http://183.10.180.51:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道",揭阳公共
+#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道-2026-1-25",揭阳公共
 http://183.10.180.50:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道",揭阳公共
+#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道-2026-1-25",揭阳公共
 http://183.10.180.49:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道",揭阳公共
+#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道-2026-1-25",揭阳公共
 http://183.10.180.3:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道",揭阳公共
+#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道-2026-1-25",揭阳公共
 http://183.10.180.245:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道",揭阳公共
+#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道-2026-1-25",揭阳公共
 http://183.10.180.238:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道",揭阳公共
+#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道-2026-1-25",揭阳公共
 http://183.10.180.235:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道",揭阳公共
+#EXTINF:-1 tvg-name="揭阳公共" tvg-logo="https://logo.catvod.com/揭阳公共.png" group-title="汕头频道-2026-1-25",揭阳公共
 http://183.10.180.231:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://logo.catvod.com/CCTV.png" group-title="央视频道",CCTV
 http://120.238.94.10:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -935,6 +935,26 @@ http://183.237.95.108:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=
 http://183.57.249.119:8183/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="广东频道",大湾区卫视
 http://120.238.94.10:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="广东频道",大湾区卫视
+http://183.237.95.108:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="广东频道",大湾区卫视
+http://111.23.208.105:9999/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="广东频道",大湾区卫视
+http://113.218.204.144:9002/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="广东频道",大湾区卫视
+http://116.77.33.98:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="广东频道",大湾区卫视
+http://119.125.134.214:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="广东频道",大湾区卫视
+http://119.125.134.218:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="广东频道",大湾区卫视
+http://120.237.24.142:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="广东频道",大湾区卫视
+http://120.238.94.82:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="广东频道",大湾区卫视
+http://175.9.35.197:9999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="广东频道",大湾区卫视
+http://183.57.249.119:8183/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东4K" tvg-logo="https://logo.catvod.com/广东4K.png" group-title="广东频道",广东4K
 http://120.238.94.10:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东公共" tvg-logo="https://logo.catvod.com/广东公共.png" group-title="广东频道",广东公共
@@ -953,8 +973,6 @@ http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=
 http://120.238.94.10:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://logo.catvod.com/广东经济科教.png" group-title="广东频道",广东经济科教
 http://183.237.95.108:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东南方卫视" tvg-logo="https://logo.catvod.com/广东南方卫视.png" group-title="广东频道",广东南方卫视
-http://183.237.95.108:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://logo.catvod.com/广东少儿.png" group-title="广东频道",广东少儿
 http://119.125.134.214:9999/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://logo.catvod.com/广东少儿.png" group-title="广东频道",广东少儿
@@ -1249,6 +1267,46 @@ http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authi
 http://183.215.134.239:19901/tsfile/live/126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="广东频道",深圳卫视
 http://183.237.95.108:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="广东频道",佛山影视
+http://183.10.180.55:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="广东频道",佛山影视
+http://183.10.180.52:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="广东频道",佛山影视
+http://183.10.180.51:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="广东频道",佛山影视
+http://183.10.180.50:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="广东频道",佛山影视
+http://183.10.180.49:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="广东频道",佛山影视
+http://183.10.180.3:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="广东频道",佛山影视
+http://183.10.180.245:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="广东频道",佛山影视
+http://183.10.180.238:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="广东频道",佛山影视
+http://183.10.180.235:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="广东频道",佛山影视
+http://183.10.180.231:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="广东频道",佛山顺德
+http://183.10.180.55:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="广东频道",佛山顺德
+http://183.10.180.52:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="广东频道",佛山顺德
+http://183.10.180.51:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="广东频道",佛山顺德
+http://183.10.180.50:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="广东频道",佛山顺德
+http://183.10.180.49:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="广东频道",佛山顺德
+http://183.10.180.3:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="广东频道",佛山顺德
+http://183.10.180.245:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="广东频道",佛山顺德
+http://183.10.180.238:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="广东频道",佛山顺德
+http://183.10.180.235:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="广东频道",佛山顺德
+http://183.10.180.231:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="澳门卫视" tvg-logo="https://logo.catvod.com/澳门卫视.png" group-title="港澳频道",澳门卫视
 http://183.237.95.108:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="港澳频道",澳视澳门
@@ -1287,6 +1345,30 @@ http://120.238.94.82:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.237.95.108:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="星河频道" tvg-logo="https://logo.catvod.com/星河频道.png" group-title="港澳频道",星河频道
 http://183.237.95.108:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="港澳频道",CHC家庭影院
+http://175.9.35.197:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="港澳频道",CHC家庭影院
+http://175.11.74.246:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="港澳频道",CHC家庭影院
+http://120.238.94.82:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="https://logo.catvod.com/CHC家庭电影.png" group-title="港澳频道",CHC家庭电影
+http://120.238.94.10:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="https://logo.catvod.com/CHC家庭电影.png" group-title="港澳频道",CHC家庭电影
+http://119.125.134.214:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://logo.catvod.com/CHC高清电影.png" group-title="港澳频道",CHC高清电影
+http://175.9.35.197:9999/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://logo.catvod.com/CHC高清电影.png" group-title="港澳频道",CHC高清电影
+http://120.238.94.82:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC动作影院" tvg-logo="https://logo.catvod.com/CHC动作影院.png" group-title="港澳频道",CHC动作影院
+http://175.9.35.197:9999/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="港澳频道",CHC动作电影
+http://175.11.74.246:9999/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="港澳频道",CHC动作电影
+http://120.238.94.82:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="港澳频道",CHC动作电影
+http://120.238.94.10:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="港澳频道",CHC动作电影
+http://119.125.134.214:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://110.53.218.182:9002/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -1359,8 +1441,6 @@ http://120.238.94.10:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.238.94.82:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://183.237.95.108:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-http://183.57.249.119:8183/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="卫视频道",东方卫视
 http://110.53.218.182:9002/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="卫视频道",东方卫视
@@ -1885,22 +1965,6 @@ http://119.125.134.218:9999/tsfile/live/114_1.m3u8?key=txiptv&playlive=1&authid=
 http://120.238.94.10:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="旅游卫视" tvg-logo="https://logo.catvod.com/旅游卫视.png" group-title="卫视频道",旅游卫视
 http://183.237.95.108:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://logo.catvod.com/南方卫视.png" group-title="卫视频道",南方卫视
-http://111.23.208.105:9999/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://logo.catvod.com/南方卫视.png" group-title="卫视频道",南方卫视
-http://113.218.204.144:9002/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://logo.catvod.com/南方卫视.png" group-title="卫视频道",南方卫视
-http://116.77.33.98:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://logo.catvod.com/南方卫视.png" group-title="卫视频道",南方卫视
-http://119.125.134.214:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://logo.catvod.com/南方卫视.png" group-title="卫视频道",南方卫视
-http://119.125.134.218:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://logo.catvod.com/南方卫视.png" group-title="卫视频道",南方卫视
-http://120.237.24.142:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://logo.catvod.com/南方卫视.png" group-title="卫视频道",南方卫视
-http://120.238.94.82:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://logo.catvod.com/南方卫视.png" group-title="卫视频道",南方卫视
-http://175.9.35.197:9999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://111.23.208.105:9999/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
@@ -2773,46 +2837,6 @@ http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=
 http://111.59.151.180:8181/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="高尔夫" tvg-logo="https://logo.catvod.com/高尔夫.png" group-title="其他频道",高尔夫
 http://175.9.35.197:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="其他频道",佛山影视
-http://183.10.180.55:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="其他频道",佛山影视
-http://183.10.180.52:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="其他频道",佛山影视
-http://183.10.180.51:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="其他频道",佛山影视
-http://183.10.180.50:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="其他频道",佛山影视
-http://183.10.180.49:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="其他频道",佛山影视
-http://183.10.180.3:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="其他频道",佛山影视
-http://183.10.180.245:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="其他频道",佛山影视
-http://183.10.180.238:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="其他频道",佛山影视
-http://183.10.180.235:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://logo.catvod.com/佛山影视.png" group-title="其他频道",佛山影视
-http://183.10.180.231:202/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="其他频道",佛山顺德
-http://183.10.180.55:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="其他频道",佛山顺德
-http://183.10.180.52:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="其他频道",佛山顺德
-http://183.10.180.51:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="其他频道",佛山顺德
-http://183.10.180.50:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="其他频道",佛山顺德
-http://183.10.180.49:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="其他频道",佛山顺德
-http://183.10.180.3:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="其他频道",佛山顺德
-http://183.10.180.245:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="其他频道",佛山顺德
-http://183.10.180.238:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="其他频道",佛山顺德
-http://183.10.180.235:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="其他频道",佛山顺德
-http://183.10.180.231:202/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="凤凰咨讯" tvg-logo="https://logo.catvod.com/凤凰咨讯.png" group-title="其他频道",凤凰咨讯
 http://175.11.74.246:9999/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://logo.catvod.com/风云足球.png" group-title="其他频道",风云足球
@@ -2933,30 +2957,6 @@ http://183.237.95.108:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=
 http://111.59.151.180:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="DTV" tvg-logo="https://logo.catvod.com/DTV.png" group-title="其他频道",DTV
 http://111.59.151.180:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="其他频道",CHC家庭影院
-http://175.9.35.197:9999/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="其他频道",CHC家庭影院
-http://175.11.74.246:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="其他频道",CHC家庭影院
-http://120.238.94.82:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="https://logo.catvod.com/CHC家庭电影.png" group-title="其他频道",CHC家庭电影
-http://120.238.94.10:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="https://logo.catvod.com/CHC家庭电影.png" group-title="其他频道",CHC家庭电影
-http://119.125.134.214:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://logo.catvod.com/CHC高清电影.png" group-title="其他频道",CHC高清电影
-http://175.9.35.197:9999/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://logo.catvod.com/CHC高清电影.png" group-title="其他频道",CHC高清电影
-http://120.238.94.82:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC动作影院" tvg-logo="https://logo.catvod.com/CHC动作影院.png" group-title="其他频道",CHC动作影院
-http://175.9.35.197:9999/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="其他频道",CHC动作电影
-http://175.11.74.246:9999/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="其他频道",CHC动作电影
-http://120.238.94.82:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="其他频道",CHC动作电影
-http://120.238.94.10:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="其他频道",CHC动作电影
-http://119.125.134.214:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="ChannelV" tvg-logo="https://logo.catvod.com/ChannelV.png" group-title="其他频道",ChannelV
 http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://logo.catvod.com/CGTN纪录.png" group-title="其他频道",CGTN纪录
