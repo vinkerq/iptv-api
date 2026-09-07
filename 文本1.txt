@@ -1,0 +1,679 @@
+
+导入ip是
+113.95.134.145:8188
+113.95.135.98:8188
+113.95.146.2:8188
+14.112.67.22:3861
+14.157.24.117:2345
+14.155.241.66:4022
+14.153.254.80:4000
+
+节目套源是:
+CCTV,http://ip地址端口/rtp/239.77.0.31:5146
+CCTV1,http://ip地址端口/rtp/239.77.0.119:5146
+CCTV1,http://ip地址端口/rtp/239.77.0.129:5146
+CCTV1,http://ip地址端口/rtp/239.77.0.14:5146
+CCTV1,http://ip地址端口/rtp/239.77.0.30:5146
+CCTV1,http://ip地址端口/rtp/239.77.0.86:5146
+CCTV1,http://ip地址端口/rtp/239.77.1.144:5146
+CCTV1,http://ip地址端口/rtp/239.77.1.17:5146
+CCTV10,http://ip地址端口/rtp/239.77.0.134:5146
+CCTV10,http://ip地址端口/rtp/239.77.0.39:5146
+CCTV10,http://ip地址端口/rtp/239.77.1.113:5146
+CCTV11,http://ip地址端口/rtp/239.77.0.40:5146
+CCTV11,http://ip地址端口/rtp/239.77.1.108:5146
+CCTV11,http://ip地址端口/rtp/239.77.1.238:5146
+CCTV12,http://ip地址端口/rtp/239.77.0.136:5146
+CCTV12,http://ip地址端口/rtp/239.77.0.41:5146
+CCTV12,http://ip地址端口/rtp/239.77.1.109:5146
+CCTV13,http://ip地址端口/rtp/239.253.43.196:5146
+CCTV13,http://ip地址端口/rtp/239.77.0.188:5146
+CCTV13,http://ip地址端口/rtp/239.77.0.42:5146
+CCTV14,http://ip地址端口/rtp/239.77.0.133:5146
+CCTV14,http://ip地址端口/rtp/239.77.0.43:5146
+CCTV14,http://ip地址端口/rtp/239.77.1.161:5146
+CCTV15,http://ip地址端口/rtp/239.77.0.44:5146
+CCTV15,http://ip地址端口/rtp/239.77.1.120:5146
+CCTV15,http://ip地址端口/rtp/239.77.1.239:5146
+CCTV16 4K,http://ip地址端口/rtp/239.77.0.165:5146
+CCTV17,http://ip地址端口/rtp/239.77.0.115:5146
+CCTV17,http://ip地址端口/rtp/239.77.0.198:5146
+CCTV17,http://ip地址端口/rtp/239.77.1.121:5146
+CCTV2,http://ip地址端口/rtp/239.77.0.137:5146
+CCTV2,http://ip地址端口/rtp/239.77.1.158:5146
+CCTV3,http://ip地址端口/rtp/239.77.0.169:5146
+CCTV3,http://ip地址端口/rtp/239.77.0.32:5146
+CCTV3,http://ip地址端口/rtp/239.77.1.7:5146
+CCTV4,http://ip地址端口/rtp/239.77.0.33:5146
+CCTV4,http://ip地址端口/rtp/239.77.0.78:5146
+CCTV4,http://ip地址端口/rtp/239.77.1.163:5146
+CCTV4,http://ip地址端口/rtp/239.77.1.166:5146
+CCTV4K,http://ip地址端口/rtp/239.77.0.194:5146
+CCTV4K,http://ip地址端口/rtp/239.77.1.180:5146
+CCTV4欧洲,http://ip地址端口/rtp/239.253.43.120:5146
+CCTV4美洲,http://ip地址端口/rtp/239.253.43.121:5146
+CCTV5,http://ip地址端口/rtp/239.77.0.170:5146
+CCTV5,http://ip地址端口/rtp/239.77.0.34:5146
+CCTV5,http://ip地址端口/rtp/239.77.1.8:5146
+CCTV5+,http://ip地址端口/rtp/239.77.0.87:5146
+CCTV5+,http://ip地址端口/rtp/239.77.1.31:5146
+CCTV6,http://ip地址端口/rtp/239.77.0.171:5146
+CCTV6,http://ip地址端口/rtp/239.77.0.35:5146
+CCTV6,http://ip地址端口/rtp/239.77.1.9:5146
+CCTV7,http://ip地址端口/rtp/239.77.0.138:5146
+CCTV7,http://ip地址端口/rtp/239.77.0.36:5146
+CCTV7,http://ip地址端口/rtp/239.77.1.159:5146
+CCTV8,http://ip地址端口/rtp/239.77.0.172:5146
+CCTV8,http://ip地址端口/rtp/239.77.0.37:5146
+CCTV8,http://ip地址端口/rtp/239.77.1.10:5146
+CCTV9,http://ip地址端口/rtp/239.77.0.135:5146
+CCTV9,http://ip地址端口/rtp/239.77.0.38:5146
+CCTV9,http://ip地址端口/rtp/239.77.1.160:5146
+CETV1,http://ip地址端口/rtp/239.77.0.200:5146
+CETV1,http://ip地址端口/rtp/239.77.1.222:5146
+CETV2,http://ip地址端口/rtp/239.77.0.28:5146
+CETV2,http://ip地址端口/rtp/239.77.1.69:5146
+CETV4,http://ip地址端口/rtp/239.253.43.114:5146
+CETV4,http://ip地址端口/rtp/239.253.43.40:5146
+CETV早期教育,http://ip地址端口/rtp/239.77.0.180:5146
+CETV早期教育,http://ip地址端口/rtp/239.77.1.114:5146
+CETV早期教育,http://ip地址端口/rtp/239.77.1.122:5146
+CGTN,http://ip地址端口/rtp/239.77.0.199:5146
+CGTN,http://ip地址端口/rtp/239.77.0.45:5146
+CGTN,http://ip地址端口/rtp/239.77.1.27:5146
+CGTN俄语,http://ip地址端口/rtp/239.253.43.201:5146
+CGTN法语,http://ip地址端口/rtp/239.77.0.228:5146
+CGTN纪录,http://ip地址端口/rtp/239.253.43.122:5146
+CGTN西语,http://ip地址端口/rtp/239.77.0.221:5146
+CGTN阿语,http://ip地址端口/rtp/239.253.43.200:5146
+IPTV少儿动画,http://ip地址端口/rtp/239.77.1.91:5146
+三沙卫视,http://ip地址端口/rtp/239.253.43.113:5146
+三沙卫视,http://ip地址端口/rtp/239.77.1.117:5146
+世界地理,http://ip地址端口/rtp/239.253.43.24:5146
+世界地理,http://ip地址端口/rtp/239.253.43.7:5146
+东南卫视,http://ip地址端口/rtp/239.77.0.146:5146
+东南卫视,http://ip地址端口/rtp/239.77.1.104:5146
+东方卫视,http://ip地址端口/rtp/239.77.0.98:5146
+东方卫视,http://ip地址端口/rtp/239.77.1.218:5146
+东方卫视4K,http://ip地址端口/rtp/239.77.0.59:5146
+东莞生活资讯,http://ip地址端口/rtp/239.253.43.105:5146
+东莞综合,http://ip地址端口/rtp/239.253.43.104:5146
+中国天气,http://ip地址端口/rtp/239.77.1.2:5146
+中学生,http://ip地址端口/rtp/239.77.1.195:5146
+中山综合,http://ip地址端口/rtp/239.253.43.62:5146
+中山综合,http://ip地址端口/rtp/239.77.0.185:5146
+中山香山文化,http://ip地址端口/rtp/239.253.43.63:5146
+书法频道,http://ip地址端口/rtp/239.77.1.115:5146
+云南卫视,http://ip地址端口/rtp/239.253.43.100:5146
+云南卫视,http://ip地址端口/rtp/239.253.43.37:5146
+云浮文旅,http://ip地址端口/rtp/239.77.0.254:5146
+云浮综合,http://ip地址端口/rtp/239.77.0.253:5146
+优漫卡通,http://ip地址端口/rtp/239.77.0.222:5146
+优漫卡通,http://ip地址端口/rtp/239.77.1.79:5146
+佛山南海,http://ip地址端口/rtp/239.253.43.54:5146
+佛山城市生活,http://ip地址端口/rtp/239.253.43.53:5146
+佛山综合,http://ip地址端口/rtp/239.253.43.57:5146
+佛山顺德,http://ip地址端口/rtp/239.253.43.55:5146
+兵器科技,http://ip地址端口/rtp/239.253.43.18:5146
+兵器科技,http://ip地址端口/rtp/239.253.43.9:5146
+兵团卫视,http://ip地址端口/rtp/239.77.0.48:5146
+兵团卫视,http://ip地址端口/rtp/239.77.0.77:5146
+兵团卫视,http://ip地址端口/rtp/239.77.1.107:5146
+兵团卫视,http://ip地址端口/rtp/239.77.1.29:5146
+内蒙古卫视,http://ip地址端口/rtp/239.77.0.70:5146
+内蒙古卫视,http://ip地址端口/rtp/239.77.1.55:5146
+北京卫视,http://ip地址端口/rtp/239.77.0.232:5146
+北京卫视,http://ip地址端口/rtp/239.77.0.91:5146
+北京卫视,http://ip地址端口/rtp/239.77.1.151:5146
+北京卫视,http://ip地址端口/rtp/239.77.1.4:5146
+北京卫视4K,http://ip地址端口/rtp/239.77.0.153:5146
+北京卫视4K,http://ip地址端口/rtp/239.77.0.233:5146
+北京卫视4K,http://ip地址端口/rtp/239.77.0.2:5146
+北京卫视4K,http://ip地址端口/rtp/239.77.0.3:5146
+北京卫视4K,http://ip地址端口/rtp/239.77.1.13:5146
+南国都市4K,http://ip地址端口/rtp/239.253.43.99:5146
+卡酷少儿,http://ip地址端口/rtp/239.77.0.79:5146
+卡酷少儿,http://ip地址端口/rtp/239.77.1.50:5146
+厦门卫视,http://ip地址端口/rtp/239.77.0.96:5146
+吉林卫视,http://ip地址端口/rtp/239.77.0.150:5146
+吉林卫视,http://ip地址端口/rtp/239.77.1.111:5146
+嘉佳卡通,http://ip地址端口/rtp/239.77.0.179:5146
+嘉佳卡通,http://ip地址端口/rtp/239.77.1.15:5146
+四川卫视,http://ip地址端口/rtp/239.77.0.159:5146
+四川卫视,http://ip地址端口/rtp/239.77.1.215:5146
+四川卫视4K,http://ip地址端口/rtp/239.77.0.60:5146
+大湾区卫视,http://ip地址端口/rtp/239.77.0.215:5146
+大湾区卫视,http://ip地址端口/rtp/239.77.1.12:5146
+天元围棋,http://ip地址端口/rtp/239.253.43.98:5146
+天津卫视,http://ip地址端口/rtp/239.77.0.131:5146
+天津卫视,http://ip地址端口/rtp/239.77.0.97:5146
+天津卫视,http://ip地址端口/rtp/239.77.1.141:5146
+天津卫视,http://ip地址端口/rtp/239.77.1.182:5146
+央视台球,http://ip地址端口/rtp/239.253.43.11:5146
+央视台球,http://ip地址端口/rtp/239.253.43.21:5146
+央视文化精品,http://ip地址端口/rtp/239.253.43.13:5146
+央视文化精品,http://ip地址端口/rtp/239.253.43.27:5146
+央视网CCTV11,http://ip地址端口/rtp/239.77.0.100:5146
+央视网CCTV12,http://ip地址端口/rtp/239.77.0.102:5146
+央视网CCTV3,http://ip地址端口/rtp/239.77.0.107:5146
+央视网CCTV3,http://ip地址端口/rtp/239.77.0.111:5146
+央视网CCTV3,http://ip地址端口/rtp/239.77.1.78:5146
+央视网CCTV5,http://ip地址端口/rtp/239.77.0.176:5146
+央视网CCTV5,http://ip地址端口/rtp/239.77.1.77:5146
+女性时尚,http://ip地址端口/rtp/239.253.43.23:5146
+女性时尚,http://ip地址端口/rtp/239.253.43.8:5146
+宁夏卫视,http://ip地址端口/rtp/239.77.0.49:5146
+宁夏卫视,http://ip地址端口/rtp/239.77.0.73:5146
+宁夏卫视,http://ip地址端口/rtp/239.77.1.246:5146
+宁夏卫视,http://ip地址端口/rtp/239.77.1.28:5146
+安徽卫视,http://ip地址端口/rtp/239.77.0.183:5146
+安徽卫视,http://ip地址端口/rtp/239.77.1.92:5146
+山东卫视,http://ip地址端口/rtp/239.77.0.94:5146
+山东卫视,http://ip地址端口/rtp/239.77.1.142:5146
+山东卫视4K,http://ip地址端口/rtp/239.77.0.61:5146
+山东教育卫视,http://ip地址端口/rtp/239.77.1.35:5146
+山西卫视,http://ip地址端口/rtp/239.77.0.69:5146
+山西卫视,http://ip地址端口/rtp/239.77.1.74:5146
+岭南戏曲,http://ip地址端口/rtp/239.77.0.122:5146
+广东九画面,http://ip地址端口/rtp/239.77.1.234:5146
+广东体育,http://ip地址端口/rtp/239.77.0.112:5146
+广东体育,http://ip地址端口/rtp/239.77.0.168:5146
+广东体育,http://ip地址端口/rtp/239.77.1.97:5146
+广东卫视,http://ip地址端口/rtp/239.77.0.166:5146
+广东卫视,http://ip地址端口/rtp/239.77.0.84:5146
+广东卫视,http://ip地址端口/rtp/239.77.1.152:5146
+广东卫视,http://ip地址端口/rtp/239.77.1.19:5146
+广东卫视4K,http://ip地址端口/rtp/239.77.0.27:5146
+广东卫视4K,http://ip地址端口/rtp/239.77.0.65:5146
+广东卫视4K,http://ip地址端口/rtp/239.77.0.66:5146
+广东少儿,http://ip地址端口/rtp/239.77.0.250:5146
+广东影视,http://ip地址端口/rtp/239.77.0.217:5146
+广东新闻,http://ip地址端口/rtp/239.77.0.173:5146
+广东民生,http://ip地址端口/rtp/239.77.0.225:5146
+广东现代教育,http://ip地址端口/rtp/239.77.0.213:5146
+广东珠江,http://ip地址端口/rtp/239.77.0.114:5146
+广东珠江,http://ip地址端口/rtp/239.77.0.1:5146
+广东珠江,http://ip地址端口/rtp/239.77.1.94:5146
+广东经济科教,http://ip地址端口/rtp/239.77.0.167:5146
+广东经济科教,http://ip地址端口/rtp/239.77.0.85:5146
+广东综艺4K,http://ip地址端口/rtp/239.77.0.244:5146
+广东综艺4K,http://ip地址端口/rtp/239.77.0.245:5146
+广东综艺4K,http://ip地址端口/rtp/239.77.1.237:5146
+广州新闻,http://ip地址端口/rtp/239.253.43.72:5146
+广州法治,http://ip地址端口/rtp/239.253.43.74:5146
+广州综合,http://ip地址端口/rtp/239.253.43.71:5146
+广西卫视,http://ip地址端口/rtp/239.253.43.36:5146
+广西卫视,http://ip地址端口/rtp/239.77.0.139:5146
+延边卫视,http://ip地址端口/rtp/239.77.0.10:5146
+延边卫视,http://ip地址端口/rtp/239.77.1.99:5146
+快乐垂钓,http://ip地址端口/rtp/239.77.0.145:5146
+怀旧剧场,http://ip地址端口/rtp/239.253.43.25:5146
+怀旧剧场,http://ip地址端口/rtp/239.253.43.5:5146
+惠州1,http://ip地址端口/rtp/239.77.1.232:5146
+惠州2,http://ip地址端口/rtp/239.77.1.233:5146
+揭阳生活,http://ip地址端口/rtp/239.77.0.251:5146
+揭阳综合,http://ip地址端口/rtp/239.77.0.229:5146
+新疆卫视,http://ip地址端口/rtp/239.253.43.202:5146
+新疆卫视,http://ip地址端口/rtp/239.77.0.47:5146
+新疆卫视,http://ip地址端口/rtp/239.77.0.75:5146
+新疆卫视,http://ip地址端口/rtp/239.77.1.25:5146
+梅州客家生活,http://ip地址端口/rtp/239.253.43.124:5146
+梅州综合,http://ip地址端口/rtp/239.253.43.123:5146
+汕头经济生活,http://ip地址端口/rtp/239.253.43.46:5146
+汕头综合,http://ip地址端口/rtp/239.253.43.45:5146
+汕头综合,http://ip地址端口/rtp/239.77.1.130:5146
+汕尾文化生活,http://ip地址端口/rtp/239.77.0.187:5146
+汕尾新闻综合,http://ip地址端口/rtp/239.77.0.25:5146
+江苏卫视,http://ip地址端口/rtp/239.77.0.90:5146
+江苏卫视,http://ip地址端口/rtp/239.77.1.18:5146
+江苏卫视4K,http://ip地址端口/rtp/239.77.0.57:5146
+江西卫视,http://ip地址端口/rtp/239.77.0.149:5146
+江西卫视,http://ip地址端口/rtp/239.77.1.219:5146
+江门综合,http://ip地址端口/rtp/239.77.0.201:5146
+河北卫视,http://ip地址端口/rtp/239.77.0.148:5146
+河北卫视,http://ip地址端口/rtp/239.77.1.214:5146
+河南卫视,http://ip地址端口/rtp/239.77.0.17:5146
+河南卫视,http://ip地址端口/rtp/239.77.1.229:5146
+河源生活,http://ip地址端口/rtp/239.253.43.214:5146
+河源综合,http://ip地址端口/rtp/239.253.43.213:5146
+浙江卫视,http://ip地址端口/rtp/239.77.0.89:5146
+浙江卫视,http://ip地址端口/rtp/239.77.1.33:5146
+浙江卫视4K,http://ip地址端口/rtp/239.77.0.58:5146
+海南卫视,http://ip地址端口/rtp/239.253.43.101:5146
+海南卫视,http://ip地址端口/rtp/239.253.43.35:5146
+深圳体育健康,http://ip地址端口/rtp/239.77.1.128:5146
+深圳体育健康,http://ip地址端口/rtp/239.77.1.140:5146
+深圳卫视,http://ip地址端口/rtp/239.77.0.130:5146
+深圳卫视,http://ip地址端口/rtp/239.77.0.92:5146
+深圳卫视,http://ip地址端口/rtp/239.77.1.148:5146
+深圳卫视,http://ip地址端口/rtp/239.77.1.189:5146
+深圳卫视,http://ip地址端口/rtp/239.77.1.3:5146
+深圳卫视4K,http://ip地址端口/rtp/239.77.0.67:5146
+深圳卫视4K,http://ip地址端口/rtp/239.77.1.14:5146
+深圳宝安,http://ip地址端口/rtp/239.77.1.67:5146
+深圳少儿,http://ip地址端口/rtp/239.77.1.244:5146
+深圳电视剧,http://ip地址端口/rtp/239.77.1.125:5146
+深圳电视剧,http://ip地址端口/rtp/239.77.1.177:5146
+深圳移动,http://ip地址端口/rtp/239.77.1.175:5146
+深圳财经,http://ip地址端口/rtp/239.77.1.242:5146
+深圳都市频道,http://ip地址端口/rtp/239.77.1.124:5146
+深圳都市频道,http://ip地址端口/rtp/239.77.1.176:5146
+深圳龙岗,http://ip地址端口/rtp/239.77.1.223:5146
+清远综合,http://ip地址端口/rtp/239.253.43.33:5146
+湖北卫视,http://ip地址端口/rtp/239.77.0.128:5146
+湖北卫视,http://ip地址端口/rtp/239.77.0.95:5146
+湖北卫视,http://ip地址端口/rtp/239.77.1.174:5146
+湖北卫视,http://ip地址端口/rtp/239.77.1.93:5146
+湖南卫视,http://ip地址端口/rtp/239.77.0.88:5146
+湖南卫视,http://ip地址端口/rtp/239.77.1.5:5146
+湖南卫视4K,http://ip地址端口/rtp/239.77.0.56:5146
+湛江公共,http://ip地址端口/rtp/239.77.0.140:5146
+湛江新闻,http://ip地址端口/rtp/239.77.0.141:5146
+潮州民生,http://ip地址端口/rtp/239.253.43.75:5146
+潮州综合,http://ip地址端口/rtp/239.253.43.70:5146
+环球奇观,http://ip地址端口/rtp/239.253.43.126:5146
+环球奇观,http://ip地址端口/rtp/239.77.1.198:5146
+珠海1,http://ip地址端口/rtp/239.77.0.155:5146
+甘肃卫视,http://ip地址端口/rtp/239.77.0.189:5146
+甘肃卫视,http://ip地址端口/rtp/239.77.1.57:5146
+睛彩广场舞,http://ip地址端口/rtp/239.77.1.23:5146
+睛彩竞技,http://ip地址端口/rtp/239.77.1.20:5146
+睛彩篮球,http://ip地址端口/rtp/239.77.1.21:5146
+睛彩青少,http://ip地址端口/rtp/239.77.1.22:5146
+第一剧场,http://ip地址端口/rtp/239.253.43.15:5146
+第一剧场,http://ip地址端口/rtp/239.253.43.28:5146
+经典电影,http://ip地址端口/rtp/239.77.0.104:5146
+老故事,http://ip地址端口/rtp/239.77.0.220:5146
+老故事,http://ip地址端口/rtp/239.77.1.197:5146
+肇庆生活服务,http://ip地址端口/rtp/239.253.43.2:5146
+肇庆综合,http://ip地址端口/rtp/239.253.43.1:5146
+茂名文化生活,http://ip地址端口/rtp/239.77.0.207:5146
+茂名综合,http://ip地址端口/rtp/239.77.0.206:5146
+茶频道,http://ip地址端口/rtp/239.77.0.15:5146
+西藏卫视,http://ip地址端口/rtp/239.77.0.46:5146
+西藏卫视,http://ip地址端口/rtp/239.77.0.74:5146
+西藏卫视,http://ip地址端口/rtp/239.77.1.26:5146
+财富天下,http://ip地址端口/rtp/239.77.0.113:5146
+贵州卫视,http://ip地址端口/rtp/239.77.0.230:5146
+贵州卫视,http://ip地址端口/rtp/239.77.1.221:5146
+辽宁卫视,http://ip地址端口/rtp/239.77.0.123:5146
+辽宁卫视,http://ip地址端口/rtp/239.77.1.103:5146
+重庆卫视,http://ip地址端口/rtp/239.77.0.182:5146
+重庆卫视,http://ip地址端口/rtp/239.77.1.162:5146
+重庆汽摩,http://ip地址端口/rtp/239.77.0.209:5146
+重庆汽摩,http://ip地址端口/rtp/239.77.1.205:5146
+金鹰卡通,http://ip地址端口/rtp/239.77.0.164:5146
+金鹰卡通,http://ip地址端口/rtp/239.77.1.52:5146
+金鹰纪实,http://ip地址端口/rtp/239.77.0.160:5146
+金鹰纪实,http://ip地址端口/rtp/239.77.1.217:5146
+阳江-1,http://ip地址端口/rtp/239.253.43.82:5146
+阳江-2,http://ip地址端口/rtp/239.253.43.83:5146
+陕西卫视,http://ip地址端口/rtp/239.77.0.68:5146
+陕西卫视,http://ip地址端口/rtp/239.77.1.54:5146
+青海卫视,http://ip地址端口/rtp/239.253.43.125:5146
+青海卫视,http://ip地址端口/rtp/239.77.1.70:5146
+韶关综合,http://ip地址端口/rtp/239.77.0.117:5146
+风云剧场,http://ip地址端口/rtp/239.253.43.16:5146
+风云剧场,http://ip地址端口/rtp/239.253.43.26:5146
+风云足球,http://ip地址端口/rtp/239.253.43.14:5146
+风云足球,http://ip地址端口/rtp/239.253.43.20:5146
+风云音乐,http://ip地址端口/rtp/239.253.43.29:5146
+风云音乐,http://ip地址端口/rtp/239.253.43.6:5146
+高尔夫网球,http://ip地址端口/rtp/239.253.43.12:5146
+高尔夫网球,http://ip地址端口/rtp/239.253.43.22:5146
+黑龙江卫视,http://ip地址端口/rtp/239.77.0.124:5146
+黑龙江卫视,http://ip地址端口/rtp/239.77.0.93:5146
+黑龙江卫视,http://ip地址端口/rtp/239.77.1.179:5146
+黑龙江卫视,http://ip地址端口/rtp/239.77.1.6:5146
+华数少儿动画,http://ip地址端口/rtp/239.77.0.109:5146
+华数热播剧场,http://ip地址端口/rtp/239.77.0.106:5146
+华数爱大剧1,http://ip地址端口/rtp/239.77.0.105:5146
+华数爱大剧2,http://ip地址端口/rtp/239.77.0.110:5146
+华数爱电影,http://ip地址端口/rtp/239.77.0.103:5146
+华数爱电影,http://ip地址端口/rtp/239.77.1.138:5146
+华数电视剧,http://ip地址端口/rtp/239.77.1.82:5146
+华数谍战剧场,http://ip地址端口/rtp/239.77.1.83:5146
+
+
+
+然后继续以下
+import os
+import requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from time import time, sleep
+from urllib.parse import urlparse
+import re
+from collections import defaultdict
+
+# ===================== 第一部分：IP扫描配置 (固定40线程) =====================
+TIMEOUT = 10  # 10秒超时
+SCAN_RANGE = (1, 301)  # 扫描1-300段IP
+MAX_WORKERS = 40  # 固定40个线程
+VALID_IP_PORTS = set()  # 集合自动去重，存储IP:端口
+
+# ===================== 文件路径配置 (统一管理) =====================
+IP_CONFIG_FILE = r"I:\py\udp\ip.txt"  # 读取IP:端口的文件
+VALID_IP_FILE = r"I:\py\udp\valid_ips.txt"  # 有效IP:端口保存路径
+TEMPLATE_FILE = r"I:\py\udp\广东节目套源.txt"  # 节目模板文件
+OUTPUT_FILE = r"I:\py\udp\udp节目表.txt"  # 最终节目表输出文件
+
+# ===================== URL拼接规则 (固定) =====================
+RTP_SUFFIX = "/rtp/239.77.0.14:5146"
+
+# ===================== 第二部分：节目分类配置 =====================
+CATEGORY_MAPPING = {
+    "央视频道": "UDP央视频道,#genre#",
+    "卫视频道": "UDP卫视频道,#genre#",
+    "广东频道": "UDP广东频道,#genre#",
+    "港澳频道": "UDP港澳频道,#genre#"
+}
+
+# ===================== 第一部分：IP扫描核心函数 =====================
+# 禁用requests冗余警告，减少IO耗时
+requests.packages.urllib3.disable_warnings()
+# 全局Session复用连接池，大幅提升请求速度
+SESSION = requests.Session()
+SESSION.headers = {"User-Agent": "Mozilla/5.0"}  # 精简请求头
+SESSION.verify = False  # 关闭SSL验证（提速）
+SESSION.allow_redirects = False  # 禁用重定向（提速）
+
+def parse_ip_port(line: str):
+    """解析ip.txt每行的IP:端口，提取网段前缀和端口"""
+    line = line.strip()
+    if not line:
+        return None, None
+    try:
+        ip_part, port = line.split(":", 1)
+        port = int(port)
+        ip_segs = ip_part.split(".")
+        if len(ip_segs) != 4:
+            return None, None
+        net_prefix = ".".join(ip_segs[:3])  # 取IP前三段（如125.92.140.1 → 125.92.140）
+        return net_prefix, port
+    except:
+        return None, None
+
+def extract_ip_port_from_url(url: str):
+    """从完整URL中提取IP:端口（核心修改函数）"""
+    parsed = urlparse(url)
+    # netloc属性直接返回 "IP:端口" 格式，无需手动切割
+    return parsed.netloc
+
+def scan_single_ip(net_prefix: str, host_num: int, port: int):
+    """扫描单个IP，极简逻辑提速"""
+    full_ip = f"{net_prefix}.{host_num}"
+    full_url = f"http://{full_ip}:{port}{RTP_SUFFIX}"
+    try:
+        # stream=True：不接收完整响应体，只校验状态码，大幅提速
+        resp = SESSION.get(full_url, timeout=TIMEOUT, stream=True)
+        if 200 <= resp.status_code < 300:
+            # 提取IP:端口并返回，而非完整URL
+            return extract_ip_port_from_url(full_url)
+        return None
+    except:
+        return None
+
+def run_ip_scan():
+    """执行IP扫描主流程"""
+    print("="*60)
+    print("开始执行IP扫描任务...")
+    print("="*60)
+    
+    # 1. 读取并解析ip.txt
+    if not os.path.exists(IP_CONFIG_FILE):
+        print(f"❌ 错误：未找到文件 {IP_CONFIG_FILE}")
+        return False
+
+    net_port_list = []
+    with open(IP_CONFIG_FILE, "r", encoding="utf-8") as f:
+        for line in f:
+            net_prefix, port = parse_ip_port(line)
+            if net_prefix and port:
+                net_port_list.append((net_prefix, port))
+
+    if not net_port_list:
+        print("❌ 错误：ip.txt中无有效【IP:端口】格式内容")
+        return False
+
+    # 2. 生成所有扫描任务
+    tasks = []
+    for net_prefix, port in net_port_list:
+        print(f"📌 待扫描网段：{net_prefix}.1-300:{port}")
+        for host_num in range(SCAN_RANGE[0], SCAN_RANGE[1]):
+            tasks.append((net_prefix, host_num, port))
+
+    total = len(tasks)
+    if total == 0:
+        print("❌ 无扫描任务")
+        return False
+    
+    # 3. 启动40线程池扫描
+    print(f"\n🚀 开始扫描 | 总任务：{total} | 并发线程：{MAX_WORKERS} | 超时：{TIMEOUT}秒")
+    print(f"✅ 仅打印有效IP:端口，精简日志提速\n")
+    start_time = time()
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        # 提交所有任务到线程池
+        future_to_task = {executor.submit(scan_single_ip, *t): t for t in tasks}
+        # 实时获取完成的任务结果
+        for future in as_completed(future_to_task):
+            result = future.result()
+            if result:
+                VALID_IP_PORTS.add(result)
+                print(f"✅ 有效IP:端口：{result}")  # 输出仅保留IP:端口
+
+    # 4. 保存结果
+    if VALID_IP_PORTS:
+        sorted_ip_ports = sorted(VALID_IP_PORTS)
+        with open(VALID_IP_FILE, "w", encoding="utf-8") as f:
+            f.write("\n".join(sorted_ip_ports))  # 保存仅保留IP:端口
+        print(f"\n💾 扫描完成！有效IP:端口已保存至：{VALID_IP_FILE}")
+        print(f"📊 统计：总任务{total} | 有效{len(sorted_ip_ports)} | 耗时{time()-start_time:.1f}秒")
+        print(f"\n📋 有效IP:端口列表：")
+        for ip_port in sorted_ip_ports:
+            print(f"✅ {ip_port}")  # 列表展示仅保留IP:端口
+    else:
+        print(f"\n❌ 扫描完成！无有效IP:端口 | 总耗时{time()-start_time:.1f}秒")
+        # 清空旧文件，避免残留数据
+        if os.path.exists(VALID_IP_FILE):
+            open(VALID_IP_FILE, "w").close()
+
+    # 关闭全局Session
+    SESSION.close()
+    return True
+
+# ===================== 第二部分：节目列表生成核心函数 =====================
+def get_program_category(program_name):
+    """根据节目名称判断所属分类（取消其他频道，全部归入广东频道）"""
+    program_name = program_name.lower()  # 转小写，避免大小写问题
+    if any(keyword in program_name for keyword in ['cctv', '央视']):
+        return "央视频道"
+    elif any(keyword in program_name for keyword in ['香港', '澳门', '凤凰', '本港台', '翡翠台']):
+        return "港澳频道"
+    elif any(keyword in program_name for keyword in ['卫视', '浙江', '江苏', '湖南', '东方', '北京', '安徽']):
+        return "卫视频道"
+    else:
+        # 所有不匹配其他分类的节目都归入广东频道
+        return "广东频道"
+
+def get_cctv_sort_key(program_line):
+    """提取CCTV节目行的排序键"""
+    # 提取节目名称部分
+    program_name = program_line.split(',')[0]
+    # 匹配CCTV后面的数字（支持CCTV1、CCTV-1、央视1套等格式）
+    match = re.search(r'(cctv|央视).*?(\d+)', program_name.lower())
+    if match:
+        return (int(match.group(2)), program_name)
+    # 处理CCTV5+这类特殊频道
+    elif '+' in program_name.lower() and 'cctv' in program_name.lower():
+        return (int(re.search(r'\d+', program_name).group()) + 0.5, program_name)
+    else:
+        # 非数字的CCTV频道排在最后
+        return (99, program_name)
+
+def get_guangdong_sort_key(program_line):
+    """广东频道排序键：以"广"开头的排前面，然后按名称拼音排序"""
+    program_name = program_line.split(',')[0]
+    # 优先级：以"广"开头的为0（排前面），其他为1（排后面）
+    priority = 0 if program_name.startswith('广') else 1
+    # 按名称进行自然排序
+    return (priority, program_name)
+
+def read_ip_ports(file_path):
+    """读取IP端口文件，返回去重后的IP端口列表"""
+    ip_ports = set()
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and ':' in line:
+                    ip_part, port_part = line.split(':', 1)
+                    if port_part.isdigit():
+                        ip_ports.add(line)
+    except FileNotFoundError:
+        print(f"错误：未找到IP端口文件 {file_path}")
+        return []
+    except Exception as e:
+        print(f"读取IP端口文件时出错：{e}")
+        return []
+    return list(ip_ports)
+
+def read_program_templates(file_path):
+    """读取节目模板文件，返回节目名称和地址模板的字典（节目名作为key）"""
+    program_templates = defaultdict(list)  # 键：节目名，值：该节目对应的所有模板地址
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            for line_num, line in enumerate(f, 1):
+                line = line.strip()
+                if not line:
+                    continue
+                if ',' not in line:
+                    print(f"警告：第{line_num}行格式错误（无逗号分隔），已跳过：{line}")
+                    continue
+                name, url_template = line.split(',', 1)
+                name = name.strip()
+                url_template = url_template.strip()
+                if not name or not url_template:
+                    print(f"警告：第{line_num}行名称或地址为空，已跳过")
+                    continue
+                program_templates[name].append(url_template)
+    except FileNotFoundError:
+        print(f"错误：未找到节目模板文件 {file_path}")
+        return {}
+    except Exception as e:
+        print(f"读取节目模板文件时出错：{e}")
+        return {}
+    return program_templates
+
+def generate_categorized_list(ip_ports, program_templates, output_path):
+    """按分类生成节目列表并写入文件"""
+    if not ip_ports or not program_templates:
+        print("IP端口列表或节目模板列表为空，无法生成文件")
+        return
+    
+    # 1. 按分类整理节目（移除了其他频道）
+    categorized_programs = {
+        "央视频道": [],
+        "卫视频道": [],
+        "广东频道": [],
+        "港澳频道": []
+    }
+    
+    # 2. 遍历每个节目名，生成所有IP端口的地址并归类
+    for program_name, templates in program_templates.items():
+        category = get_program_category(program_name)
+        # 为该节目生成所有IP端口的地址
+        program_lines = []
+        for template in templates:
+            for ip_port in ip_ports:
+                new_url = template.replace("ip地址端口", ip_port)
+                program_lines.append(f"{program_name},{new_url}")
+        # 将该节目的所有地址添加到对应分类
+        categorized_programs[category].extend(program_lines)
+    
+    # 3. 对央视频道进行特殊排序（按CCTV1-17顺序）
+    if categorized_programs["央视频道"]:
+        categorized_programs["央视频道"].sort(key=get_cctv_sort_key)
+    
+    # 4. 对广东频道进行特殊排序：广字开头排前面，然后按名称排序
+    if categorized_programs["广东频道"]:
+        categorized_programs["广东频道"].sort(key=get_guangdong_sort_key)
+    
+    # 5. 写入文件
+    try:
+        with open(output_path, 'w', encoding='utf-8') as f:
+            total_lines = 0
+            # 按指定顺序写入分类（移除了其他频道）
+            for category_key in ["央视频道", "卫视频道", "广东频道", "港澳频道"]:
+                programs = categorized_programs[category_key]
+                if not programs:
+                    continue
+                # 写入自定义的分类标题
+                category_title = CATEGORY_MAPPING[category_key]
+                f.write(f"{category_title}\n")
+                # 写入该分类下的所有节目
+                for line in programs:
+                    f.write(f"{line}\n")
+                f.write("\n")  # 分类间空行分隔
+                total_lines += len(programs)
+        
+        print(f"\n✅ 成功生成分类节目列表文件：{output_path}")
+        print(f"📊 统计信息：")
+        print(f"   - 有效IP端口数量：{len(ip_ports)}")
+        print(f"   - 有效节目名称数量：{len(program_templates)}")
+        print(f"   - 生成的节目记录总数：{total_lines}")
+        # 打印各分类数量
+        for category_key in ["央视频道", "卫视频道", "广东频道", "港澳频道"]:
+            count = len(categorized_programs[category_key])
+            if count > 0:
+                print(f"   - {CATEGORY_MAPPING[category_key]}：{count} 条")
+    except Exception as e:
+        print(f"❌ 写入文件时出错：{e}")
+
+def run_program_generator():
+    """执行节目列表生成主流程"""
+    print("\n" + "="*60)
+    print("开始执行节目列表生成任务...")
+    print("="*60)
+    
+    # 1. 读取IP端口
+    print(f"\n1. 读取IP端口文件：{VALID_IP_FILE}")
+    ip_ports = read_ip_ports(VALID_IP_FILE)
+    print(f"   读取到 {len(ip_ports)} 个有效IP端口")
+    
+    # 2. 读取节目模板
+    print(f"\n2. 读取节目模板文件：{TEMPLATE_FILE}")
+    program_templates = read_program_templates(TEMPLATE_FILE)
+    print(f"   读取到 {len(program_templates)} 个不同名称的节目模板")
+    
+    # 3. 生成分类节目列表
+    print(f"\n3. 生成分类节目列表文件：{OUTPUT_FILE}")
+    generate_categorized_list(ip_ports, program_templates, OUTPUT_FILE)
+    print("\n节目列表生成任务完成！")
+
+# ===================== 主流程：整合扫描和生成任务 =====================
+def main():
+    """主执行流程：扫描IP → 等待10秒 → 生成节目列表"""
+    # 第一步：执行IP扫描
+    scan_success = run_ip_scan()
+    
+    if not scan_success:
+        print("\n❌ IP扫描任务失败，无法继续生成节目列表")
+        input("\n按回车退出...")
+        return
+    
+    # 第二步：等待10秒
+    print("\n" + "="*60)
+    print("IP扫描完成，等待10秒后开始生成节目列表...")
+    for i in range(10, 0, -1):
+        print(f"   倒计时：{i}秒", end="\r")
+        sleep(1)
+    print("\n" + "="*60)
+    
+    # 第三步：执行节目列表生成
+    run_program_generator()
+    
+    input("\n所有任务执行完成！按回车退出...")
+
+if __name__ == "__main__":
+    main()
