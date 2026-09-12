@@ -1,0 +1,251 @@
+Microsoft Windows [版本 10.0.17763.1339]
+(c) 2018 Microsoft Corporation。保留所有权利。
+
+C:\Windows\system32>cd /d C:\CCTV_Viewer\CCTV_Viewer-master
+
+C:\CCTV_Viewer\CCTV_Viewer-master>node -e "const fs=require('fs');const s=fs.readFileSync('cctv1.html','utf8');const r=/<script[^>]*src=['\"][^'\"]+['\"][^>]*>/gi;let m,n=0;while((m=r.exec(s))){n++;console.log(n+': '+m[0])}console.log('TOTAL='+n)"
+[eval]:1
+const fs=require('fs');const s=fs.readFileSync('cctv1.html','utf8');const r=/<script[^>]*src=['"]['"]+['"][>]*;let m,n=0;while((m=r.exec(s))){n++;console.log(n+': '+m[0])}console.log('TOTAL='+n)
+                                                                            ^
+Unterminated regexp literal
+
+SyntaxError: Invalid regular expression: missing /
+    at makeContextifyScript (node:internal/vm:194:14)
+    at compileScript (node:internal/process/execution:422:10)
+    at evalTypeScript (node:internal/process/execution:294:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v26.8.1
+
+C:\CCTV_Viewer\CCTV_Viewer-master>node -e "const fs=require('fs');const s=fs.readFileSync('cctv1.html','utf8');for(const k of ['livePlayer','setH5Str','Fingerprint','getLivefingerprint','playerConfig','channel']){console.log('\n===== '+k+' =====');let p=0,n=0;while((p=s.indexOf(k,p))>=0){n++;console.log('POS='+p);console.log(s.slice(Math.max(0,p-1000),Math.min(s.length,p+2500)));p+=k.length}console.log('COUNT='+n)}"
+
+===== livePlayer =====
+POS=14588
+script">
+var url = window.location.href;
+var test_url = url.split("/");
+var new_test = test_url[4];
+var test_api = new_test.indexOf("cctv");
+
+if (test_api !=0){
+        new_test = 'cctv1';//epgid
+}
+        var itemid='jmgw_live1';//留言id
+        var zhiboliu='cctv1';//直播流和epjid一致
+        var rel_url='cctv1';
+
+</script>
+<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>
+<!--<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1567091909687313/h5_live_index.js"></script>-->
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1567091909687313/h5_shield.js"></script>
+<link href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1567091909687313/zhibo_shoucang.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1567091909687313/zhibo_shoucang.js"></script>
+<script type="text/javascript">
+
+
+
+        $("input").focus(function(){
+                livePlayerObjs["player"].isPlayOrPauseByKeyup = false
+        }).blur(function(){
+                livePlayerObjs["player"].isPlayOrPauseByKeyup = true
+        })
+
+</script><div class="column_wrapper">
+
+                <div id="SUBD1698128495141313" data-spm="S41313">
+
+
+
+
+<div class="zhibo19629_galaxy01" data-spm= "ERUc44LDHiKi">
+
+        <a href="https://vip.sports.cctv.com/" target="_blank">
+
+
+<img src="//p3.img.cctvpic.com/photoAlbum/templet/special/PAGEztNyoigrNNrbbNV8eNiD230906/ELMTRUc44LDHiKiWEcTDpenf230906_1789025741.png"/>
+
+</a>
+</div>
+
+
+
+
+                </div>
+
+</div>
+<div class="vspace" style="height: 40px;"></div><div class="column_wrapper">
+
+                <div id="SUBD1698128495141316" data-spm="S41316">
+
+                </div>
+
+</div>
+<div class="vspace" style="height: 22px;"></div><div class="column_wrapper">
+
+                <div id="SUBD1698128495141319" data-spm="S41319">
+                        <div class="zhibo19629_ind04" data-spm= "ET9XxsFfom5j">
+        <div class="textTab">
+                <div class="left">
+                        <h3>热门栏目</h3>
+                </div>
+                <div class="right"><span class="sx"><i></i><b>换一换</b></span></div>
+                <div class="clear"></div>
+        </div>
+        <div class="list">
+                <ul>
+                        <li>
+                                <div class="image">
+                                        <a href="https://tv.cctv.com/lm/xwlb/index.shtml" target="_blank">
+                                                <img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2023/10/24/1698129583431_342.jpg" alt="">
+                                        </a>
+                                </div>
+                                <div class="title"><a href="https://tv.cctv.com/lm/xwlb/index.shtml" target="_blank">新 闻联播</a></div>
+                        </li><li>
+                                <div class="image">
+                                        <a href="https://tv.cctv.com/lm/jrsf/index.shtml" target="_blank">
+                                                <img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2023/10/24/1698129562654_570.jpg"   alt="">
+                                        </a>
+                                </div>
+                                <div class="title">
+                                        <a href="https://tv.cctv.com/lm/jrsf/index.shtml" target="_blank">今日说法</a>
+                                </div>
+                        </li><li>
+                                <div class="image">
+                                        <a href="https://tv.cctv.com/lm/kjl/index.shtml" target="_blank">
+                                                <img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2023/10/24/1698129554684_440.jpg" alt="">
+                                        </a>
+                                </div>
+                                <div class="title">
+                                        <a href="https://tv.cctv.com/lm/kjl/index.shtml" target="_blank">开讲啦</a>
+                                </div>
+                        </li><li>
+                                <div class="image">
+                                        <a href="https://tv.cctv.com/lm/wjxw/index.shtml" target="_blank">
+                                                <img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2023/10/24/1698129524319_58.jpg"  alt="">
+                                        </a>
+                                </div>
+                                <div class="title">
+                                        <a href="
+POS=14667
+new_test = test_url[4];
+var test_api = new_test.indexOf("cctv");
+
+if (test_api !=0){
+        new_test = 'cctv1';//epgid
+}
+        var itemid='jmgw_live1';//留言id
+        var zhiboliu='cctv1';//直播流和epjid一致
+        var rel_url='cctv1';
+
+</script>
+<script type="text/javascript" src="//www.cctv.com/js/cntv_Advertise.js"></script>
+<!--<script type="text/javascript" src="//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1567091909687313/h5_live_index.js"></script>-->
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1567091909687313/h5_shield.js"></script>
+<link href="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1567091909687313/zhibo_shoucang.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="//r.img.cctvpic.com/photoAlbum/templet/common/DEPA1567091909687313/zhibo_shoucang.js"></script>
+<script type="text/javascript">
+
+
+
+        $("input").focus(function(){
+                livePlayerObjs["player"].isPlayOrPauseByKeyup = false
+        }).blur(function(){
+                livePlayerObjs["player"].isPlayOrPauseByKeyup = true
+        })
+
+</script><div class="column_wrapper">
+
+                <div id="SUBD1698128495141313" data-spm="S41313">
+
+
+
+
+<div class="zhibo19629_galaxy01" data-spm= "ERUc44LDHiKi">
+
+        <a href="https://vip.sports.cctv.com/" target="_blank">
+
+
+<img src="//p3.img.cctvpic.com/photoAlbum/templet/special/PAGEztNyoigrNNrbbNV8eNiD230906/ELMTRUc44LDHiKiWEcTDpenf230906_1789025741.png"/>
+
+</a>
+</div>
+
+
+
+
+                </div>
+
+</div>
+<div class="vspace" style="height: 40px;"></div><div class="column_wrapper">
+
+                <div id="SUBD1698128495141316" data-spm="S41316">
+
+                </div>
+
+</div>
+<div class="vspace" style="height: 22px;"></div><div class="column_wrapper">
+
+                <div id="SUBD1698128495141319" data-spm="S41319">
+                        <div class="zhibo19629_ind04" data-spm= "ET9XxsFfom5j">
+        <div class="textTab">
+                <div class="left">
+                        <h3>热门栏目</h3>
+                </div>
+                <div class="right"><span class="sx"><i></i><b>换一换</b></span></div>
+                <div class="clear"></div>
+        </div>
+        <div class="list">
+                <ul>
+                        <li>
+                                <div class="image">
+                                        <a href="https://tv.cctv.com/lm/xwlb/index.shtml" target="_blank">
+                                                <img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2023/10/24/1698129583431_342.jpg" alt="">
+                                        </a>
+                                </div>
+                                <div class="title"><a href="https://tv.cctv.com/lm/xwlb/index.shtml" target="_blank">新 闻联播</a></div>
+                        </li><li>
+                                <div class="image">
+                                        <a href="https://tv.cctv.com/lm/jrsf/index.shtml" target="_blank">
+                                                <img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2023/10/24/1698129562654_570.jpg"   alt="">
+                                        </a>
+                                </div>
+                                <div class="title">
+                                        <a href="https://tv.cctv.com/lm/jrsf/index.shtml" target="_blank">今日说法</a>
+                                </div>
+                        </li><li>
+                                <div class="image">
+                                        <a href="https://tv.cctv.com/lm/kjl/index.shtml" target="_blank">
+                                                <img src="//p3.img.cctvpic.com/photoAlbum/page/performance/img/2023/10/24/1698129554684_440.jpg" alt="">
+                                        </a>
+                                </div>
+                                <div class="title">
+                                        <a href="https://tv.cctv.com/lm/kjl/index.shtml" target="_blank">开讲啦</a>
+                                </div>
+                        </li><li>
+                                <div class="image">
+                                        <a href="https://tv.cctv.com/lm/wjxw/index.shtml" target="_blank">
+                                                <img src="//p4.img.cctvpic.com/photoAlbum/page/performance/img/2023/10/24/1698129524319_58.jpg"  alt="">
+                                        </a>
+                                </div>
+                                <div class="title">
+                                        <a href="https://tv.cctv.com/lm/wjxw/index.shtml" target="_blank">晚间新闻</a>
+                                </div>
+
+COUNT=2
+
+===== setH5Str =====
+COUNT=0
+
+===== Fingerprint =====
+COUNT=0
+
+===== getLivefingerprint =====
+COUNT=0
+
+===== playerConfig =====
+COUNT=0
+
+===== channel =====
+COUNT=0
+
+C:\CCTV_Viewer\CCTV_Viewer-master>
