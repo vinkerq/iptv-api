@@ -1,5 +1,5 @@
 汕头频道,#genre#
-cctv测试,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-4000
+cctv测试,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100
 cctv测试2,https://ldncctvwbcdbd.a.bdydns.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?BR=td
 汕头,http://183.10.180.93:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
 汕头,http://183.10.180.168:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
