@@ -1,4 +1,5 @@
 汕头频道,#genre#
+web测试,webview2://https://m.huya.com/11342412
 汕头,http://183.10.180.122:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
 汕头,http://183.10.180.124:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
 汕头,http://183.10.180.121:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
