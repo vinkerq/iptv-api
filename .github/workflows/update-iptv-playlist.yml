@@ -2,8 +2,8 @@ name: Update IPTV files every 9 hours
 
 on:
   schedule:
-    # A nine-hour cycle crosses midnight; run every third three-hour check.
-    - cron: '17 */3 * * *'
+    # Run every 9 hours: 00:17, 09:17, 18:17 UTC
+    - cron: '17 0,9,18 * * *'
   workflow_dispatch:
 
 permissions:
@@ -16,41 +16,86 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           persist-credentials: true
-      - name: Check nine-hour interval
-        id: interval
-        run: |
-          if [[ "${{ github.event_name }}" == 'workflow_dispatch' || $(( $(date -u +%s) / 3600 % 9 )) -eq 0 ]]; then
-            echo 'run=true' >> "$GITHUB_OUTPUT"
-          fi
-      - name: Fetch and convert playlist
-        if: steps.interval.outputs.run == 'true'
+
+      - name: Download IPTV TXT
         shell: bash
         run: |
           set -euo pipefail
-          curl --fail --location --retry 3 --connect-timeout 15 --max-time 120 \
-            'http://103.236.77.86:35455/iptv4.txt' -o /tmp/iptv4.txt
-          curl --fail --location --retry 3 --connect-timeout 15 --max-time 120 \
-            'http://103.236.77.86:35455/iptv4.m3u' -o /tmp/iptv4.m3u
-          test -s /tmp/iptv4.txt
-          test -s /tmp/iptv4.m3u
-          grep -q '#EXTM3U' /tmp/iptv4.m3u
-          cp /tmp/iptv4.txt iptv.txt
-          cp /tmp/iptv4.txt iptv4.txt
-          cp /tmp/iptv4.m3u iptv4.m3u
-      - name: Commit changed files
-        if: steps.interval.outputs.run == 'true'
+
+          curl --fail --location \
+            --retry 5 \
+            --retry-delay 5 \
+            --connect-timeout 15 \
+            --max-time 120 \
+            'http://103.236.77.86:35455/iptv4.txt' \
+            -o iptv4.txt
+
+          test -s iptv4.txt
+
+          echo "iptv4.txt downloaded successfully:"
+          wc -c iptv4.txt
+
+      - name: Download IPTV M3U
+        shell: bash
         run: |
           set -euo pipefail
+
+          curl --fail --location \
+            --retry 5 \
+            --retry-delay 5 \
+            --connect-timeout 15 \
+            --max-time 120 \
+            'http://103.236.77.86:35455/iptv4.m3u' \
+            -o iptv4.m3u
+
+          test -s iptv4.m3u
+          grep -q '#EXTM3U' iptv4.m3u
+
+          echo "iptv4.m3u downloaded successfully:"
+          wc -c iptv4.m3u
+
+      - name: Update iptv.txt
+        shell: bash
+        run: |
+          cp iptv4.txt iptv.txt
+
+      - name: Check updated files
+        shell: bash
+        run: |
+          echo "===== FILES ====="
+          ls -lh iptv.txt iptv4.txt iptv4.m3u
+
+          echo
+          echo "===== iptv.txt ====="
+          head -n 5 iptv.txt
+
+          echo
+          echo "===== iptv4.m3u ====="
+          head -n 5 iptv4.m3u
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          set -euo pipefail
+
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
           git add iptv.txt iptv4.txt iptv4.m3u
+
           if git diff --cached --quiet; then
-            echo 'Playlist unchanged'
+            echo "Playlist unchanged."
             exit 0
           fi
-          git commit -m 'Update IPTV playlist'
+
+          git diff --cached --stat
+
+          git commit -m "Update IPTV playlist"
+
           git push
