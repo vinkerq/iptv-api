@@ -1,0 +1,1 @@
+package android.webkit; import android.content.Context; public class WebView { public WebView(Context a) {} public WebSettings getSettings(){return new WebSettings();} public void setWebViewClient(WebViewClient v){} public void loadDataWithBaseURL(String u,String d,String m,String e,String h){} public void destroy(){} public boolean postDelayed(Runnable r,long ms){return true;} }
