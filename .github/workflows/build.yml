@@ -1,0 +1,35 @@
+name: Build QuarkSearch Android DEX JAR
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'src/**'
+      - 'tools/**'
+      - 'scripts/**'
+      - '.github/workflows/build.yml'
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: android-actions/setup-android@v3
+      - name: Install Android platform and D8
+        run: sdkmanager --install 'platforms;android-35' 'build-tools;35.0.0'
+      - name: Build Android DEX JAR
+        run: bash scripts/build_android_jar.sh
+      - name: Check JAR format
+        run: |
+          unzip -l dist/QuarkSearch.jar
+          unzip -p dist/QuarkSearch.jar classes.dex | head -c 8 | od -An -tc
+          sha256sum dist/QuarkSearch.jar | tee dist/QuarkSearch.jar.sha256
+      - uses: actions/upload-artifact@v4
+        with:
+          name: QuarkSearch-Android-DEX-JAR
+          path: dist/
+          if-no-files-found: error
